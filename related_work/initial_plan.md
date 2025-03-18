@@ -20,7 +20,7 @@
 ### 🔗 Integration techniques of KGs
 
 - Three types of integration techniques:
-  ![alt text](image-2.png)
+  ![alt text](img/image-2.png)
 - We will likely use the first post-training enchancement.
 
 - Different represntations of KGs:
@@ -33,7 +33,7 @@
 
   - The image represents different embeddings and their usage over time.
   - From all of the methods TransE is only knowledge graph embedding and the other are general embeddings.
-    ![alt text](image-3.png)
+    ![alt text](img/image-3.png)
 
 - `Attention-Based fusion techniques`: Include the attention mechanism in two ways: 1. different weights for the text and KG or 2. different weights for the nodes within the KGs
 
@@ -62,7 +62,7 @@
 
 - [KG-BERT: BERT for Knowledge Graph Completion
   ](https://arxiv.org/pdf/1909.03193) Explained how BERT is fine-tuned for knlowedge graph prediction, not directly related to our topic. We can use the following KGs benchmark datasets, as used in this paper:
-  ![alt text](image-5.png)
+  ![alt text](img/image-5.png)
 
 - [DRAGON Deep Bidirectional Language-Knowledge Graph Pretraining:](https://arxiv.org/pdf/2210.09338)
 
