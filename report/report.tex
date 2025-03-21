@@ -20,6 +20,8 @@
 %----------------------------------------------------------------------------------------
 \documentclass[fleqn,moreauthors,10pt]{ds_report}
 \usepackage[english]{babel}
+\usepackage{xcolor}
+\definecolor{blue}{RGB}{0,0,139}
 
 \graphicspath{{fig/}}
 
@@ -47,7 +49,7 @@
 \affiliation{\textit{Advisors: Slavko Žitnik}}
 
 % Keywords
-\Keywords{Keyword1, Keyword2, Keyword3 ...}
+\Keywords{Largle Language Models, Knowledge Graphs, Question Answering, Reasoning}
 \newcommand{\keywordname}{Keywords}
 
 
@@ -56,7 +58,8 @@
 %----------------------------------------------------------------------------------------
 
 \Abstract{
-The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here.
+Large Language Models (LLMs) have demonstrated significant success in natural language processing tasks but still face challenges, one of which is handling complex question answering. This project explores methods to integrate structured knowledge, in form of knowledge graphs (KGs), into LLMs to enhance their performance. We aim to evaluate different techniques for integrating KGs. The ultimate goal is to assess whether the inclusion of structured knowledge can address the existing limitations of LLMs, and improve their reasoning capabilities. 
+
 }
 
 %----------------------------------------------------------------------------------------
@@ -68,7 +71,6 @@ The abstract goes here. The abstract goes here. The abstract goes here. The abst
 
 % Print the title and abstract box
 \maketitle 
-
 % Removes page numbering from the first page
 \thispagestyle{empty} 
 
@@ -77,154 +79,108 @@ The abstract goes here. The abstract goes here. The abstract goes here. The abst
 %----------------------------------------------------------------------------------------
 
 \section*{Introduction}
-In recent years, Large Language Models (LLMs) have demonstrated remarkable abilities to understand and produce human-like text. However, despite their impressive performance, these models often struggle with tasks that require deep, structured knowledge, such as answering complex questions that rely on precise factual reasoning. Knowledge Graphs (KGs), with their structured representation of entities and relationships, offer a promising solution to this limitation. By integrating the rich, explicit knowledge contained in KGs into LLMs, we can potentially enhance their ability to reason, infer and provide accurate answers to complex queries.
 
-This project aims to explore advanced techniques for integrating structured knowledge in the form of knowledge graphs into LLMs. The primary objective is to evaluate and compare different methods for incorporating KGs, and to assess their effectiveness in improving model performance in complex question-answering tasks. Through this research, we aim to bridge the gap between unstructured textual data and structured knowledge, paving the way for more robust, knowledge-aware language models capable of handling real-world challenges with greater accuracy and reliability.
+
+Despite advances in text generation by LLMs, they struggle with complex reasoning and fact recall. One approach to overcoming these limitations is integrating Knowledge Graphs (KGs), which provide structured representations of entities and relationships.  
+
+Our project explores methods to incorporate KGs into LLMs by pairing questions with relevant KGs, bridging the gap between unstructured text and structured knowledge, enabling LLMs to access and utilize detailed information for advanced reasoning and accurate conclusions.
+
+By using both textual and structural elements of KGs, we aim to improve the accuracy of LLMs in complex question-answering scenarios.
+
+
+
 
 %------------------------------------------------
+\section*{Related Work}
+Recent research has explored multiple ways to integrate KGs into LLMs to better reasoning and improve task performance. Tang et al. (2024) introduced GraphGPT \cite{tang2024graphgpt}, which pairs LLMs with graph structures, aligning closely with our goal of improving question answering through KG integration. Kau et al. (2024) examined how KGs can mitigate issues like hallucinations in LLMs \cite{kau2024combining}, which is relevant to our focus on improving factual accuracy. Yao et al. (2019) developed KG-BERT for knowledge graph completion \cite{yao2019kg}, inspiring our use of graph embeddings in LLMs for better performance in complex reasoning tasks. Yasunaga et al. (2022) proposed DRAGON, a model that fuses text and KG during pretraining \cite{yasunaga2022deep}, which relates to our aim of combining textual and structural elements of KGs to enhance LLM capabilities. Kang et al. (2023) presented SURGE for knowledge-grounded dialogue \cite{kang2023knowledge}, which aligns with our goal of ensuring that KGs improve LLMs factual accuracy in more complex tasks. And in the end Wang et al. (2017) surveyed KG embedding techniques \cite{wang2017knowledge}, providing the basis for our exploration of graph embeddings like TransE and node2vec to better LLM performance. These studies together inform our methodology for integrating KGs into LLMs to improve their reasoning and accuracy in complex question answering.
+\section*{Representation and Integration of KGs}
 
-\section*{Methods}
-
-Use the Methods section to describe what you did an how you did it -- in what way did you prepare the data, what algorithms did you use, how did you test various solutions ... Provide all the required details for a reproduction of your work.
-
-Below are \LaTeX examples of some common elements that you will probably need when writing your report (e.g. figures, equations, lists, code examples ...).
+KGs and LLMs can be integrated in two ways: KG-enhanced LLMs, where knowledge graphs improve the responses of large language models, and LLM-enhanced KGs, where language models enhance the representation of knowledge graphs \cite{Pan2024UnifyingLLMKG}. In our project, we will focus on the first approach—KG-enhanced LLMs, or integration of KGs in LLMs.
 
 
-\subsection*{Equations}
 
-You can write equations inline, e.g. $\cos\pi=-1$, $E = m \cdot c^2$ and $\alpha$, or you can include them as separate objects. The Bayes’s rule is stated mathematically as:
+ 
+ KGs can be integrated into LLMs at different stages on model's development. Based on when the integration occurs, we can distinguish between two types of KG enhancement.  
 
-\begin{equation}
-	P(A|B) = \frac{P(B|A)P(A)}{P(B)},
-	\label{eq:bayes}
-\end{equation}
 
-where $A$ and $B$ are some events. You can also reference it -- the equation \ref{eq:bayes} describes the Bayes's rule.
-
-\subsection*{Lists}
-
-We can insert numbered and bullet lists:
-
-% the [noitemsep] option makes the list more compact
-\begin{enumerate}[noitemsep] 
-	\item First item in the list.
-	\item Second item in the list.
-	\item Third item in the list.
+\begin{enumerate}
+    \item During-training enhancement: KGs are integrated into the model’s training process, modifying the model's architecture to recognize this structured information.
+    \item Post-training enhancement: After the model has been trained, KGs are used to refine the performance by providing additional information through the prompt itself.
 \end{enumerate}
 
-\begin{itemize}[noitemsep] 
-	\item First item in the list.
-	\item Second item in the list.
-	\item Third item in the list.
-\end{itemize}
-
-We can use the description environment to define or describe key terms and phrases.
-
-\begin{description}
-	\item[Word] What is a word?.
-	\item[Concept] What is a concept?
-	\item[Idea] What is an idea?
-\end{description}
 
 
-\subsection*{Random text}
-
-This text is inserted only to make this template look more like a proper report. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit dictum facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam convallis tellus velit, quis ornare ipsum aliquam id. Maecenas tempus mauris sit amet libero elementum eleifend. Nulla nunc orci, consectetur non consequat ac, consequat non nisl. Aenean vitae dui nec ex fringilla malesuada. Proin elit libero, faucibus eget neque quis, condimentum laoreet urna. Etiam at nunc quis felis pulvinar dignissim. Phasellus turpis turpis, vestibulum eget imperdiet in, molestie eget neque. Curabitur quis ante sed nunc varius dictum non quis nisl. Donec nec lobortis velit. Ut cursus, libero efficitur dictum imperdiet, odio mi fermentum dui, id vulputate metus velit sit amet risus. Nulla vel volutpat elit. Mauris ex erat, pulvinar ac accumsan sit amet, ultrices sit amet turpis.
-
-Phasellus in ligula nunc. Vivamus sem lorem, malesuada sed pretium quis, varius convallis lectus. Quisque in risus nec lectus lobortis gravida non a sem. Quisque et vestibulum sem, vel mollis dolor. Nullam ante ex, scelerisque ac efficitur vel, rhoncus quis lectus. Pellentesque scelerisque efficitur purus in faucibus. Maecenas vestibulum vulputate nisl sed vestibulum. Nullam varius turpis in hendrerit posuere.
-
-
-\subsection*{Figures}
-
-You can insert figures that span over the whole page, or over just a single column. The first one, \figurename~\ref{fig:column}, is an example of a figure that spans only across one of the two columns in the report.
-
-\begin{figure}[ht]\centering
-	\includegraphics[width=\linewidth]{single_column.pdf}
-	\caption{\textbf{A random visualization.} This is an example of a figure that spans only across one of the two columns.}
-	\label{fig:column}
-\end{figure}
-
-On the other hand, \figurename~\ref{fig:whole} is an example of a figure that spans across the whole page (across both columns) of the report.
-
-% \begin{figure*} makes the figure take up the entire width of the page
-\begin{figure*}[ht]\centering 
-	\includegraphics[width=\linewidth]{whole_page.pdf}
-	\caption{\textbf{Visualization of a Bayesian hierarchical model.} This is an example of a figure that spans the whole width of the report.}
-	\label{fig:whole}
-\end{figure*}
+Additionally, Knowledge Graphs can be classified based on the type of knowledge they represent:
+ \begin{enumerate}
+     \item Encyclopedic KGs – These KGs store broad real-world knowledge, providing general information. Examples include Wikidata, NELL, DBpedia.
+     \item Commonsense KGs – which capture logical relationships from everyday life. Examples are: ConceptNet, ATOMIC. 
+     \item Domain-Specific KGs – Focus on specialized fields like medicine or finance. One example is UMSL which is used in the mdecial field. 
+     \item Multimodal KGs – Combine structured data with multiple sources, such as images and text. IMGpedia is an example of such.
+ \end{enumerate}
+ 
 
 
-\subsection*{Tables}
-
-Use the table environment to insert tables.
-
-\begin{table}[hbt]
-	\caption{Table of grades.}
-	\centering
-	\begin{tabular}{l l | r}
-		\toprule
-		\multicolumn{2}{c}{Name} \\
-		\cmidrule(r){1-2}
-		First name & Last Name & Grade \\
-		\midrule
-		John & Doe & $7.5$ \\
-		Jane & Doe & $10$ \\
-		Mike & Smith & $8$ \\
-		\bottomrule
-	\end{tabular}
-	\label{tab:label}
-\end{table}
 
 
-\subsection*{Code examples}
 
-You can also insert short code examples. You can specify them manually, or insert a whole file with code. Please avoid inserting long code snippets, advisors will have access to your repositories and can take a look at your code there. If necessary, you can use this technique to insert code (or pseudo code) of short algorithms that are crucial for the understanding of the manuscript.
+\section*{Methodology}
 
-\lstset{language=Python}
-\lstset{caption={Insert code directly from a file.}}
-\lstset{label={lst:code_file}}
-\lstinputlisting[language=Python]{code/example.py}
+In the following section, we will introduce our primary plan on how we aim to approach this project.
+There are four key questions we need to answer: Which integration techniques will be applied, which LLMs will be used as baselines, how will the evaluation dataset be created, and how will the evaluation be performed.
 
-\lstset{language=R}
-\lstset{caption={Write the code you want to insert.}}
-\lstset{label={lst:code_direct}}
-\begin{lstlisting}
-import(dplyr)
-import(ggplot)
+\subsection*{Knowledge Graph Integration Techniques}
 
-ggplot(diamonds,
-	   aes(x=carat, y=price, color=cut)) +
-  geom_point() +
-  geom_smooth()
-\end{lstlisting}
+
+In our implementation, our main focus will be on during-training enhancement, as we expect it to yield better performance. To achieve this, we will experiment with different graph embeddings such as TransE, LapEigen, node2vec, and DeepWalk, and analyze their performance.
+We will explore integrating attention-based fusion techniques, where the model uses its attention mechanism to focus on the most relevant parts of the knowledge graph, allowing it to dynamically combine structured knowledge with textual data for improved predictions
+
+\subsection*{Baseline LLMs}
+
+
+As baselines we will use already pretrained models like GPT, BERT, T-5 available online. 
+
+\subsection*{Evaluation Dataset}
+
+For the final work, we plan to use Slovenian linguistic data from the "Slovenian Digital Dictionary Database". As we do not have access to this data yet, our starting point will be datasets that contain complex questions \cite{talmor2018web},\cite{zhang2017variational}, which require different levels of reasoning. For example: 
+\begin{enumerate}
+    \item one-hoop: What movies are about [George Pal]? - 
+    \item two-hoop: What movies are about [a director who won an Oscar]? (two-hop)
+    \item three-hoop: Which person wrote the films directed by the director of [Four Brothers]? 
+\end{enumerate}
+
+
+
+Questions will be paired with a relevant knowledge graphs extracted from sources that provide structured data, such as DBpedia, Wikidata or similar databases. 
+Additionally, we will explore how to pair multiple knowledge graphs and what makes a well-structured knowledge graph.
+
+
+
+\subsection*{Performance Evaluation}
+
+Performance evaluation will be done from several aspects. First, we’ll check if the answers are correct and relevant. Then, we’ll assess how well the model handles questions of different complexity, especially those requiring multi-step reasoning. We’ll also measure response time to see how quickly the model generates answers. Finally, we’ll evaluate how well the model uses structured data from knowledge graphs to improve its answers.
+
 
 %------------------------------------------------
 
-\section*{Results}
+%\section*{Results}
 
-Use the results section to present the final results of your work. Present the results in a objective and scientific fashion. Use visualisations to convey your results in a clear and efficient manner. When comparing results between various techniques use appropriate statistical methodology.
+%se the results section to present the final results of your work. Present the results in a objective and scientific fashion. Use visualisations to convey your results in a clear and efficient manner. When comparing results between various techniques use appropriate statistical methodology.
 
-\subsection*{More random text}
 
-This text is inserted only to make this template look more like a proper report. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit dictum facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam convallis tellus velit, quis ornare ipsum aliquam id. Maecenas tempus mauris sit amet libero elementum eleifend. Nulla nunc orci, consectetur non consequat ac, consequat non nisl. Aenean vitae dui nec ex fringilla malesuada. Proin elit libero, faucibus eget neque quis, condimentum laoreet urna. Etiam at nunc quis felis pulvinar dignissim. Phasellus turpis turpis, vestibulum eget imperdiet in, molestie eget neque. Curabitur quis ante sed nunc varius dictum non quis nisl. Donec nec lobortis velit. Ut cursus, libero efficitur dictum imperdiet, odio mi fermentum dui, id vulputate metus velit sit amet risus. Nulla vel volutpat elit. Mauris ex erat, pulvinar ac accumsan sit amet, ultrices sit amet turpis.
 
-Phasellus in ligula nunc. Vivamus sem lorem, malesuada sed pretium quis, varius convallis lectus. Quisque in risus nec lectus lobortis gravida non a sem. Quisque et vestibulum sem, vel mollis dolor. Nullam ante ex, scelerisque ac efficitur vel, rhoncus quis lectus. Pellentesque scelerisque efficitur purus in faucibus. Maecenas vestibulum vulputate nisl sed vestibulum. Nullam varius turpis in hendrerit posuere.
-
-Nulla rhoncus tortor eget ipsum commodo lacinia sit amet eu urna. Cras maximus leo mauris, ac congue eros sollicitudin ac. Integer vel erat varius, scelerisque orci eu, tristique purus. Proin id leo quis ante pharetra suscipit et non magna. Morbi in volutpat erat. Vivamus sit amet libero eu lacus pulvinar pharetra sed at felis. Vivamus non nibh a orci viverra rhoncus sit amet ullamcorper sem. Ut nec tempor dui. Aliquam convallis vitae nisi ac volutpat. Nam accumsan, erat eget faucibus commodo, ligula dui cursus nisi, at laoreet odio augue id eros. Curabitur quis tellus eget nunc ornare auctor.
 
 
 %------------------------------------------------
 
 \section*{Discussion}
+We acknowledge that some aspects of the methodology may not be fully accurate at this stage, as our focus has been primarily on theoretical understanding. Through implementation, we expect to gain further insights and be able to provide a more detailed and refined explanation.
 
-Use the Discussion section to objectively evaluate your work, do not just put praise on everything you did, be critical and exposes flaws and weaknesses of your solution. You can also explain what you would do differently if you would be able to start again and what upgrades could be done on the project in the future.
 
 
 %------------------------------------------------
 
-\section*{Acknowledgments}
+% \section*{Acknowledgments}
 
-Here you can thank other persons (advisors, colleagues ...) that contributed to the successful completion of your project.
 
 
 %----------------------------------------------------------------------------------------

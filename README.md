@@ -36,5 +36,6 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   https://github.com/UL-FRI-NLP-Course/ul-fri-nlp-course-project-2024-2025-triolingual
+   git clone https://github.com/UL-FRI-NLP-Course/ul-fri-nlp-course-project-2024-2025-triolingual
+   
 
