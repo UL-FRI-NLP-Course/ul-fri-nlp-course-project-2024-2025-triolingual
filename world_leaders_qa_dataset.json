@@ -1,0 +1,1645 @@
+[
+  {
+    "question": "Who currently holds the position of http://www.wikidata.org/prop/direct/p35 in Bosnia and Herzegovina?",
+    "answer": "\u017deljka Cvijanovi\u0107",
+    "leader_id": "Q5528031",
+    "country": "Bosnia and Herzegovina",
+    "country_id": "Q225",
+    "position": "http://www.wikidata.org/prop/direct/P35",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q5528031",
+          "label": {
+            "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C5%BDeljka%20Cvijanovi%C4%87%202024%20%28cropped%29.jpg",
+            "Commons category": "\u017deljka Cvijanovi\u0107",
+            "date of birth": "1967-03-04T00:00:00Z",
+            "Freebase ID": "/m/0r8nyll"
+          }
+        },
+        {
+          "id": "Q180753",
+          "label": "Tesli\u0107"
+        },
+        {
+          "id": "Q6581072",
+          "label": "female"
+        },
+        {
+          "id": "Q225",
+          "label": "Bosnia and Herzegovina"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q848335",
+          "label": "Chairman of the Presidency of Bosnia and Herzegovina"
+        },
+        {
+          "id": "Q6594693",
+          "label": "President of Republika Srpska"
+        },
+        {
+          "id": "Q108822438",
+          "label": "Prime Minister of Republika Srpska"
+        },
+        {
+          "id": "Q109646831",
+          "label": "Serb member of the Presidency of Bosnia and Herzegovina"
+        },
+        {
+          "id": "Q12757697",
+          "label": "Q12757697"
+        },
+        {
+          "id": "Q16087964",
+          "label": "Q16087964"
+        },
+        {
+          "id": "Q1258283",
+          "label": "Alliance of Independent Social Democrats"
+        },
+        {
+          "id": "Q82955",
+          "label": "politician"
+        },
+        {
+          "id": "Q188814",
+          "label": "Serbian Orthodox Church"
+        },
+        {
+          "id": "Q16865067",
+          "label": "Cvijanovi\u0107"
+        },
+        {
+          "id": "Q26903146",
+          "label": "\u017deljka"
+        },
+        {
+          "id": "Q9299",
+          "label": "Serbian"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q5528031",
+          "target": "Q180753",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q5528031",
+          "target": "Q6581072",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q5528031",
+          "target": "Q225",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q5528031",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q5528031",
+          "target": "Q848335",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q5528031",
+          "target": "Q6594693",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q5528031",
+          "target": "Q108822438",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q5528031",
+          "target": "Q109646831",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q5528031",
+          "target": "Q12757697",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q5528031",
+          "target": "Q16087964",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q5528031",
+          "target": "Q1258283",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q5528031",
+          "target": "Q82955",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q5528031",
+          "target": "Q188814",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q5528031",
+          "target": "Q16865067",
+          "relation": "family name",
+          "relation_id": "P734"
+        },
+        {
+          "source": "Q5528031",
+          "target": "Q26903146",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q5528031",
+          "target": "Q9299",
+          "relation": "languages spoken, written or signed",
+          "relation_id": "P1412"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q5528031",
+        "P18",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/%C5%BDeljka%20Cvijanovi%C4%87%202024%20%28cropped%29.jpg",
+        "image",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/%C5%BDeljka%20Cvijanovi%C4%87%202024%20%28cropped%29.jpg"
+      ],
+      [
+        "Q5528031",
+        "P19",
+        "http://www.wikidata.org/entity/Q180753",
+        "place of birth",
+        "Tesli\u0107"
+      ],
+      [
+        "Q5528031",
+        "P21",
+        "http://www.wikidata.org/entity/Q6581072",
+        "sex or gender",
+        "female"
+      ],
+      [
+        "Q5528031",
+        "P27",
+        "http://www.wikidata.org/entity/Q225",
+        "country of citizenship",
+        "Bosnia and Herzegovina"
+      ],
+      [
+        "Q5528031",
+        "P31",
+        "http://www.wikidata.org/entity/Q5",
+        "instance of",
+        "human"
+      ],
+      [
+        "Q5528031",
+        "P39",
+        "http://www.wikidata.org/entity/Q848335",
+        "position held",
+        "Chairman of the Presidency of Bosnia and Herzegovina"
+      ],
+      [
+        "Q5528031",
+        "P39",
+        "http://www.wikidata.org/entity/Q6594693",
+        "position held",
+        "President of Republika Srpska"
+      ],
+      [
+        "Q5528031",
+        "P39",
+        "http://www.wikidata.org/entity/Q108822438",
+        "position held",
+        "Prime Minister of Republika Srpska"
+      ],
+      [
+        "Q5528031",
+        "P39",
+        "http://www.wikidata.org/entity/Q109646831",
+        "position held",
+        "Serb member of the Presidency of Bosnia and Herzegovina"
+      ],
+      [
+        "Q5528031",
+        "P69",
+        "http://www.wikidata.org/entity/Q12757697",
+        "educated at",
+        "Q12757697"
+      ],
+      [
+        "Q5528031",
+        "P69",
+        "http://www.wikidata.org/entity/Q16087964",
+        "educated at",
+        "Q16087964"
+      ],
+      [
+        "Q5528031",
+        "P102",
+        "http://www.wikidata.org/entity/Q1258283",
+        "member of political party",
+        "Alliance of Independent Social Democrats"
+      ],
+      [
+        "Q5528031",
+        "P106",
+        "http://www.wikidata.org/entity/Q82955",
+        "occupation",
+        "politician"
+      ],
+      [
+        "Q5528031",
+        "P140",
+        "http://www.wikidata.org/entity/Q188814",
+        "religion or worldview",
+        "Serbian Orthodox Church"
+      ],
+      [
+        "Q5528031",
+        "P373",
+        "\u017deljka Cvijanovi\u0107",
+        "Commons category",
+        "\u017deljka Cvijanovi\u0107"
+      ],
+      [
+        "Q5528031",
+        "P569",
+        "1967-03-04T00:00:00Z",
+        "date of birth",
+        "1967-03-04T00:00:00Z"
+      ],
+      [
+        "Q5528031",
+        "P646",
+        "/m/0r8nyll",
+        "Freebase ID",
+        "/m/0r8nyll"
+      ],
+      [
+        "Q5528031",
+        "P734",
+        "http://www.wikidata.org/entity/Q16865067",
+        "family name",
+        "Cvijanovi\u0107"
+      ],
+      [
+        "Q5528031",
+        "P735",
+        "http://www.wikidata.org/entity/Q26903146",
+        "given name",
+        "\u017deljka"
+      ],
+      [
+        "Q5528031",
+        "P1412",
+        "http://www.wikidata.org/entity/Q9299",
+        "languages spoken, written or signed",
+        "Serbian"
+      ]
+    ]
+  },
+  {
+    "question": "Who leads Italy as its http://www.wikidata.org/prop/direct/p35?",
+    "answer": "Sergio Mattarella",
+    "leader_id": "Q3956186",
+    "country": "Italy",
+    "country_id": "Q38",
+    "position": "http://www.wikidata.org/prop/direct/P35",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q3956186",
+          "label": {
+            "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sergio%20Mattarella%20Presidente%20della%20Repubblica%20Italiana.jpg"
+          }
+        },
+        {
+          "id": "Q2656",
+          "label": "Palermo"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q3638792",
+          "label": "Bernardo Mattarella"
+        },
+        {
+          "id": "Q18959978",
+          "label": "Maria Buccellato"
+        },
+        {
+          "id": "Q18921193",
+          "label": "Marisa Chiazzese"
+        },
+        {
+          "id": "Q38",
+          "label": "Italy"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q332711",
+          "label": "President of Italy"
+        },
+        {
+          "id": "Q18921228",
+          "label": "Bernardo Giorgio Mattarella"
+        },
+        {
+          "id": "Q34252497",
+          "label": "Laura Mattarella"
+        },
+        {
+          "id": "Q209344",
+          "label": "Sapienza University of Rome"
+        },
+        {
+          "id": "Q1641504",
+          "label": "University of Palermo"
+        },
+        {
+          "id": "Q7163",
+          "label": "politics"
+        },
+        {
+          "id": "Q7748",
+          "label": "law"
+        },
+        {
+          "id": "Q47729",
+          "label": "Democratic Party"
+        },
+        {
+          "id": "Q652",
+          "label": "Italian"
+        },
+        {
+          "id": "Q16533",
+          "label": "judge"
+        },
+        {
+          "id": "Q40348",
+          "label": "lawyer"
+        },
+        {
+          "id": "Q82955",
+          "label": "politician"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q3956186",
+          "target": "Q2656",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q3638792",
+          "relation": "father",
+          "relation_id": "P22"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q18959978",
+          "relation": "mother",
+          "relation_id": "P25"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q18921193",
+          "relation": "spouse",
+          "relation_id": "P26"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q38",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q332711",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q18921228",
+          "relation": "child",
+          "relation_id": "P40"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q34252497",
+          "relation": "child",
+          "relation_id": "P40"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q209344",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q1641504",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q7163",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q7748",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q47729",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q652",
+          "relation": "native language",
+          "relation_id": "P103"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q16533",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q40348",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q3956186",
+          "target": "Q82955",
+          "relation": "occupation",
+          "relation_id": "P106"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q3956186",
+        "P18",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Sergio%20Mattarella%20Presidente%20della%20Repubblica%20Italiana.jpg",
+        "image",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Sergio%20Mattarella%20Presidente%20della%20Repubblica%20Italiana.jpg"
+      ],
+      [
+        "Q3956186",
+        "P19",
+        "http://www.wikidata.org/entity/Q2656",
+        "place of birth",
+        "Palermo"
+      ],
+      [
+        "Q3956186",
+        "P21",
+        "http://www.wikidata.org/entity/Q6581097",
+        "sex or gender",
+        "male"
+      ],
+      [
+        "Q3956186",
+        "P22",
+        "http://www.wikidata.org/entity/Q3638792",
+        "father",
+        "Bernardo Mattarella"
+      ],
+      [
+        "Q3956186",
+        "P25",
+        "http://www.wikidata.org/entity/Q18959978",
+        "mother",
+        "Maria Buccellato"
+      ],
+      [
+        "Q3956186",
+        "P26",
+        "http://www.wikidata.org/entity/Q18921193",
+        "spouse",
+        "Marisa Chiazzese"
+      ],
+      [
+        "Q3956186",
+        "P27",
+        "http://www.wikidata.org/entity/Q38",
+        "country of citizenship",
+        "Italy"
+      ],
+      [
+        "Q3956186",
+        "P31",
+        "http://www.wikidata.org/entity/Q5",
+        "instance of",
+        "human"
+      ],
+      [
+        "Q3956186",
+        "P39",
+        "http://www.wikidata.org/entity/Q332711",
+        "position held",
+        "President of Italy"
+      ],
+      [
+        "Q3956186",
+        "P40",
+        "http://www.wikidata.org/entity/Q18921228",
+        "child",
+        "Bernardo Giorgio Mattarella"
+      ],
+      [
+        "Q3956186",
+        "P40",
+        "http://www.wikidata.org/entity/Q34252497",
+        "child",
+        "Laura Mattarella"
+      ],
+      [
+        "Q3956186",
+        "P69",
+        "http://www.wikidata.org/entity/Q209344",
+        "educated at",
+        "Sapienza University of Rome"
+      ],
+      [
+        "Q3956186",
+        "P69",
+        "http://www.wikidata.org/entity/Q1641504",
+        "educated at",
+        "University of Palermo"
+      ],
+      [
+        "Q3956186",
+        "P101",
+        "http://www.wikidata.org/entity/Q7163",
+        "field of work",
+        "politics"
+      ],
+      [
+        "Q3956186",
+        "P101",
+        "http://www.wikidata.org/entity/Q7748",
+        "field of work",
+        "law"
+      ],
+      [
+        "Q3956186",
+        "P102",
+        "http://www.wikidata.org/entity/Q47729",
+        "member of political party",
+        "Democratic Party"
+      ],
+      [
+        "Q3956186",
+        "P103",
+        "http://www.wikidata.org/entity/Q652",
+        "native language",
+        "Italian"
+      ],
+      [
+        "Q3956186",
+        "P106",
+        "http://www.wikidata.org/entity/Q16533",
+        "occupation",
+        "judge"
+      ],
+      [
+        "Q3956186",
+        "P106",
+        "http://www.wikidata.org/entity/Q40348",
+        "occupation",
+        "lawyer"
+      ],
+      [
+        "Q3956186",
+        "P106",
+        "http://www.wikidata.org/entity/Q82955",
+        "occupation",
+        "politician"
+      ]
+    ]
+  },
+  {
+    "question": "Who leads Vatican City as its http://www.wikidata.org/prop/direct/p35?",
+    "answer": "Pope Francis",
+    "leader_id": "Q450675",
+    "country": "Vatican City",
+    "country_id": "Q237",
+    "position": "http://www.wikidata.org/prop/direct/P35",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q450675",
+          "label": {
+            "image": "http://commons.wikimedia.org/wiki/Special:FilePath/EU%20%40%20G7%20Summit%202024%20-%20Family%20photo%20%2806%29%20%28cropped%29.jpg",
+            "coat of arms image": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Franciscus.svg"
+          }
+        },
+        {
+          "id": "Q643907",
+          "label": "Flores"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q21198408",
+          "label": "Mario Jos\u00e9 Bergoglio"
+        },
+        {
+          "id": "Q21198409",
+          "label": "Regina Mar\u00eda S\u00edvori"
+        },
+        {
+          "id": "Q414",
+          "label": "Argentina"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q19546",
+          "label": "pope"
+        },
+        {
+          "id": "Q75178",
+          "label": "auxiliary bishop"
+        },
+        {
+          "id": "Q948657",
+          "label": "titular bishop"
+        },
+        {
+          "id": "Q1144278",
+          "label": "diocesan bishop"
+        },
+        {
+          "id": "Q2033341",
+          "label": "cardinal priest"
+        },
+        {
+          "id": "Q2282132",
+          "label": "Patriarch of the West"
+        },
+        {
+          "id": "Q104786984",
+          "label": "Archbishop of Buenos Aires"
+        },
+        {
+          "id": "Q109583367",
+          "label": "Provincial of the Jesuits of Argentina and Uruguay"
+        },
+        {
+          "id": "Q114371233",
+          "label": "coadjutor archbishop"
+        },
+        {
+          "id": "Q16935366",
+          "label": "Facultades de Filosof\u00eda y Teolog\u00eda de San Miguel"
+        },
+        {
+          "id": "Q1084018",
+          "label": "Christian education"
+        },
+        {
+          "id": "Q1084059",
+          "label": "Christian literature"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q450675",
+          "target": "Q643907",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q450675",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q450675",
+          "target": "Q21198408",
+          "relation": "father",
+          "relation_id": "P22"
+        },
+        {
+          "source": "Q450675",
+          "target": "Q21198409",
+          "relation": "mother",
+          "relation_id": "P25"
+        },
+        {
+          "source": "Q450675",
+          "target": "Q414",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q450675",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q450675",
+          "target": "Q19546",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q450675",
+          "target": "Q75178",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q450675",
+          "target": "Q948657",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q450675",
+          "target": "Q1144278",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q450675",
+          "target": "Q2033341",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q450675",
+          "target": "Q2282132",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q450675",
+          "target": "Q104786984",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q450675",
+          "target": "Q109583367",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q450675",
+          "target": "Q114371233",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q450675",
+          "target": "Q16935366",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q450675",
+          "target": "Q1084018",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q450675",
+          "target": "Q1084059",
+          "relation": "field of work",
+          "relation_id": "P101"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q450675",
+        "P18",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/EU%20%40%20G7%20Summit%202024%20-%20Family%20photo%20%2806%29%20%28cropped%29.jpg",
+        "image",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/EU%20%40%20G7%20Summit%202024%20-%20Family%20photo%20%2806%29%20%28cropped%29.jpg"
+      ],
+      [
+        "Q450675",
+        "P19",
+        "http://www.wikidata.org/entity/Q643907",
+        "place of birth",
+        "Flores"
+      ],
+      [
+        "Q450675",
+        "P21",
+        "http://www.wikidata.org/entity/Q6581097",
+        "sex or gender",
+        "male"
+      ],
+      [
+        "Q450675",
+        "P22",
+        "http://www.wikidata.org/entity/Q21198408",
+        "father",
+        "Mario Jos\u00e9 Bergoglio"
+      ],
+      [
+        "Q450675",
+        "P25",
+        "http://www.wikidata.org/entity/Q21198409",
+        "mother",
+        "Regina Mar\u00eda S\u00edvori"
+      ],
+      [
+        "Q450675",
+        "P27",
+        "http://www.wikidata.org/entity/Q414",
+        "country of citizenship",
+        "Argentina"
+      ],
+      [
+        "Q450675",
+        "P31",
+        "http://www.wikidata.org/entity/Q5",
+        "instance of",
+        "human"
+      ],
+      [
+        "Q450675",
+        "P39",
+        "http://www.wikidata.org/entity/Q19546",
+        "position held",
+        "pope"
+      ],
+      [
+        "Q450675",
+        "P39",
+        "http://www.wikidata.org/entity/Q75178",
+        "position held",
+        "auxiliary bishop"
+      ],
+      [
+        "Q450675",
+        "P39",
+        "http://www.wikidata.org/entity/Q948657",
+        "position held",
+        "titular bishop"
+      ],
+      [
+        "Q450675",
+        "P39",
+        "http://www.wikidata.org/entity/Q1144278",
+        "position held",
+        "diocesan bishop"
+      ],
+      [
+        "Q450675",
+        "P39",
+        "http://www.wikidata.org/entity/Q2033341",
+        "position held",
+        "cardinal priest"
+      ],
+      [
+        "Q450675",
+        "P39",
+        "http://www.wikidata.org/entity/Q2282132",
+        "position held",
+        "Patriarch of the West"
+      ],
+      [
+        "Q450675",
+        "P39",
+        "http://www.wikidata.org/entity/Q104786984",
+        "position held",
+        "Archbishop of Buenos Aires"
+      ],
+      [
+        "Q450675",
+        "P39",
+        "http://www.wikidata.org/entity/Q109583367",
+        "position held",
+        "Provincial of the Jesuits of Argentina and Uruguay"
+      ],
+      [
+        "Q450675",
+        "P39",
+        "http://www.wikidata.org/entity/Q114371233",
+        "position held",
+        "coadjutor archbishop"
+      ],
+      [
+        "Q450675",
+        "P69",
+        "http://www.wikidata.org/entity/Q16935366",
+        "educated at",
+        "Facultades de Filosof\u00eda y Teolog\u00eda de San Miguel"
+      ],
+      [
+        "Q450675",
+        "P94",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Franciscus.svg",
+        "coat of arms image",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Franciscus.svg"
+      ],
+      [
+        "Q450675",
+        "P101",
+        "http://www.wikidata.org/entity/Q1084018",
+        "field of work",
+        "Christian education"
+      ],
+      [
+        "Q450675",
+        "P101",
+        "http://www.wikidata.org/entity/Q1084059",
+        "field of work",
+        "Christian literature"
+      ]
+    ]
+  },
+  {
+    "question": "Can you tell me who the current http://www.wikidata.org/prop/direct/p35 of Russia is?",
+    "answer": "Vladimir Putin",
+    "leader_id": "Q7747",
+    "country": "Russia",
+    "country_id": "Q159",
+    "position": "http://www.wikidata.org/prop/direct/P35",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q7747",
+          "label": {
+            "signature": "http://commons.wikimedia.org/wiki/Special:FilePath/Putin%20signature.svg"
+          }
+        },
+        {
+          "id": "Q2354258",
+          "label": "Russian nationalism"
+        },
+        {
+          "id": "Q15680807",
+          "label": "Russian irredentism"
+        },
+        {
+          "id": "Q117798697",
+          "label": "Traditional values in Russia"
+        },
+        {
+          "id": "Q3333484",
+          "label": "Eastern Orthodoxy"
+        },
+        {
+          "id": "Q32310",
+          "label": "Honored Coach"
+        },
+        {
+          "id": "Q93923",
+          "label": "Order of King Abdulaziz al Saud"
+        },
+        {
+          "id": "Q184253",
+          "label": "Ig Nobel Prize"
+        },
+        {
+          "id": "Q207826",
+          "label": "Time Person of the Year"
+        },
+        {
+          "id": "Q241181",
+          "label": "Medal \"For Impeccable Service\""
+        },
+        {
+          "id": "Q338337",
+          "label": "honorary professor"
+        },
+        {
+          "id": "Q512656",
+          "label": "Medal of Merit of the National People's Army"
+        },
+        {
+          "id": "Q604370",
+          "label": "Time 100"
+        },
+        {
+          "id": "Q919359",
+          "label": "Order of Nazarbayev"
+        },
+        {
+          "id": "Q919396",
+          "label": "Order of Outstanding Merit"
+        },
+        {
+          "id": "Q959154",
+          "label": "weapon of honor"
+        },
+        {
+          "id": "Q960966",
+          "label": "Order of the Badge of Honour"
+        },
+        {
+          "id": "Q1027574",
+          "label": "The World's Most Powerful People"
+        },
+        {
+          "id": "Q1045784",
+          "label": "Order of the Golden Eagle"
+        },
+        {
+          "id": "Q1192712",
+          "label": "Confucius Peace Prize"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q7747",
+          "target": "Q2354258",
+          "relation": "movement",
+          "relation_id": "P135"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q15680807",
+          "relation": "movement",
+          "relation_id": "P135"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q117798697",
+          "relation": "movement",
+          "relation_id": "P135"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q3333484",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q32310",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q93923",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q184253",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q207826",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q241181",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q338337",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q512656",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q604370",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q919359",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q919396",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q959154",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q960966",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q1027574",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q1045784",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q7747",
+          "target": "Q1192712",
+          "relation": "award received",
+          "relation_id": "P166"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q7747",
+        "P109",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Putin%20signature.svg",
+        "signature",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Putin%20signature.svg"
+      ],
+      [
+        "Q7747",
+        "P135",
+        "http://www.wikidata.org/entity/Q2354258",
+        "movement",
+        "Russian nationalism"
+      ],
+      [
+        "Q7747",
+        "P135",
+        "http://www.wikidata.org/entity/Q15680807",
+        "movement",
+        "Russian irredentism"
+      ],
+      [
+        "Q7747",
+        "P135",
+        "http://www.wikidata.org/entity/Q117798697",
+        "movement",
+        "Traditional values in Russia"
+      ],
+      [
+        "Q7747",
+        "P140",
+        "http://www.wikidata.org/entity/Q3333484",
+        "religion or worldview",
+        "Eastern Orthodoxy"
+      ],
+      [
+        "Q7747",
+        "P166",
+        "http://www.wikidata.org/entity/Q32310",
+        "award received",
+        "Honored Coach"
+      ],
+      [
+        "Q7747",
+        "P166",
+        "http://www.wikidata.org/entity/Q93923",
+        "award received",
+        "Order of King Abdulaziz al Saud"
+      ],
+      [
+        "Q7747",
+        "P166",
+        "http://www.wikidata.org/entity/Q184253",
+        "award received",
+        "Ig Nobel Prize"
+      ],
+      [
+        "Q7747",
+        "P166",
+        "http://www.wikidata.org/entity/Q207826",
+        "award received",
+        "Time Person of the Year"
+      ],
+      [
+        "Q7747",
+        "P166",
+        "http://www.wikidata.org/entity/Q241181",
+        "award received",
+        "Medal \"For Impeccable Service\""
+      ],
+      [
+        "Q7747",
+        "P166",
+        "http://www.wikidata.org/entity/Q338337",
+        "award received",
+        "honorary professor"
+      ],
+      [
+        "Q7747",
+        "P166",
+        "http://www.wikidata.org/entity/Q512656",
+        "award received",
+        "Medal of Merit of the National People's Army"
+      ],
+      [
+        "Q7747",
+        "P166",
+        "http://www.wikidata.org/entity/Q604370",
+        "award received",
+        "Time 100"
+      ],
+      [
+        "Q7747",
+        "P166",
+        "http://www.wikidata.org/entity/Q919359",
+        "award received",
+        "Order of Nazarbayev"
+      ],
+      [
+        "Q7747",
+        "P166",
+        "http://www.wikidata.org/entity/Q919396",
+        "award received",
+        "Order of Outstanding Merit"
+      ],
+      [
+        "Q7747",
+        "P166",
+        "http://www.wikidata.org/entity/Q959154",
+        "award received",
+        "weapon of honor"
+      ],
+      [
+        "Q7747",
+        "P166",
+        "http://www.wikidata.org/entity/Q960966",
+        "award received",
+        "Order of the Badge of Honour"
+      ],
+      [
+        "Q7747",
+        "P166",
+        "http://www.wikidata.org/entity/Q1027574",
+        "award received",
+        "The World's Most Powerful People"
+      ],
+      [
+        "Q7747",
+        "P166",
+        "http://www.wikidata.org/entity/Q1045784",
+        "award received",
+        "Order of the Golden Eagle"
+      ],
+      [
+        "Q7747",
+        "P166",
+        "http://www.wikidata.org/entity/Q1192712",
+        "award received",
+        "Confucius Peace Prize"
+      ]
+    ]
+  },
+  {
+    "question": "Which person serves as the http://www.wikidata.org/prop/direct/p35 of United States?",
+    "answer": "Donald Trump",
+    "leader_id": "Q22686",
+    "country": "United States",
+    "country_id": "Q30",
+    "position": "http://www.wikidata.org/prop/direct/P35",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q22686",
+          "label": {
+            "Portuguese National Library author ID": "1297779",
+            "Nationale Thesaurus voor Auteursnamen ID": "073829463",
+            "NORAF ID": "97055467",
+            "NCL ID": "002505241",
+            "Scopus author ID": "57194509714",
+            "Rodovid ID": "163827",
+            "NUKAT ID": "n00079388",
+            "NLC authorities": "040853213",
+            "Internet Broadway Database person ID": "21682",
+            "U.S. National Archives Identifier": "286186150"
+          }
+        },
+        {
+          "id": "Q1576675",
+          "label": "John G. Trump"
+        },
+        {
+          "id": "Q4461939",
+          "label": "Vanessa Trump"
+        },
+        {
+          "id": "Q13628723",
+          "label": "Jared Kushner"
+        },
+        {
+          "id": "Q23000825",
+          "label": "Donald Trump III"
+        },
+        {
+          "id": "Q23600580",
+          "label": "Elizabeth Christ Trump"
+        },
+        {
+          "id": "Q29033452",
+          "label": "Lara Trump"
+        },
+        {
+          "id": "Q96475328",
+          "label": "Mary L. Trump"
+        },
+        {
+          "id": "Q102257613",
+          "label": "John Whitney Walter"
+        },
+        {
+          "id": "Q84263196",
+          "label": "COVID-19"
+        },
+        {
+          "id": "Q27671152",
+          "label": "Portal:Donald J. Trump"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q22686",
+          "target": "Q1576675",
+          "relation": "relative",
+          "relation_id": "P1038"
+        },
+        {
+          "source": "Q22686",
+          "target": "Q4461939",
+          "relation": "relative",
+          "relation_id": "P1038"
+        },
+        {
+          "source": "Q22686",
+          "target": "Q13628723",
+          "relation": "relative",
+          "relation_id": "P1038"
+        },
+        {
+          "source": "Q22686",
+          "target": "Q23000825",
+          "relation": "relative",
+          "relation_id": "P1038"
+        },
+        {
+          "source": "Q22686",
+          "target": "Q23600580",
+          "relation": "relative",
+          "relation_id": "P1038"
+        },
+        {
+          "source": "Q22686",
+          "target": "Q29033452",
+          "relation": "relative",
+          "relation_id": "P1038"
+        },
+        {
+          "source": "Q22686",
+          "target": "Q96475328",
+          "relation": "relative",
+          "relation_id": "P1038"
+        },
+        {
+          "source": "Q22686",
+          "target": "Q102257613",
+          "relation": "relative",
+          "relation_id": "P1038"
+        },
+        {
+          "source": "Q22686",
+          "target": "Q84263196",
+          "relation": "medical condition",
+          "relation_id": "P1050"
+        },
+        {
+          "source": "Q22686",
+          "target": "Q27671152",
+          "relation": "topic's main Wikimedia portal",
+          "relation_id": "P1151"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q22686",
+        "P1005",
+        "1297779",
+        "Portuguese National Library author ID",
+        "1297779"
+      ],
+      [
+        "Q22686",
+        "P1006",
+        "073829463",
+        "Nationale Thesaurus voor Auteursnamen ID",
+        "073829463"
+      ],
+      [
+        "Q22686",
+        "P1015",
+        "97055467",
+        "NORAF ID",
+        "97055467"
+      ],
+      [
+        "Q22686",
+        "P1038",
+        "http://www.wikidata.org/entity/Q1576675",
+        "relative",
+        "John G. Trump"
+      ],
+      [
+        "Q22686",
+        "P1038",
+        "http://www.wikidata.org/entity/Q4461939",
+        "relative",
+        "Vanessa Trump"
+      ],
+      [
+        "Q22686",
+        "P1038",
+        "http://www.wikidata.org/entity/Q13628723",
+        "relative",
+        "Jared Kushner"
+      ],
+      [
+        "Q22686",
+        "P1038",
+        "http://www.wikidata.org/entity/Q23000825",
+        "relative",
+        "Donald Trump III"
+      ],
+      [
+        "Q22686",
+        "P1038",
+        "http://www.wikidata.org/entity/Q23600580",
+        "relative",
+        "Elizabeth Christ Trump"
+      ],
+      [
+        "Q22686",
+        "P1038",
+        "http://www.wikidata.org/entity/Q29033452",
+        "relative",
+        "Lara Trump"
+      ],
+      [
+        "Q22686",
+        "P1038",
+        "http://www.wikidata.org/entity/Q96475328",
+        "relative",
+        "Mary L. Trump"
+      ],
+      [
+        "Q22686",
+        "P1038",
+        "http://www.wikidata.org/entity/Q102257613",
+        "relative",
+        "John Whitney Walter"
+      ],
+      [
+        "Q22686",
+        "P1048",
+        "002505241",
+        "NCL ID",
+        "002505241"
+      ],
+      [
+        "Q22686",
+        "P1050",
+        "http://www.wikidata.org/entity/Q84263196",
+        "medical condition",
+        "COVID-19"
+      ],
+      [
+        "Q22686",
+        "P1151",
+        "http://www.wikidata.org/entity/Q27671152",
+        "topic's main Wikimedia portal",
+        "Portal:Donald J. Trump"
+      ],
+      [
+        "Q22686",
+        "P1153",
+        "57194509714",
+        "Scopus author ID",
+        "57194509714"
+      ],
+      [
+        "Q22686",
+        "P1185",
+        "163827",
+        "Rodovid ID",
+        "163827"
+      ],
+      [
+        "Q22686",
+        "P1207",
+        "n00079388",
+        "NUKAT ID",
+        "n00079388"
+      ],
+      [
+        "Q22686",
+        "P1213",
+        "040853213",
+        "NLC authorities",
+        "040853213"
+      ],
+      [
+        "Q22686",
+        "P1220",
+        "21682",
+        "Internet Broadway Database person ID",
+        "21682"
+      ],
+      [
+        "Q22686",
+        "P1225",
+        "286186150",
+        "U.S. National Archives Identifier",
+        "286186150"
+      ]
+    ]
+  }
+]

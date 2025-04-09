@@ -1,0 +1,2397 @@
+[
+  {
+    "question": "Which city was Harald V of Norway born in?",
+    "answer": "Skaugum",
+    "entity": "Harald V of Norway",
+    "entity_id": "Q57287",
+    "relation": "place of birth",
+    "answer_id": "Q2095725",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q57287"
+        },
+        {
+          "id": "Q2095725",
+          "label": "Skaugum"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q154912",
+          "label": "Olav V of Norway"
+        },
+        {
+          "id": "Q231281",
+          "label": "Princess M\u00e4rtha of Sweden"
+        },
+        {
+          "id": "Q131045",
+          "label": "Queen Sonja of Norway"
+        },
+        {
+          "id": "Q20",
+          "label": "Norway"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q207293",
+          "label": "crown prince"
+        },
+        {
+          "id": "Q1294765",
+          "label": "Monarch of Norway"
+        },
+        {
+          "id": "Q165096",
+          "label": "Princess M\u00e4rtha Louise of Norway"
+        },
+        {
+          "id": "Q165241",
+          "label": "Haakon, Crown Prince of Norway"
+        },
+        {
+          "id": "Q111201030",
+          "label": "House of Gl\u00fccksburg (Norway)"
+        },
+        {
+          "id": "Q486156",
+          "label": "University of Oslo"
+        },
+        {
+          "id": "Q672095",
+          "label": "Oslo Cathedral School"
+        },
+        {
+          "id": "Q805285",
+          "label": "Balliol College"
+        },
+        {
+          "id": "Q1506510",
+          "label": "Norwegian Military Academy"
+        },
+        {
+          "id": "Q48921174",
+          "label": "Befalsskolen for kavaleriet"
+        },
+        {
+          "id": "Q2747456",
+          "label": "prince"
+        },
+        {
+          "id": "Q124088226",
+          "label": "King of Norway"
+        },
+        {
+          "id": "Q116",
+          "label": "monarch"
+        },
+        {
+          "id": "Q2478141",
+          "label": "aristocrat"
+        },
+        {
+          "id": "Q75809",
+          "label": "Lutheranism"
+        },
+        {
+          "id": "Q666860",
+          "label": "Church of Norway"
+        },
+        {
+          "id": "Q20872",
+          "label": "Order of the Dannebrog"
+        },
+        {
+          "id": "Q84020",
+          "label": "Order of the White Eagle"
+        },
+        {
+          "id": "Q215248",
+          "label": "Order of the Garter"
+        },
+        {
+          "id": "Q458895",
+          "label": "Grand Cross with Chain of the Order of Merit of the Republic of Hungary (civil)"
+        },
+        {
+          "id": "Q541985",
+          "label": "Holmenkollen Medal"
+        },
+        {
+          "id": "Q614661",
+          "label": "Order of the Redeemer"
+        },
+        {
+          "id": "Q950604",
+          "label": "Order of the Star of Romania"
+        },
+        {
+          "id": "Q976544",
+          "label": "Order of the Elephant"
+        },
+        {
+          "id": "Q1331130",
+          "label": "Royal Order of the Seraphim"
+        },
+        {
+          "id": "Q2171187",
+          "label": "Royal Victorian Chain"
+        },
+        {
+          "id": "Q5357263",
+          "label": "Collar of the Supreme Order of the Chrysanthemum"
+        },
+        {
+          "id": "Q10855226",
+          "label": "Grand Cross of the Legion of Honour"
+        },
+        {
+          "id": "Q10904959",
+          "label": "Grand Cross Special Class of the Order of Merit of the Federal Republic of Germany"
+        },
+        {
+          "id": "Q11969691",
+          "label": "Defence Service Medal with Laurel Branch"
+        },
+        {
+          "id": "Q11981627",
+          "label": "King Haakon VII's 100th anniversary medal"
+        },
+        {
+          "id": "Q11981636",
+          "label": "King Olav V's Jubilee Medal 1957\u20131982"
+        },
+        {
+          "id": "Q11981637",
+          "label": "Kong Olav V's Memorial medal"
+        },
+        {
+          "id": "Q12192290",
+          "label": "Knight Grand Cross of the Royal Victorian Order"
+        },
+        {
+          "id": "Q13099843",
+          "label": "King Haakon VII Commemorative Medal"
+        },
+        {
+          "id": "Q13377517",
+          "label": "Knight Grand Cross with Collar of the Order of Saint Olav"
+        },
+        {
+          "id": "Q14539990",
+          "label": "Knight Grand Cross with Collar of the Order of Merit of the Italian Republic"
+        },
+        {
+          "id": "Q15279719",
+          "label": "Gold Olympic Order"
+        },
+        {
+          "id": "Q17409133",
+          "label": "Grand Star of the Decoration for Services to the Republic of Austria"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q57287",
+          "target": "Q2095725",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q154912",
+          "relation": "father",
+          "relation_id": "P22"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q231281",
+          "relation": "mother",
+          "relation_id": "P25"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q131045",
+          "relation": "spouse",
+          "relation_id": "P26"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q20",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q207293",
+          "relation": "noble title",
+          "relation_id": "P97"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q1294765",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q165096",
+          "relation": "child",
+          "relation_id": "P40"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q165241",
+          "relation": "child",
+          "relation_id": "P40"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q111201030",
+          "relation": "family",
+          "relation_id": "P53"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q486156",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q672095",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q805285",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q1506510",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q48921174",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q2747456",
+          "relation": "noble title",
+          "relation_id": "P97"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q124088226",
+          "relation": "noble title",
+          "relation_id": "P97"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q116",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q2478141",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q75809",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q666860",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q20872",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q84020",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q215248",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q458895",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q541985",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q614661",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q950604",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q976544",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q1331130",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q2171187",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q5357263",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q10855226",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q10904959",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11969691",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11981627",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11981636",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11981637",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q12192290",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q13099843",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q13377517",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q14539990",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q15279719",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q17409133",
+          "relation": "award received",
+          "relation_id": "P166"
+        }
+      ]
+    },
+    "context_hint": "Harald V of Norway place of birth Skaugum",
+    "traversal_hints": "Step 1: Look for the relationship 'place of birth' between Q57287 and Skaugum."
+  },
+  {
+    "question": "Whose son/daughter is Harald V of Norway?",
+    "answer": "Olav V of Norway",
+    "entity": "Harald V of Norway",
+    "entity_id": "Q57287",
+    "relation": "father",
+    "answer_id": "Q154912",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q57287"
+        },
+        {
+          "id": "Q2095725",
+          "label": "Skaugum"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q154912",
+          "label": "Olav V of Norway"
+        },
+        {
+          "id": "Q231281",
+          "label": "Princess M\u00e4rtha of Sweden"
+        },
+        {
+          "id": "Q131045",
+          "label": "Queen Sonja of Norway"
+        },
+        {
+          "id": "Q20",
+          "label": "Norway"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q207293",
+          "label": "crown prince"
+        },
+        {
+          "id": "Q1294765",
+          "label": "Monarch of Norway"
+        },
+        {
+          "id": "Q165096",
+          "label": "Princess M\u00e4rtha Louise of Norway"
+        },
+        {
+          "id": "Q165241",
+          "label": "Haakon, Crown Prince of Norway"
+        },
+        {
+          "id": "Q111201030",
+          "label": "House of Gl\u00fccksburg (Norway)"
+        },
+        {
+          "id": "Q486156",
+          "label": "University of Oslo"
+        },
+        {
+          "id": "Q672095",
+          "label": "Oslo Cathedral School"
+        },
+        {
+          "id": "Q805285",
+          "label": "Balliol College"
+        },
+        {
+          "id": "Q1506510",
+          "label": "Norwegian Military Academy"
+        },
+        {
+          "id": "Q48921174",
+          "label": "Befalsskolen for kavaleriet"
+        },
+        {
+          "id": "Q2747456",
+          "label": "prince"
+        },
+        {
+          "id": "Q124088226",
+          "label": "King of Norway"
+        },
+        {
+          "id": "Q116",
+          "label": "monarch"
+        },
+        {
+          "id": "Q2478141",
+          "label": "aristocrat"
+        },
+        {
+          "id": "Q75809",
+          "label": "Lutheranism"
+        },
+        {
+          "id": "Q666860",
+          "label": "Church of Norway"
+        },
+        {
+          "id": "Q20872",
+          "label": "Order of the Dannebrog"
+        },
+        {
+          "id": "Q84020",
+          "label": "Order of the White Eagle"
+        },
+        {
+          "id": "Q215248",
+          "label": "Order of the Garter"
+        },
+        {
+          "id": "Q458895",
+          "label": "Grand Cross with Chain of the Order of Merit of the Republic of Hungary (civil)"
+        },
+        {
+          "id": "Q541985",
+          "label": "Holmenkollen Medal"
+        },
+        {
+          "id": "Q614661",
+          "label": "Order of the Redeemer"
+        },
+        {
+          "id": "Q950604",
+          "label": "Order of the Star of Romania"
+        },
+        {
+          "id": "Q976544",
+          "label": "Order of the Elephant"
+        },
+        {
+          "id": "Q1331130",
+          "label": "Royal Order of the Seraphim"
+        },
+        {
+          "id": "Q2171187",
+          "label": "Royal Victorian Chain"
+        },
+        {
+          "id": "Q5357263",
+          "label": "Collar of the Supreme Order of the Chrysanthemum"
+        },
+        {
+          "id": "Q10855226",
+          "label": "Grand Cross of the Legion of Honour"
+        },
+        {
+          "id": "Q10904959",
+          "label": "Grand Cross Special Class of the Order of Merit of the Federal Republic of Germany"
+        },
+        {
+          "id": "Q11969691",
+          "label": "Defence Service Medal with Laurel Branch"
+        },
+        {
+          "id": "Q11981627",
+          "label": "King Haakon VII's 100th anniversary medal"
+        },
+        {
+          "id": "Q11981636",
+          "label": "King Olav V's Jubilee Medal 1957\u20131982"
+        },
+        {
+          "id": "Q11981637",
+          "label": "Kong Olav V's Memorial medal"
+        },
+        {
+          "id": "Q12192290",
+          "label": "Knight Grand Cross of the Royal Victorian Order"
+        },
+        {
+          "id": "Q13099843",
+          "label": "King Haakon VII Commemorative Medal"
+        },
+        {
+          "id": "Q13377517",
+          "label": "Knight Grand Cross with Collar of the Order of Saint Olav"
+        },
+        {
+          "id": "Q14539990",
+          "label": "Knight Grand Cross with Collar of the Order of Merit of the Italian Republic"
+        },
+        {
+          "id": "Q15279719",
+          "label": "Gold Olympic Order"
+        },
+        {
+          "id": "Q17409133",
+          "label": "Grand Star of the Decoration for Services to the Republic of Austria"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q57287",
+          "target": "Q2095725",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q154912",
+          "relation": "father",
+          "relation_id": "P22"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q231281",
+          "relation": "mother",
+          "relation_id": "P25"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q131045",
+          "relation": "spouse",
+          "relation_id": "P26"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q20",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q207293",
+          "relation": "noble title",
+          "relation_id": "P97"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q1294765",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q165096",
+          "relation": "child",
+          "relation_id": "P40"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q165241",
+          "relation": "child",
+          "relation_id": "P40"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q111201030",
+          "relation": "family",
+          "relation_id": "P53"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q486156",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q672095",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q805285",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q1506510",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q48921174",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q2747456",
+          "relation": "noble title",
+          "relation_id": "P97"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q124088226",
+          "relation": "noble title",
+          "relation_id": "P97"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q116",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q2478141",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q75809",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q666860",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q20872",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q84020",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q215248",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q458895",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q541985",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q614661",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q950604",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q976544",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q1331130",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q2171187",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q5357263",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q10855226",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q10904959",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11969691",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11981627",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11981636",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11981637",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q12192290",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q13099843",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q13377517",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q14539990",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q15279719",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q17409133",
+          "relation": "award received",
+          "relation_id": "P166"
+        }
+      ]
+    },
+    "context_hint": "Harald V of Norway father Olav V of Norway",
+    "traversal_hints": "Step 1: Look for the relationship 'father' between Q57287 and Olav V of Norway."
+  },
+  {
+    "question": "Who gave birth to Harald V of Norway?",
+    "answer": "Princess M\u00e4rtha of Sweden",
+    "entity": "Harald V of Norway",
+    "entity_id": "Q57287",
+    "relation": "mother",
+    "answer_id": "Q231281",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q57287"
+        },
+        {
+          "id": "Q2095725",
+          "label": "Skaugum"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q154912",
+          "label": "Olav V of Norway"
+        },
+        {
+          "id": "Q231281",
+          "label": "Princess M\u00e4rtha of Sweden"
+        },
+        {
+          "id": "Q131045",
+          "label": "Queen Sonja of Norway"
+        },
+        {
+          "id": "Q20",
+          "label": "Norway"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q207293",
+          "label": "crown prince"
+        },
+        {
+          "id": "Q1294765",
+          "label": "Monarch of Norway"
+        },
+        {
+          "id": "Q165096",
+          "label": "Princess M\u00e4rtha Louise of Norway"
+        },
+        {
+          "id": "Q165241",
+          "label": "Haakon, Crown Prince of Norway"
+        },
+        {
+          "id": "Q111201030",
+          "label": "House of Gl\u00fccksburg (Norway)"
+        },
+        {
+          "id": "Q486156",
+          "label": "University of Oslo"
+        },
+        {
+          "id": "Q672095",
+          "label": "Oslo Cathedral School"
+        },
+        {
+          "id": "Q805285",
+          "label": "Balliol College"
+        },
+        {
+          "id": "Q1506510",
+          "label": "Norwegian Military Academy"
+        },
+        {
+          "id": "Q48921174",
+          "label": "Befalsskolen for kavaleriet"
+        },
+        {
+          "id": "Q2747456",
+          "label": "prince"
+        },
+        {
+          "id": "Q124088226",
+          "label": "King of Norway"
+        },
+        {
+          "id": "Q116",
+          "label": "monarch"
+        },
+        {
+          "id": "Q2478141",
+          "label": "aristocrat"
+        },
+        {
+          "id": "Q75809",
+          "label": "Lutheranism"
+        },
+        {
+          "id": "Q666860",
+          "label": "Church of Norway"
+        },
+        {
+          "id": "Q20872",
+          "label": "Order of the Dannebrog"
+        },
+        {
+          "id": "Q84020",
+          "label": "Order of the White Eagle"
+        },
+        {
+          "id": "Q215248",
+          "label": "Order of the Garter"
+        },
+        {
+          "id": "Q458895",
+          "label": "Grand Cross with Chain of the Order of Merit of the Republic of Hungary (civil)"
+        },
+        {
+          "id": "Q541985",
+          "label": "Holmenkollen Medal"
+        },
+        {
+          "id": "Q614661",
+          "label": "Order of the Redeemer"
+        },
+        {
+          "id": "Q950604",
+          "label": "Order of the Star of Romania"
+        },
+        {
+          "id": "Q976544",
+          "label": "Order of the Elephant"
+        },
+        {
+          "id": "Q1331130",
+          "label": "Royal Order of the Seraphim"
+        },
+        {
+          "id": "Q2171187",
+          "label": "Royal Victorian Chain"
+        },
+        {
+          "id": "Q5357263",
+          "label": "Collar of the Supreme Order of the Chrysanthemum"
+        },
+        {
+          "id": "Q10855226",
+          "label": "Grand Cross of the Legion of Honour"
+        },
+        {
+          "id": "Q10904959",
+          "label": "Grand Cross Special Class of the Order of Merit of the Federal Republic of Germany"
+        },
+        {
+          "id": "Q11969691",
+          "label": "Defence Service Medal with Laurel Branch"
+        },
+        {
+          "id": "Q11981627",
+          "label": "King Haakon VII's 100th anniversary medal"
+        },
+        {
+          "id": "Q11981636",
+          "label": "King Olav V's Jubilee Medal 1957\u20131982"
+        },
+        {
+          "id": "Q11981637",
+          "label": "Kong Olav V's Memorial medal"
+        },
+        {
+          "id": "Q12192290",
+          "label": "Knight Grand Cross of the Royal Victorian Order"
+        },
+        {
+          "id": "Q13099843",
+          "label": "King Haakon VII Commemorative Medal"
+        },
+        {
+          "id": "Q13377517",
+          "label": "Knight Grand Cross with Collar of the Order of Saint Olav"
+        },
+        {
+          "id": "Q14539990",
+          "label": "Knight Grand Cross with Collar of the Order of Merit of the Italian Republic"
+        },
+        {
+          "id": "Q15279719",
+          "label": "Gold Olympic Order"
+        },
+        {
+          "id": "Q17409133",
+          "label": "Grand Star of the Decoration for Services to the Republic of Austria"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q57287",
+          "target": "Q2095725",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q154912",
+          "relation": "father",
+          "relation_id": "P22"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q231281",
+          "relation": "mother",
+          "relation_id": "P25"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q131045",
+          "relation": "spouse",
+          "relation_id": "P26"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q20",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q207293",
+          "relation": "noble title",
+          "relation_id": "P97"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q1294765",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q165096",
+          "relation": "child",
+          "relation_id": "P40"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q165241",
+          "relation": "child",
+          "relation_id": "P40"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q111201030",
+          "relation": "family",
+          "relation_id": "P53"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q486156",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q672095",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q805285",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q1506510",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q48921174",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q2747456",
+          "relation": "noble title",
+          "relation_id": "P97"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q124088226",
+          "relation": "noble title",
+          "relation_id": "P97"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q116",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q2478141",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q75809",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q666860",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q20872",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q84020",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q215248",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q458895",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q541985",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q614661",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q950604",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q976544",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q1331130",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q2171187",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q5357263",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q10855226",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q10904959",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11969691",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11981627",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11981636",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11981637",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q12192290",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q13099843",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q13377517",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q14539990",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q15279719",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q17409133",
+          "relation": "award received",
+          "relation_id": "P166"
+        }
+      ]
+    },
+    "context_hint": "Harald V of Norway mother Princess M\u00e4rtha of Sweden",
+    "traversal_hints": "Step 1: Look for the relationship 'mother' between Q57287 and Princess M\u00e4rtha of Sweden."
+  },
+  {
+    "question": "Who is the spouse of Harald V of Norway?",
+    "answer": "Queen Sonja of Norway",
+    "entity": "Harald V of Norway",
+    "entity_id": "Q57287",
+    "relation": "spouse",
+    "answer_id": "Q131045",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q57287"
+        },
+        {
+          "id": "Q2095725",
+          "label": "Skaugum"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q154912",
+          "label": "Olav V of Norway"
+        },
+        {
+          "id": "Q231281",
+          "label": "Princess M\u00e4rtha of Sweden"
+        },
+        {
+          "id": "Q131045",
+          "label": "Queen Sonja of Norway"
+        },
+        {
+          "id": "Q20",
+          "label": "Norway"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q207293",
+          "label": "crown prince"
+        },
+        {
+          "id": "Q1294765",
+          "label": "Monarch of Norway"
+        },
+        {
+          "id": "Q165096",
+          "label": "Princess M\u00e4rtha Louise of Norway"
+        },
+        {
+          "id": "Q165241",
+          "label": "Haakon, Crown Prince of Norway"
+        },
+        {
+          "id": "Q111201030",
+          "label": "House of Gl\u00fccksburg (Norway)"
+        },
+        {
+          "id": "Q486156",
+          "label": "University of Oslo"
+        },
+        {
+          "id": "Q672095",
+          "label": "Oslo Cathedral School"
+        },
+        {
+          "id": "Q805285",
+          "label": "Balliol College"
+        },
+        {
+          "id": "Q1506510",
+          "label": "Norwegian Military Academy"
+        },
+        {
+          "id": "Q48921174",
+          "label": "Befalsskolen for kavaleriet"
+        },
+        {
+          "id": "Q2747456",
+          "label": "prince"
+        },
+        {
+          "id": "Q124088226",
+          "label": "King of Norway"
+        },
+        {
+          "id": "Q116",
+          "label": "monarch"
+        },
+        {
+          "id": "Q2478141",
+          "label": "aristocrat"
+        },
+        {
+          "id": "Q75809",
+          "label": "Lutheranism"
+        },
+        {
+          "id": "Q666860",
+          "label": "Church of Norway"
+        },
+        {
+          "id": "Q20872",
+          "label": "Order of the Dannebrog"
+        },
+        {
+          "id": "Q84020",
+          "label": "Order of the White Eagle"
+        },
+        {
+          "id": "Q215248",
+          "label": "Order of the Garter"
+        },
+        {
+          "id": "Q458895",
+          "label": "Grand Cross with Chain of the Order of Merit of the Republic of Hungary (civil)"
+        },
+        {
+          "id": "Q541985",
+          "label": "Holmenkollen Medal"
+        },
+        {
+          "id": "Q614661",
+          "label": "Order of the Redeemer"
+        },
+        {
+          "id": "Q950604",
+          "label": "Order of the Star of Romania"
+        },
+        {
+          "id": "Q976544",
+          "label": "Order of the Elephant"
+        },
+        {
+          "id": "Q1331130",
+          "label": "Royal Order of the Seraphim"
+        },
+        {
+          "id": "Q2171187",
+          "label": "Royal Victorian Chain"
+        },
+        {
+          "id": "Q5357263",
+          "label": "Collar of the Supreme Order of the Chrysanthemum"
+        },
+        {
+          "id": "Q10855226",
+          "label": "Grand Cross of the Legion of Honour"
+        },
+        {
+          "id": "Q10904959",
+          "label": "Grand Cross Special Class of the Order of Merit of the Federal Republic of Germany"
+        },
+        {
+          "id": "Q11969691",
+          "label": "Defence Service Medal with Laurel Branch"
+        },
+        {
+          "id": "Q11981627",
+          "label": "King Haakon VII's 100th anniversary medal"
+        },
+        {
+          "id": "Q11981636",
+          "label": "King Olav V's Jubilee Medal 1957\u20131982"
+        },
+        {
+          "id": "Q11981637",
+          "label": "Kong Olav V's Memorial medal"
+        },
+        {
+          "id": "Q12192290",
+          "label": "Knight Grand Cross of the Royal Victorian Order"
+        },
+        {
+          "id": "Q13099843",
+          "label": "King Haakon VII Commemorative Medal"
+        },
+        {
+          "id": "Q13377517",
+          "label": "Knight Grand Cross with Collar of the Order of Saint Olav"
+        },
+        {
+          "id": "Q14539990",
+          "label": "Knight Grand Cross with Collar of the Order of Merit of the Italian Republic"
+        },
+        {
+          "id": "Q15279719",
+          "label": "Gold Olympic Order"
+        },
+        {
+          "id": "Q17409133",
+          "label": "Grand Star of the Decoration for Services to the Republic of Austria"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q57287",
+          "target": "Q2095725",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q154912",
+          "relation": "father",
+          "relation_id": "P22"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q231281",
+          "relation": "mother",
+          "relation_id": "P25"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q131045",
+          "relation": "spouse",
+          "relation_id": "P26"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q20",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q207293",
+          "relation": "noble title",
+          "relation_id": "P97"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q1294765",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q165096",
+          "relation": "child",
+          "relation_id": "P40"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q165241",
+          "relation": "child",
+          "relation_id": "P40"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q111201030",
+          "relation": "family",
+          "relation_id": "P53"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q486156",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q672095",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q805285",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q1506510",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q48921174",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q2747456",
+          "relation": "noble title",
+          "relation_id": "P97"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q124088226",
+          "relation": "noble title",
+          "relation_id": "P97"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q116",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q2478141",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q75809",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q666860",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q20872",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q84020",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q215248",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q458895",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q541985",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q614661",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q950604",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q976544",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q1331130",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q2171187",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q5357263",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q10855226",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q10904959",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11969691",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11981627",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11981636",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11981637",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q12192290",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q13099843",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q13377517",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q14539990",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q15279719",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q17409133",
+          "relation": "award received",
+          "relation_id": "P166"
+        }
+      ]
+    },
+    "context_hint": "Harald V of Norway spouse Queen Sonja of Norway",
+    "traversal_hints": "Step 1: Look for the relationship 'spouse' between Q57287 and Queen Sonja of Norway."
+  },
+  {
+    "question": "Which country is Harald V of Norway a citizen of?",
+    "answer": "Norway",
+    "entity": "Harald V of Norway",
+    "entity_id": "Q57287",
+    "relation": "citizenship",
+    "answer_id": "Q20",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q57287"
+        },
+        {
+          "id": "Q2095725",
+          "label": "Skaugum"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q154912",
+          "label": "Olav V of Norway"
+        },
+        {
+          "id": "Q231281",
+          "label": "Princess M\u00e4rtha of Sweden"
+        },
+        {
+          "id": "Q131045",
+          "label": "Queen Sonja of Norway"
+        },
+        {
+          "id": "Q20",
+          "label": "Norway"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q207293",
+          "label": "crown prince"
+        },
+        {
+          "id": "Q1294765",
+          "label": "Monarch of Norway"
+        },
+        {
+          "id": "Q165096",
+          "label": "Princess M\u00e4rtha Louise of Norway"
+        },
+        {
+          "id": "Q165241",
+          "label": "Haakon, Crown Prince of Norway"
+        },
+        {
+          "id": "Q111201030",
+          "label": "House of Gl\u00fccksburg (Norway)"
+        },
+        {
+          "id": "Q486156",
+          "label": "University of Oslo"
+        },
+        {
+          "id": "Q672095",
+          "label": "Oslo Cathedral School"
+        },
+        {
+          "id": "Q805285",
+          "label": "Balliol College"
+        },
+        {
+          "id": "Q1506510",
+          "label": "Norwegian Military Academy"
+        },
+        {
+          "id": "Q48921174",
+          "label": "Befalsskolen for kavaleriet"
+        },
+        {
+          "id": "Q2747456",
+          "label": "prince"
+        },
+        {
+          "id": "Q124088226",
+          "label": "King of Norway"
+        },
+        {
+          "id": "Q116",
+          "label": "monarch"
+        },
+        {
+          "id": "Q2478141",
+          "label": "aristocrat"
+        },
+        {
+          "id": "Q75809",
+          "label": "Lutheranism"
+        },
+        {
+          "id": "Q666860",
+          "label": "Church of Norway"
+        },
+        {
+          "id": "Q20872",
+          "label": "Order of the Dannebrog"
+        },
+        {
+          "id": "Q84020",
+          "label": "Order of the White Eagle"
+        },
+        {
+          "id": "Q215248",
+          "label": "Order of the Garter"
+        },
+        {
+          "id": "Q458895",
+          "label": "Grand Cross with Chain of the Order of Merit of the Republic of Hungary (civil)"
+        },
+        {
+          "id": "Q541985",
+          "label": "Holmenkollen Medal"
+        },
+        {
+          "id": "Q614661",
+          "label": "Order of the Redeemer"
+        },
+        {
+          "id": "Q950604",
+          "label": "Order of the Star of Romania"
+        },
+        {
+          "id": "Q976544",
+          "label": "Order of the Elephant"
+        },
+        {
+          "id": "Q1331130",
+          "label": "Royal Order of the Seraphim"
+        },
+        {
+          "id": "Q2171187",
+          "label": "Royal Victorian Chain"
+        },
+        {
+          "id": "Q5357263",
+          "label": "Collar of the Supreme Order of the Chrysanthemum"
+        },
+        {
+          "id": "Q10855226",
+          "label": "Grand Cross of the Legion of Honour"
+        },
+        {
+          "id": "Q10904959",
+          "label": "Grand Cross Special Class of the Order of Merit of the Federal Republic of Germany"
+        },
+        {
+          "id": "Q11969691",
+          "label": "Defence Service Medal with Laurel Branch"
+        },
+        {
+          "id": "Q11981627",
+          "label": "King Haakon VII's 100th anniversary medal"
+        },
+        {
+          "id": "Q11981636",
+          "label": "King Olav V's Jubilee Medal 1957\u20131982"
+        },
+        {
+          "id": "Q11981637",
+          "label": "Kong Olav V's Memorial medal"
+        },
+        {
+          "id": "Q12192290",
+          "label": "Knight Grand Cross of the Royal Victorian Order"
+        },
+        {
+          "id": "Q13099843",
+          "label": "King Haakon VII Commemorative Medal"
+        },
+        {
+          "id": "Q13377517",
+          "label": "Knight Grand Cross with Collar of the Order of Saint Olav"
+        },
+        {
+          "id": "Q14539990",
+          "label": "Knight Grand Cross with Collar of the Order of Merit of the Italian Republic"
+        },
+        {
+          "id": "Q15279719",
+          "label": "Gold Olympic Order"
+        },
+        {
+          "id": "Q17409133",
+          "label": "Grand Star of the Decoration for Services to the Republic of Austria"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q57287",
+          "target": "Q2095725",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q154912",
+          "relation": "father",
+          "relation_id": "P22"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q231281",
+          "relation": "mother",
+          "relation_id": "P25"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q131045",
+          "relation": "spouse",
+          "relation_id": "P26"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q20",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q207293",
+          "relation": "noble title",
+          "relation_id": "P97"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q1294765",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q165096",
+          "relation": "child",
+          "relation_id": "P40"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q165241",
+          "relation": "child",
+          "relation_id": "P40"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q111201030",
+          "relation": "family",
+          "relation_id": "P53"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q486156",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q672095",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q805285",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q1506510",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q48921174",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q2747456",
+          "relation": "noble title",
+          "relation_id": "P97"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q124088226",
+          "relation": "noble title",
+          "relation_id": "P97"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q116",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q2478141",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q75809",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q666860",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q20872",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q84020",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q215248",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q458895",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q541985",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q614661",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q950604",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q976544",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q1331130",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q2171187",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q5357263",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q10855226",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q10904959",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11969691",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11981627",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11981636",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q11981637",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q12192290",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q13099843",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q13377517",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q14539990",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q15279719",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q57287",
+          "target": "Q17409133",
+          "relation": "award received",
+          "relation_id": "P166"
+        }
+      ]
+    },
+    "context_hint": "Harald V of Norway citizenship Norway",
+    "traversal_hints": "Step 1: Look for the relationship 'country of citizenship' between Q57287 and Norway."
+  }
+]
