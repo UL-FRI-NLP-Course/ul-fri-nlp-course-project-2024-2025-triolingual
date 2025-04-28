@@ -1,0 +1,155 @@
+[
+  {
+    "question": "Who is the head of state of Russia?",
+    "answer": "Vladimir Putin",
+    "entity": "Russia",
+    "position": "head of state",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "Russia",
+          "label": "Russia"
+        },
+        {
+          "id": "Putin",
+          "label": "Vladimir Putin"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Putin",
+          "target": "Russia",
+          "relation": "head of state"
+        }
+      ]
+    }
+  },
+  {
+    "question": "Which city was Harald V of Norway born in?",
+    "answer": "Skaugum",
+    "entity": "Harald V",
+    "relation": "place of birth",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "Harald",
+          "label": "Harald V"
+        },
+        {
+          "id": "Skaugum",
+          "label": "Skaugum"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Harald",
+          "target": "Skaugum",
+          "relation": "place of birth"
+        }
+      ]
+    }
+  },
+  {
+    "question": "What is the birthplace of the head of state of Norway?",
+    "answer": "Skaugum",
+    "entity": "Norway",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Norway, then find their birthplace",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Norway",
+          "label": "Norway"
+        },
+        {
+          "id": "Harald",
+          "label": "Harald V"
+        },
+        {
+          "id": "Skaugum",
+          "label": "Skaugum"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Harald",
+          "target": "Norway",
+          "relation": "head of state"
+        },
+        {
+          "source": "Harald",
+          "target": "Skaugum",
+          "relation": "place of birth"
+        }
+      ]
+    }
+  },
+  {
+    "question": "Who is the spouse of the leader of Russia?",
+    "answer": "Lyudmila Putina",
+    "entity": "Russia",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the leader of Russia, then find their spouse",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Russia",
+          "label": "Russia"
+        },
+        {
+          "id": "Putin",
+          "label": "Vladimir Putin"
+        },
+        {
+          "id": "Lyudmila",
+          "label": "Lyudmila Putina"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Putin",
+          "target": "Russia",
+          "relation": "head of state"
+        },
+        {
+          "source": "Putin",
+          "target": "Lyudmila",
+          "relation": "spouse"
+        }
+      ]
+    }
+  },
+  {
+    "question": "What country is Sergio Mattarella the president of?",
+    "answer": "Italy",
+    "entity": "Sergio Mattarella",
+    "position": "president",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "Italy",
+          "label": "Italy"
+        },
+        {
+          "id": "Mattarella",
+          "label": "Sergio Mattarella"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Mattarella",
+          "target": "Italy",
+          "relation": "president of"
+        }
+      ]
+    }
+  }
+]
