@@ -1,0 +1,3052 @@
+[
+  {
+    "question": "Who is the head of state of Luxembourg?",
+    "answer": "Henri, Grand Duke of Luxembourg",
+    "entity": "Luxembourg",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "2bd6ed0d-9433-4f02-a75a-1d2dc0896f93",
+          "label": "Luxembourg"
+        },
+        {
+          "id": "6297bb22-864d-4d18-8d97-a0217ea21fe4",
+          "label": "Henri, Grand Duke of Luxembourg"
+        }
+      ],
+      "edges": [
+        {
+          "source": "6297bb22-864d-4d18-8d97-a0217ea21fe4",
+          "target": "2bd6ed0d-9433-4f02-a75a-1d2dc0896f93",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "6297bb22-864d-4d18-8d97-a0217ea21fe4",
+        "P35",
+        "2bd6ed0d-9433-4f02-a75a-1d2dc0896f93",
+        "head of state",
+        "Luxembourg"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of United Kingdom?",
+    "answer": "Charles III",
+    "entity": "United Kingdom",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "727cfd29-e6b5-4c3d-b671-12d56e1b489a",
+          "label": "United Kingdom"
+        },
+        {
+          "id": "25cab15d-d56b-4d74-9911-53f3a485c88e",
+          "label": "Charles III"
+        }
+      ],
+      "edges": [
+        {
+          "source": "25cab15d-d56b-4d74-9911-53f3a485c88e",
+          "target": "727cfd29-e6b5-4c3d-b671-12d56e1b489a",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "25cab15d-d56b-4d74-9911-53f3a485c88e",
+        "P35",
+        "727cfd29-e6b5-4c3d-b671-12d56e1b489a",
+        "head of state",
+        "United Kingdom"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of Sweden?",
+    "answer": "Carl XVI Gustaf of Sweden",
+    "entity": "Sweden",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "29c123bd-1b80-40ad-ab4c-3b5440b6d2da",
+          "label": "Sweden"
+        },
+        {
+          "id": "9825cca3-edf2-4bca-92b6-036b078817ad",
+          "label": "Carl XVI Gustaf of Sweden"
+        }
+      ],
+      "edges": [
+        {
+          "source": "9825cca3-edf2-4bca-92b6-036b078817ad",
+          "target": "29c123bd-1b80-40ad-ab4c-3b5440b6d2da",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "9825cca3-edf2-4bca-92b6-036b078817ad",
+        "P35",
+        "29c123bd-1b80-40ad-ab4c-3b5440b6d2da",
+        "head of state",
+        "Sweden"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of Ireland?",
+    "answer": "Michael D. Higgins",
+    "entity": "Ireland",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "049e86a9-5fd5-40e0-93d9-b7cecbc84f9b",
+          "label": "Ireland"
+        },
+        {
+          "id": "e4ded65f-df4f-4b05-8a2d-f690a00052da",
+          "label": "Michael D. Higgins"
+        }
+      ],
+      "edges": [
+        {
+          "source": "e4ded65f-df4f-4b05-8a2d-f690a00052da",
+          "target": "049e86a9-5fd5-40e0-93d9-b7cecbc84f9b",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "e4ded65f-df4f-4b05-8a2d-f690a00052da",
+        "P35",
+        "049e86a9-5fd5-40e0-93d9-b7cecbc84f9b",
+        "head of state",
+        "Ireland"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of Croatia?",
+    "answer": "Zoran Milanović",
+    "entity": "Croatia",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "8bbeb4e0-2c0b-47eb-95f1-38cda13b4d6b",
+          "label": "Croatia"
+        },
+        {
+          "id": "5cf77887-5fa3-4df4-be3f-7bdcccd61d77",
+          "label": "Zoran Milanović"
+        }
+      ],
+      "edges": [
+        {
+          "source": "5cf77887-5fa3-4df4-be3f-7bdcccd61d77",
+          "target": "8bbeb4e0-2c0b-47eb-95f1-38cda13b4d6b",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "5cf77887-5fa3-4df4-be3f-7bdcccd61d77",
+        "P35",
+        "8bbeb4e0-2c0b-47eb-95f1-38cda13b4d6b",
+        "head of state",
+        "Croatia"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of Germany?",
+    "answer": "Frank-Walter Steinmeier",
+    "entity": "Germany",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "fdc28bd4-d121-4dbd-a4f5-8f88cc7ba57a",
+          "label": "Germany"
+        },
+        {
+          "id": "476efcdd-e7a5-4125-8c1f-025d4c4ad1b6",
+          "label": "Frank-Walter Steinmeier"
+        }
+      ],
+      "edges": [
+        {
+          "source": "476efcdd-e7a5-4125-8c1f-025d4c4ad1b6",
+          "target": "fdc28bd4-d121-4dbd-a4f5-8f88cc7ba57a",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "476efcdd-e7a5-4125-8c1f-025d4c4ad1b6",
+        "P35",
+        "fdc28bd4-d121-4dbd-a4f5-8f88cc7ba57a",
+        "head of state",
+        "Germany"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of Austria?",
+    "answer": "Alexander Van der Bellen",
+    "entity": "Austria",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "4aa4d829-01c2-4a42-927a-70e34d94298e",
+          "label": "Austria"
+        },
+        {
+          "id": "173ecbcd-d3dc-471f-a36a-6842c9d4360c",
+          "label": "Alexander Van der Bellen"
+        }
+      ],
+      "edges": [
+        {
+          "source": "173ecbcd-d3dc-471f-a36a-6842c9d4360c",
+          "target": "4aa4d829-01c2-4a42-927a-70e34d94298e",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "173ecbcd-d3dc-471f-a36a-6842c9d4360c",
+        "P35",
+        "4aa4d829-01c2-4a42-927a-70e34d94298e",
+        "head of state",
+        "Austria"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of Kingdom of the Netherlands?",
+    "answer": "William Alexander of the Netherlands",
+    "entity": "Kingdom of the Netherlands",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "91530bd1-b168-4510-b18a-afa0b3d7b43a",
+          "label": "Kingdom of the Netherlands"
+        },
+        {
+          "id": "efd813d2-5f9c-4d3b-9ab2-2ac9e134a461",
+          "label": "William Alexander of the Netherlands"
+        }
+      ],
+      "edges": [
+        {
+          "source": "efd813d2-5f9c-4d3b-9ab2-2ac9e134a461",
+          "target": "91530bd1-b168-4510-b18a-afa0b3d7b43a",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "efd813d2-5f9c-4d3b-9ab2-2ac9e134a461",
+        "P35",
+        "91530bd1-b168-4510-b18a-afa0b3d7b43a",
+        "head of state",
+        "Kingdom of the Netherlands"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of Belgium?",
+    "answer": "Philippe of Belgium",
+    "entity": "Belgium",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "52932188-09fd-4e59-b91e-223cc0db9631",
+          "label": "Belgium"
+        },
+        {
+          "id": "83956d2f-3a84-473b-b8fc-c5ec47d93390",
+          "label": "Philippe of Belgium"
+        }
+      ],
+      "edges": [
+        {
+          "source": "83956d2f-3a84-473b-b8fc-c5ec47d93390",
+          "target": "52932188-09fd-4e59-b91e-223cc0db9631",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "83956d2f-3a84-473b-b8fc-c5ec47d93390",
+        "P35",
+        "52932188-09fd-4e59-b91e-223cc0db9631",
+        "head of state",
+        "Belgium"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of Spain?",
+    "answer": "Felipe VI of Spain",
+    "entity": "Spain",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "18cded5b-81fc-4a50-a7e5-09eb3941841d",
+          "label": "Spain"
+        },
+        {
+          "id": "dc0475fc-1580-4ac1-96d1-9a3617b15c29",
+          "label": "Felipe VI of Spain"
+        }
+      ],
+      "edges": [
+        {
+          "source": "dc0475fc-1580-4ac1-96d1-9a3617b15c29",
+          "target": "18cded5b-81fc-4a50-a7e5-09eb3941841d",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "dc0475fc-1580-4ac1-96d1-9a3617b15c29",
+        "P35",
+        "18cded5b-81fc-4a50-a7e5-09eb3941841d",
+        "head of state",
+        "Spain"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of Finland?",
+    "answer": "Alexander Stubb",
+    "entity": "Finland",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "5d46172f-2b0d-4abf-a5d5-11d7cba96276",
+          "label": "Finland"
+        },
+        {
+          "id": "e9a43159-9545-4756-a6d2-e3b73519dbb2",
+          "label": "Alexander Stubb"
+        }
+      ],
+      "edges": [
+        {
+          "source": "e9a43159-9545-4756-a6d2-e3b73519dbb2",
+          "target": "5d46172f-2b0d-4abf-a5d5-11d7cba96276",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "e9a43159-9545-4756-a6d2-e3b73519dbb2",
+        "P35",
+        "5d46172f-2b0d-4abf-a5d5-11d7cba96276",
+        "head of state",
+        "Finland"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of Denmark?",
+    "answer": "Frederik X of Denmark",
+    "entity": "Denmark",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "8a17477a-8cc1-45f4-ba00-e43fc6bd6599",
+          "label": "Denmark"
+        },
+        {
+          "id": "f18d0dbf-9992-4f9e-a430-3ec7d0a28f17",
+          "label": "Frederik X of Denmark"
+        }
+      ],
+      "edges": [
+        {
+          "source": "f18d0dbf-9992-4f9e-a430-3ec7d0a28f17",
+          "target": "8a17477a-8cc1-45f4-ba00-e43fc6bd6599",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "f18d0dbf-9992-4f9e-a430-3ec7d0a28f17",
+        "P35",
+        "8a17477a-8cc1-45f4-ba00-e43fc6bd6599",
+        "head of state",
+        "Denmark"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of Malta?",
+    "answer": "Myriam Spiteri Debono",
+    "entity": "Malta",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "5511c9bd-a897-4279-b197-d5d31fe1d898",
+          "label": "Malta"
+        },
+        {
+          "id": "7f865623-9bbb-4fe0-8f0a-ae84120ee1a9",
+          "label": "Myriam Spiteri Debono"
+        }
+      ],
+      "edges": [
+        {
+          "source": "7f865623-9bbb-4fe0-8f0a-ae84120ee1a9",
+          "target": "5511c9bd-a897-4279-b197-d5d31fe1d898",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "7f865623-9bbb-4fe0-8f0a-ae84120ee1a9",
+        "P35",
+        "5511c9bd-a897-4279-b197-d5d31fe1d898",
+        "head of state",
+        "Malta"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of Czech Republic?",
+    "answer": "Petr Pavel",
+    "entity": "Czech Republic",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "117f9c6d-cff3-44f4-a287-bf495d9564ba",
+          "label": "Czech Republic"
+        },
+        {
+          "id": "f0c93ead-dc17-4123-89aa-ff6e4086cfd8",
+          "label": "Petr Pavel"
+        }
+      ],
+      "edges": [
+        {
+          "source": "f0c93ead-dc17-4123-89aa-ff6e4086cfd8",
+          "target": "117f9c6d-cff3-44f4-a287-bf495d9564ba",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "f0c93ead-dc17-4123-89aa-ff6e4086cfd8",
+        "P35",
+        "117f9c6d-cff3-44f4-a287-bf495d9564ba",
+        "head of state",
+        "Czech Republic"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of Latvia?",
+    "answer": "Edgars Rinkēvičs",
+    "entity": "Latvia",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "562333d2-55cc-4d5f-b858-44b2ab89bb6a",
+          "label": "Latvia"
+        },
+        {
+          "id": "7768e888-c8b5-41f0-a7bc-db00bf759e85",
+          "label": "Edgars Rinkēvičs"
+        }
+      ],
+      "edges": [
+        {
+          "source": "7768e888-c8b5-41f0-a7bc-db00bf759e85",
+          "target": "562333d2-55cc-4d5f-b858-44b2ab89bb6a",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "7768e888-c8b5-41f0-a7bc-db00bf759e85",
+        "P35",
+        "562333d2-55cc-4d5f-b858-44b2ab89bb6a",
+        "head of state",
+        "Latvia"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of France?",
+    "answer": "Emmanuel Macron",
+    "entity": "France",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "a7404096-20b7-491b-a7b8-8310db817e61",
+          "label": "France"
+        },
+        {
+          "id": "0886c503-57fa-4135-9e2d-d82e70fd4d50",
+          "label": "Emmanuel Macron"
+        }
+      ],
+      "edges": [
+        {
+          "source": "0886c503-57fa-4135-9e2d-d82e70fd4d50",
+          "target": "a7404096-20b7-491b-a7b8-8310db817e61",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "0886c503-57fa-4135-9e2d-d82e70fd4d50",
+        "P35",
+        "a7404096-20b7-491b-a7b8-8310db817e61",
+        "head of state",
+        "France"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of Italy?",
+    "answer": "Sergio Mattarella",
+    "entity": "Italy",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "5352134c-a65c-448f-8b3f-bfc41a26f937",
+          "label": "Italy"
+        },
+        {
+          "id": "2bf00829-907e-4001-bed2-b07f6ad49480",
+          "label": "Sergio Mattarella"
+        }
+      ],
+      "edges": [
+        {
+          "source": "2bf00829-907e-4001-bed2-b07f6ad49480",
+          "target": "5352134c-a65c-448f-8b3f-bfc41a26f937",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "2bf00829-907e-4001-bed2-b07f6ad49480",
+        "P35",
+        "5352134c-a65c-448f-8b3f-bfc41a26f937",
+        "head of state",
+        "Italy"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of Portugal?",
+    "answer": "Marcelo Rebelo de Sousa",
+    "entity": "Portugal",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "5918843f-04de-4ea9-bc62-affabe297923",
+          "label": "Portugal"
+        },
+        {
+          "id": "b943bcf6-cabd-41e0-a8f4-9c9f27fa1970",
+          "label": "Marcelo Rebelo de Sousa"
+        }
+      ],
+      "edges": [
+        {
+          "source": "b943bcf6-cabd-41e0-a8f4-9c9f27fa1970",
+          "target": "5918843f-04de-4ea9-bc62-affabe297923",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "b943bcf6-cabd-41e0-a8f4-9c9f27fa1970",
+        "P35",
+        "5918843f-04de-4ea9-bc62-affabe297923",
+        "head of state",
+        "Portugal"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of Poland?",
+    "answer": "Andrzej Duda",
+    "entity": "Poland",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "beb8e19f-a7c0-4f5a-b85d-1174e310c99f",
+          "label": "Poland"
+        },
+        {
+          "id": "1a58961a-deb0-4d1c-b1af-94e62be53dd7",
+          "label": "Andrzej Duda"
+        }
+      ],
+      "edges": [
+        {
+          "source": "1a58961a-deb0-4d1c-b1af-94e62be53dd7",
+          "target": "beb8e19f-a7c0-4f5a-b85d-1174e310c99f",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "1a58961a-deb0-4d1c-b1af-94e62be53dd7",
+        "P35",
+        "beb8e19f-a7c0-4f5a-b85d-1174e310c99f",
+        "head of state",
+        "Poland"
+      ]
+    ]
+  },
+  {
+    "question": "Who is the head of state of Lithuania?",
+    "answer": "Gitanas Nausėda",
+    "entity": "Lithuania",
+    "complexity": "simple",
+    "requires_traversal": false,
+    "graph": {
+      "nodes": [
+        {
+          "id": "ce599606-ced9-4ff9-aacd-fb857298fdb1",
+          "label": "Lithuania"
+        },
+        {
+          "id": "8a801d59-967c-43be-90b8-cce6d990c0f7",
+          "label": "Gitanas Nausėda"
+        }
+      ],
+      "edges": [
+        {
+          "source": "8a801d59-967c-43be-90b8-cce6d990c0f7",
+          "target": "ce599606-ced9-4ff9-aacd-fb857298fdb1",
+          "relation": "head of state",
+          "relation_id": "P35"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "8a801d59-967c-43be-90b8-cce6d990c0f7",
+        "P35",
+        "ce599606-ced9-4ff9-aacd-fb857298fdb1",
+        "head of state",
+        "Lithuania"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Slovenia born?",
+    "answer": "Ljubljana",
+    "entity": "Slovenia",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Slovenia, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "2809ce0a-6813-46f4-b501-55a101615603",
+          "label": "Slovenia"
+        },
+        {
+          "id": "61c26e2b-9ecb-4812-a93f-4ee6d6d5b568",
+          "label": "Nataša Pirc Musar"
+        },
+        {
+          "id": "160e676a-5eff-4454-97f2-f8537775d457",
+          "label": "Ljubljana"
+        }
+      ],
+      "edges": [
+        {
+          "source": "61c26e2b-9ecb-4812-a93f-4ee6d6d5b568",
+          "target": "2809ce0a-6813-46f4-b501-55a101615603",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "61c26e2b-9ecb-4812-a93f-4ee6d6d5b568",
+          "target": "160e676a-5eff-4454-97f2-f8537775d457",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "61c26e2b-9ecb-4812-a93f-4ee6d6d5b568",
+        "P35",
+        "2809ce0a-6813-46f4-b501-55a101615603",
+        "head of state",
+        "Slovenia"
+      ],
+      [
+        "61c26e2b-9ecb-4812-a93f-4ee6d6d5b568",
+        "P19",
+        "160e676a-5eff-4454-97f2-f8537775d457",
+        "place of birth",
+        "Ljubljana"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Luxembourg born?",
+    "answer": "Betzdorf Castle",
+    "entity": "Luxembourg",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Luxembourg, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "3d05e383-04dc-42fe-bb73-314066c50ff9",
+          "label": "Luxembourg"
+        },
+        {
+          "id": "e43938c2-9363-4627-9c72-9504ffec373f",
+          "label": "Henri, Grand Duke of Luxembourg"
+        },
+        {
+          "id": "efdb5058-2c0e-4e98-94c8-4cce704a4178",
+          "label": "Betzdorf Castle"
+        }
+      ],
+      "edges": [
+        {
+          "source": "e43938c2-9363-4627-9c72-9504ffec373f",
+          "target": "3d05e383-04dc-42fe-bb73-314066c50ff9",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "e43938c2-9363-4627-9c72-9504ffec373f",
+          "target": "efdb5058-2c0e-4e98-94c8-4cce704a4178",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "e43938c2-9363-4627-9c72-9504ffec373f",
+        "P35",
+        "3d05e383-04dc-42fe-bb73-314066c50ff9",
+        "head of state",
+        "Luxembourg"
+      ],
+      [
+        "e43938c2-9363-4627-9c72-9504ffec373f",
+        "P19",
+        "efdb5058-2c0e-4e98-94c8-4cce704a4178",
+        "place of birth",
+        "Betzdorf Castle"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Sweden born?",
+    "answer": "Haga Palace",
+    "entity": "Sweden",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Sweden, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "811bf2a2-044a-47f5-978b-6f646ddfe826",
+          "label": "Sweden"
+        },
+        {
+          "id": "986f6a00-fd99-4473-853d-8ddbf25f066a",
+          "label": "Carl XVI Gustaf of Sweden"
+        },
+        {
+          "id": "8297c7db-6441-4ac2-a175-90eafb95bb40",
+          "label": "Haga Palace"
+        }
+      ],
+      "edges": [
+        {
+          "source": "986f6a00-fd99-4473-853d-8ddbf25f066a",
+          "target": "811bf2a2-044a-47f5-978b-6f646ddfe826",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "986f6a00-fd99-4473-853d-8ddbf25f066a",
+          "target": "8297c7db-6441-4ac2-a175-90eafb95bb40",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "986f6a00-fd99-4473-853d-8ddbf25f066a",
+        "P35",
+        "811bf2a2-044a-47f5-978b-6f646ddfe826",
+        "head of state",
+        "Sweden"
+      ],
+      [
+        "986f6a00-fd99-4473-853d-8ddbf25f066a",
+        "P19",
+        "8297c7db-6441-4ac2-a175-90eafb95bb40",
+        "place of birth",
+        "Haga Palace"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Ireland born?",
+    "answer": "Limerick",
+    "entity": "Ireland",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Ireland, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "4e31a872-f6f0-4ead-a0e2-c6b0ce9adb13",
+          "label": "Ireland"
+        },
+        {
+          "id": "35fb9ed1-df5c-4d5f-b424-df8057e85d51",
+          "label": "Michael D. Higgins"
+        },
+        {
+          "id": "d2c5ccbc-10a5-4a55-bd5a-c497e3b52b62",
+          "label": "Limerick"
+        }
+      ],
+      "edges": [
+        {
+          "source": "35fb9ed1-df5c-4d5f-b424-df8057e85d51",
+          "target": "4e31a872-f6f0-4ead-a0e2-c6b0ce9adb13",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "35fb9ed1-df5c-4d5f-b424-df8057e85d51",
+          "target": "d2c5ccbc-10a5-4a55-bd5a-c497e3b52b62",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "35fb9ed1-df5c-4d5f-b424-df8057e85d51",
+        "P35",
+        "4e31a872-f6f0-4ead-a0e2-c6b0ce9adb13",
+        "head of state",
+        "Ireland"
+      ],
+      [
+        "35fb9ed1-df5c-4d5f-b424-df8057e85d51",
+        "P19",
+        "d2c5ccbc-10a5-4a55-bd5a-c497e3b52b62",
+        "place of birth",
+        "Limerick"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Belgium born?",
+    "answer": "Laeken",
+    "entity": "Belgium",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Belgium, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "9322c509-394a-4527-8561-50ce58a59d60",
+          "label": "Belgium"
+        },
+        {
+          "id": "e2b007f3-0e19-4b9b-b76d-68b51af6faa5",
+          "label": "Philippe of Belgium"
+        },
+        {
+          "id": "487a74c6-5e98-4a18-8261-8531039d1246",
+          "label": "Laeken"
+        }
+      ],
+      "edges": [
+        {
+          "source": "e2b007f3-0e19-4b9b-b76d-68b51af6faa5",
+          "target": "9322c509-394a-4527-8561-50ce58a59d60",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "e2b007f3-0e19-4b9b-b76d-68b51af6faa5",
+          "target": "487a74c6-5e98-4a18-8261-8531039d1246",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "e2b007f3-0e19-4b9b-b76d-68b51af6faa5",
+        "P35",
+        "9322c509-394a-4527-8561-50ce58a59d60",
+        "head of state",
+        "Belgium"
+      ],
+      [
+        "e2b007f3-0e19-4b9b-b76d-68b51af6faa5",
+        "P19",
+        "487a74c6-5e98-4a18-8261-8531039d1246",
+        "place of birth",
+        "Laeken"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Spain born?",
+    "answer": "Madrid",
+    "entity": "Spain",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Spain, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "31c098e7-812b-40bc-878b-f081f13bb493",
+          "label": "Spain"
+        },
+        {
+          "id": "52023e90-4e0a-4499-8800-abb0988d5cfb",
+          "label": "Felipe VI of Spain"
+        },
+        {
+          "id": "7b81e829-25ce-458c-a90e-137857a1b1d6",
+          "label": "Madrid"
+        }
+      ],
+      "edges": [
+        {
+          "source": "52023e90-4e0a-4499-8800-abb0988d5cfb",
+          "target": "31c098e7-812b-40bc-878b-f081f13bb493",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "52023e90-4e0a-4499-8800-abb0988d5cfb",
+          "target": "7b81e829-25ce-458c-a90e-137857a1b1d6",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "52023e90-4e0a-4499-8800-abb0988d5cfb",
+        "P35",
+        "31c098e7-812b-40bc-878b-f081f13bb493",
+        "head of state",
+        "Spain"
+      ],
+      [
+        "52023e90-4e0a-4499-8800-abb0988d5cfb",
+        "P19",
+        "7b81e829-25ce-458c-a90e-137857a1b1d6",
+        "place of birth",
+        "Madrid"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Finland born?",
+    "answer": "Helsinki",
+    "entity": "Finland",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Finland, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "1e2a541b-4b7a-4c06-bf10-2fabc73375f4",
+          "label": "Finland"
+        },
+        {
+          "id": "a9a36006-fe24-445b-9a8c-34e28bee6234",
+          "label": "Alexander Stubb"
+        },
+        {
+          "id": "44c1b882-63b4-4f4d-a5fb-a3528653b541",
+          "label": "Helsinki"
+        }
+      ],
+      "edges": [
+        {
+          "source": "a9a36006-fe24-445b-9a8c-34e28bee6234",
+          "target": "1e2a541b-4b7a-4c06-bf10-2fabc73375f4",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "a9a36006-fe24-445b-9a8c-34e28bee6234",
+          "target": "44c1b882-63b4-4f4d-a5fb-a3528653b541",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "a9a36006-fe24-445b-9a8c-34e28bee6234",
+        "P35",
+        "1e2a541b-4b7a-4c06-bf10-2fabc73375f4",
+        "head of state",
+        "Finland"
+      ],
+      [
+        "a9a36006-fe24-445b-9a8c-34e28bee6234",
+        "P19",
+        "44c1b882-63b4-4f4d-a5fb-a3528653b541",
+        "place of birth",
+        "Helsinki"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Denmark born?",
+    "answer": "Rigshospitalet",
+    "entity": "Denmark",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Denmark, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "cd8d6704-9959-46a6-a86c-8f87a551b139",
+          "label": "Denmark"
+        },
+        {
+          "id": "6bc55c66-a18f-4435-a300-4d581f4db68b",
+          "label": "Frederik X of Denmark"
+        },
+        {
+          "id": "bc4cc08f-46d3-4b28-ba13-769f5f379c76",
+          "label": "Rigshospitalet"
+        }
+      ],
+      "edges": [
+        {
+          "source": "6bc55c66-a18f-4435-a300-4d581f4db68b",
+          "target": "cd8d6704-9959-46a6-a86c-8f87a551b139",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "6bc55c66-a18f-4435-a300-4d581f4db68b",
+          "target": "bc4cc08f-46d3-4b28-ba13-769f5f379c76",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "6bc55c66-a18f-4435-a300-4d581f4db68b",
+        "P35",
+        "cd8d6704-9959-46a6-a86c-8f87a551b139",
+        "head of state",
+        "Denmark"
+      ],
+      [
+        "6bc55c66-a18f-4435-a300-4d581f4db68b",
+        "P19",
+        "bc4cc08f-46d3-4b28-ba13-769f5f379c76",
+        "place of birth",
+        "Rigshospitalet"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Italy born?",
+    "answer": "Palermo",
+    "entity": "Italy",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Italy, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "302c04c8-1795-4c21-a2e3-e9b69fe19ed0",
+          "label": "Italy"
+        },
+        {
+          "id": "bdfdf31e-6721-4121-903d-9eb2a5693d24",
+          "label": "Sergio Mattarella"
+        },
+        {
+          "id": "43507a85-db1c-4604-98b4-3f81e6d8a802",
+          "label": "Palermo"
+        }
+      ],
+      "edges": [
+        {
+          "source": "bdfdf31e-6721-4121-903d-9eb2a5693d24",
+          "target": "302c04c8-1795-4c21-a2e3-e9b69fe19ed0",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "bdfdf31e-6721-4121-903d-9eb2a5693d24",
+          "target": "43507a85-db1c-4604-98b4-3f81e6d8a802",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "bdfdf31e-6721-4121-903d-9eb2a5693d24",
+        "P35",
+        "302c04c8-1795-4c21-a2e3-e9b69fe19ed0",
+        "head of state",
+        "Italy"
+      ],
+      [
+        "bdfdf31e-6721-4121-903d-9eb2a5693d24",
+        "P19",
+        "43507a85-db1c-4604-98b4-3f81e6d8a802",
+        "place of birth",
+        "Palermo"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Poland born?",
+    "answer": "Kraków",
+    "entity": "Poland",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Poland, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "ee161603-0b51-46ad-bc80-8f6ba4f74c74",
+          "label": "Poland"
+        },
+        {
+          "id": "641cfc5d-344d-4231-a7ba-fdb382a4ff82",
+          "label": "Andrzej Duda"
+        },
+        {
+          "id": "2787bbb4-f552-4a1f-a095-f6a7e544fc50",
+          "label": "Kraków"
+        }
+      ],
+      "edges": [
+        {
+          "source": "641cfc5d-344d-4231-a7ba-fdb382a4ff82",
+          "target": "ee161603-0b51-46ad-bc80-8f6ba4f74c74",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "641cfc5d-344d-4231-a7ba-fdb382a4ff82",
+          "target": "2787bbb4-f552-4a1f-a095-f6a7e544fc50",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "641cfc5d-344d-4231-a7ba-fdb382a4ff82",
+        "P35",
+        "ee161603-0b51-46ad-bc80-8f6ba4f74c74",
+        "head of state",
+        "Poland"
+      ],
+      [
+        "641cfc5d-344d-4231-a7ba-fdb382a4ff82",
+        "P19",
+        "2787bbb4-f552-4a1f-a095-f6a7e544fc50",
+        "place of birth",
+        "Kraków"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Lithuania born?",
+    "answer": "Klaipėda",
+    "entity": "Lithuania",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Lithuania, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "8e3c0ff5-78f3-4ba5-a4d4-bef0e74b281d",
+          "label": "Lithuania"
+        },
+        {
+          "id": "b4cad7e7-271a-41d6-9d45-8db7fecac9fb",
+          "label": "Gitanas Nausėda"
+        },
+        {
+          "id": "b6d5f458-b5ed-4c53-af74-452ac1cc475c",
+          "label": "Klaipėda"
+        }
+      ],
+      "edges": [
+        {
+          "source": "b4cad7e7-271a-41d6-9d45-8db7fecac9fb",
+          "target": "8e3c0ff5-78f3-4ba5-a4d4-bef0e74b281d",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "b4cad7e7-271a-41d6-9d45-8db7fecac9fb",
+          "target": "b6d5f458-b5ed-4c53-af74-452ac1cc475c",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "b4cad7e7-271a-41d6-9d45-8db7fecac9fb",
+        "P35",
+        "8e3c0ff5-78f3-4ba5-a4d4-bef0e74b281d",
+        "head of state",
+        "Lithuania"
+      ],
+      [
+        "b4cad7e7-271a-41d6-9d45-8db7fecac9fb",
+        "P19",
+        "b6d5f458-b5ed-4c53-af74-452ac1cc475c",
+        "place of birth",
+        "Klaipėda"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Hungary born?",
+    "answer": "Kiskunfélegyháza",
+    "entity": "Hungary",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Hungary, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "66c30772-f142-4b33-94f9-86fc01c2496a",
+          "label": "Hungary"
+        },
+        {
+          "id": "edd58a21-36f6-4cf7-8d3e-19b26abab0fb",
+          "label": "Tamás Sulyok"
+        },
+        {
+          "id": "3ca9d94e-6b59-464b-8986-b109d247bc6d",
+          "label": "Kiskunfélegyháza"
+        }
+      ],
+      "edges": [
+        {
+          "source": "edd58a21-36f6-4cf7-8d3e-19b26abab0fb",
+          "target": "66c30772-f142-4b33-94f9-86fc01c2496a",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "edd58a21-36f6-4cf7-8d3e-19b26abab0fb",
+          "target": "3ca9d94e-6b59-464b-8986-b109d247bc6d",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "edd58a21-36f6-4cf7-8d3e-19b26abab0fb",
+        "P35",
+        "66c30772-f142-4b33-94f9-86fc01c2496a",
+        "head of state",
+        "Hungary"
+      ],
+      [
+        "edd58a21-36f6-4cf7-8d3e-19b26abab0fb",
+        "P19",
+        "3ca9d94e-6b59-464b-8986-b109d247bc6d",
+        "place of birth",
+        "Kiskunfélegyháza"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of United Kingdom born?",
+    "answer": "Buckingham Palace",
+    "entity": "United Kingdom",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of United Kingdom, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "810cf64a-68aa-4b02-807c-aab8526a4b3a",
+          "label": "United Kingdom"
+        },
+        {
+          "id": "014e421d-a9b6-4407-95fd-0cbb3469047d",
+          "label": "Charles III"
+        },
+        {
+          "id": "7c1a0d3a-49cc-4a4f-8f28-c1a73512abb7",
+          "label": "Buckingham Palace"
+        }
+      ],
+      "edges": [
+        {
+          "source": "014e421d-a9b6-4407-95fd-0cbb3469047d",
+          "target": "810cf64a-68aa-4b02-807c-aab8526a4b3a",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "014e421d-a9b6-4407-95fd-0cbb3469047d",
+          "target": "7c1a0d3a-49cc-4a4f-8f28-c1a73512abb7",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "014e421d-a9b6-4407-95fd-0cbb3469047d",
+        "P35",
+        "810cf64a-68aa-4b02-807c-aab8526a4b3a",
+        "head of state",
+        "United Kingdom"
+      ],
+      [
+        "014e421d-a9b6-4407-95fd-0cbb3469047d",
+        "P19",
+        "7c1a0d3a-49cc-4a4f-8f28-c1a73512abb7",
+        "place of birth",
+        "Buckingham Palace"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Croatia born?",
+    "answer": "Zagreb",
+    "entity": "Croatia",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Croatia, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "c592b823-ab23-4cc6-b6a7-1ccb018aa022",
+          "label": "Croatia"
+        },
+        {
+          "id": "35f0bee1-1a22-46f5-8cd1-0c2241fb9d70",
+          "label": "Zoran Milanović"
+        },
+        {
+          "id": "6b251337-0252-40e5-8a28-8d79c768e300",
+          "label": "Zagreb"
+        }
+      ],
+      "edges": [
+        {
+          "source": "35f0bee1-1a22-46f5-8cd1-0c2241fb9d70",
+          "target": "c592b823-ab23-4cc6-b6a7-1ccb018aa022",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "35f0bee1-1a22-46f5-8cd1-0c2241fb9d70",
+          "target": "6b251337-0252-40e5-8a28-8d79c768e300",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "35f0bee1-1a22-46f5-8cd1-0c2241fb9d70",
+        "P35",
+        "c592b823-ab23-4cc6-b6a7-1ccb018aa022",
+        "head of state",
+        "Croatia"
+      ],
+      [
+        "35f0bee1-1a22-46f5-8cd1-0c2241fb9d70",
+        "P19",
+        "6b251337-0252-40e5-8a28-8d79c768e300",
+        "place of birth",
+        "Zagreb"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Germany born?",
+    "answer": "Detmold",
+    "entity": "Germany",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Germany, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "ab02f65c-0aa9-4007-9d49-efbbfd50c28d",
+          "label": "Germany"
+        },
+        {
+          "id": "eee08611-8da5-4c1a-85c6-4d1c392b9b1c",
+          "label": "Frank-Walter Steinmeier"
+        },
+        {
+          "id": "30af200d-4935-4756-b1ba-0eac528a41e6",
+          "label": "Detmold"
+        }
+      ],
+      "edges": [
+        {
+          "source": "eee08611-8da5-4c1a-85c6-4d1c392b9b1c",
+          "target": "ab02f65c-0aa9-4007-9d49-efbbfd50c28d",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "eee08611-8da5-4c1a-85c6-4d1c392b9b1c",
+          "target": "30af200d-4935-4756-b1ba-0eac528a41e6",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "eee08611-8da5-4c1a-85c6-4d1c392b9b1c",
+        "P35",
+        "ab02f65c-0aa9-4007-9d49-efbbfd50c28d",
+        "head of state",
+        "Germany"
+      ],
+      [
+        "eee08611-8da5-4c1a-85c6-4d1c392b9b1c",
+        "P19",
+        "30af200d-4935-4756-b1ba-0eac528a41e6",
+        "place of birth",
+        "Detmold"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Austria born?",
+    "answer": "Vienna",
+    "entity": "Austria",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Austria, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "6428ed7d-988d-4a4d-b453-82af48b018af",
+          "label": "Austria"
+        },
+        {
+          "id": "8d765b58-d7a1-4929-a6ac-8f1681d1c434",
+          "label": "Alexander Van der Bellen"
+        },
+        {
+          "id": "57c6ae9e-6bcc-489a-bc55-cde3b0ddebcb",
+          "label": "Vienna"
+        }
+      ],
+      "edges": [
+        {
+          "source": "8d765b58-d7a1-4929-a6ac-8f1681d1c434",
+          "target": "6428ed7d-988d-4a4d-b453-82af48b018af",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "8d765b58-d7a1-4929-a6ac-8f1681d1c434",
+          "target": "57c6ae9e-6bcc-489a-bc55-cde3b0ddebcb",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "8d765b58-d7a1-4929-a6ac-8f1681d1c434",
+        "P35",
+        "6428ed7d-988d-4a4d-b453-82af48b018af",
+        "head of state",
+        "Austria"
+      ],
+      [
+        "8d765b58-d7a1-4929-a6ac-8f1681d1c434",
+        "P19",
+        "57c6ae9e-6bcc-489a-bc55-cde3b0ddebcb",
+        "place of birth",
+        "Vienna"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Kingdom of the Netherlands born?",
+    "answer": "University Medical Center Utrecht",
+    "entity": "Kingdom of the Netherlands",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Kingdom of the Netherlands, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "00c93e8e-9e5f-4755-ab0d-a8c4f1a6afdc",
+          "label": "Kingdom of the Netherlands"
+        },
+        {
+          "id": "af7d7a84-5ede-4b80-b989-1b4331527a97",
+          "label": "William Alexander of the Netherlands"
+        },
+        {
+          "id": "c9f21408-85cd-4d97-92f0-15a2715d17b4",
+          "label": "University Medical Center Utrecht"
+        }
+      ],
+      "edges": [
+        {
+          "source": "af7d7a84-5ede-4b80-b989-1b4331527a97",
+          "target": "00c93e8e-9e5f-4755-ab0d-a8c4f1a6afdc",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "af7d7a84-5ede-4b80-b989-1b4331527a97",
+          "target": "c9f21408-85cd-4d97-92f0-15a2715d17b4",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "af7d7a84-5ede-4b80-b989-1b4331527a97",
+        "P35",
+        "00c93e8e-9e5f-4755-ab0d-a8c4f1a6afdc",
+        "head of state",
+        "Kingdom of the Netherlands"
+      ],
+      [
+        "af7d7a84-5ede-4b80-b989-1b4331527a97",
+        "P19",
+        "c9f21408-85cd-4d97-92f0-15a2715d17b4",
+        "place of birth",
+        "University Medical Center Utrecht"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Malta born?",
+    "answer": "Rabat",
+    "entity": "Malta",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Malta, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "b0565624-ad61-4c6e-b8e6-6942458ac816",
+          "label": "Malta"
+        },
+        {
+          "id": "9e03434c-1b46-4641-b49e-45e59f2f2ff2",
+          "label": "Myriam Spiteri Debono"
+        },
+        {
+          "id": "39f7da12-b8a5-4a1c-a84c-75c414ba3158",
+          "label": "Rabat"
+        }
+      ],
+      "edges": [
+        {
+          "source": "9e03434c-1b46-4641-b49e-45e59f2f2ff2",
+          "target": "b0565624-ad61-4c6e-b8e6-6942458ac816",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "9e03434c-1b46-4641-b49e-45e59f2f2ff2",
+          "target": "39f7da12-b8a5-4a1c-a84c-75c414ba3158",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "9e03434c-1b46-4641-b49e-45e59f2f2ff2",
+        "P35",
+        "b0565624-ad61-4c6e-b8e6-6942458ac816",
+        "head of state",
+        "Malta"
+      ],
+      [
+        "9e03434c-1b46-4641-b49e-45e59f2f2ff2",
+        "P19",
+        "39f7da12-b8a5-4a1c-a84c-75c414ba3158",
+        "place of birth",
+        "Rabat"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Czech Republic born?",
+    "answer": "Planá",
+    "entity": "Czech Republic",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Czech Republic, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "4f139e58-36c9-4f77-9b6a-7c831c65fa47",
+          "label": "Czech Republic"
+        },
+        {
+          "id": "c26e8848-421b-4fd2-a667-052cd5c3e972",
+          "label": "Petr Pavel"
+        },
+        {
+          "id": "5d56cd3e-9339-481d-9db3-e5c7898294a6",
+          "label": "Planá"
+        }
+      ],
+      "edges": [
+        {
+          "source": "c26e8848-421b-4fd2-a667-052cd5c3e972",
+          "target": "4f139e58-36c9-4f77-9b6a-7c831c65fa47",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "c26e8848-421b-4fd2-a667-052cd5c3e972",
+          "target": "5d56cd3e-9339-481d-9db3-e5c7898294a6",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "c26e8848-421b-4fd2-a667-052cd5c3e972",
+        "P35",
+        "4f139e58-36c9-4f77-9b6a-7c831c65fa47",
+        "head of state",
+        "Czech Republic"
+      ],
+      [
+        "c26e8848-421b-4fd2-a667-052cd5c3e972",
+        "P19",
+        "5d56cd3e-9339-481d-9db3-e5c7898294a6",
+        "place of birth",
+        "Planá"
+      ]
+    ]
+  },
+  {
+    "question": "Where was the head of state of Latvia born?",
+    "answer": "Jūrmala",
+    "entity": "Latvia",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Latvia, then get their birthplace.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "c68241b1-da79-430a-8055-35a4abbc532e",
+          "label": "Latvia"
+        },
+        {
+          "id": "293880f8-cb2d-46a8-a0f8-398526ae731f",
+          "label": "Edgars Rinkēvičs"
+        },
+        {
+          "id": "bdd0bc39-e784-45d0-afd1-9c516fc26b82",
+          "label": "Jūrmala"
+        }
+      ],
+      "edges": [
+        {
+          "source": "293880f8-cb2d-46a8-a0f8-398526ae731f",
+          "target": "c68241b1-da79-430a-8055-35a4abbc532e",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "293880f8-cb2d-46a8-a0f8-398526ae731f",
+          "target": "bdd0bc39-e784-45d0-afd1-9c516fc26b82",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "293880f8-cb2d-46a8-a0f8-398526ae731f",
+        "P35",
+        "c68241b1-da79-430a-8055-35a4abbc532e",
+        "head of state",
+        "Latvia"
+      ],
+      [
+        "293880f8-cb2d-46a8-a0f8-398526ae731f",
+        "P19",
+        "bdd0bc39-e784-45d0-afd1-9c516fc26b82",
+        "place of birth",
+        "Jūrmala"
+      ]
+    ]
+  },
+  {
+    "question": "What university did the head of state of Luxembourg attend?",
+    "answer": "University of Geneva",
+    "entity": "Luxembourg",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Luxembourg, then find where they were educated.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "98533e9b-7e43-4bd2-a076-8989647660ed",
+          "label": "Luxembourg"
+        },
+        {
+          "id": "498539ea-a7e5-40af-80bc-300a2276d725",
+          "label": "Henri, Grand Duke of Luxembourg"
+        },
+        {
+          "id": "0da0bb26-64ec-41d8-ad81-ccb0854d8694",
+          "label": "University of Geneva"
+        }
+      ],
+      "edges": [
+        {
+          "source": "498539ea-a7e5-40af-80bc-300a2276d725",
+          "target": "98533e9b-7e43-4bd2-a076-8989647660ed",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "498539ea-a7e5-40af-80bc-300a2276d725",
+          "target": "0da0bb26-64ec-41d8-ad81-ccb0854d8694",
+          "relation": "educated at",
+          "relation_id": "P69"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "498539ea-a7e5-40af-80bc-300a2276d725",
+        "P35",
+        "98533e9b-7e43-4bd2-a076-8989647660ed",
+        "head of state",
+        "Luxembourg"
+      ],
+      [
+        "498539ea-a7e5-40af-80bc-300a2276d725",
+        "P69",
+        "0da0bb26-64ec-41d8-ad81-ccb0854d8694",
+        "educated at",
+        "University of Geneva"
+      ]
+    ]
+  },
+  {
+    "question": "What university did the head of state of Luxembourg attend?",
+    "answer": "Royal Military Academy Sandhurst",
+    "entity": "Luxembourg",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Luxembourg, then find where they were educated.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "733abf49-4ce2-4a33-83b2-58a9bcadc3ea",
+          "label": "Luxembourg"
+        },
+        {
+          "id": "a5e91666-9eab-4583-ac8f-075064582e5a",
+          "label": "Henri, Grand Duke of Luxembourg"
+        },
+        {
+          "id": "9d03abc2-11fe-4d86-9222-20d10da5d4b7",
+          "label": "Royal Military Academy Sandhurst"
+        }
+      ],
+      "edges": [
+        {
+          "source": "a5e91666-9eab-4583-ac8f-075064582e5a",
+          "target": "733abf49-4ce2-4a33-83b2-58a9bcadc3ea",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "a5e91666-9eab-4583-ac8f-075064582e5a",
+          "target": "9d03abc2-11fe-4d86-9222-20d10da5d4b7",
+          "relation": "educated at",
+          "relation_id": "P69"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "a5e91666-9eab-4583-ac8f-075064582e5a",
+        "P35",
+        "733abf49-4ce2-4a33-83b2-58a9bcadc3ea",
+        "head of state",
+        "Luxembourg"
+      ],
+      [
+        "a5e91666-9eab-4583-ac8f-075064582e5a",
+        "P69",
+        "9d03abc2-11fe-4d86-9222-20d10da5d4b7",
+        "educated at",
+        "Royal Military Academy Sandhurst"
+      ]
+    ]
+  },
+  {
+    "question": "What university did the head of state of Luxembourg attend?",
+    "answer": "Lycée classique de Diekirch",
+    "entity": "Luxembourg",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Luxembourg, then find where they were educated.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "9d2f19ff-fc36-479c-8d74-ed37d6194345",
+          "label": "Luxembourg"
+        },
+        {
+          "id": "06c94eb7-2a8b-4de0-80b5-0b49ee8540cf",
+          "label": "Henri, Grand Duke of Luxembourg"
+        },
+        {
+          "id": "3dba3044-3e0f-4412-bbe1-cf08a360d5dd",
+          "label": "Lycée classique de Diekirch"
+        }
+      ],
+      "edges": [
+        {
+          "source": "06c94eb7-2a8b-4de0-80b5-0b49ee8540cf",
+          "target": "9d2f19ff-fc36-479c-8d74-ed37d6194345",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "06c94eb7-2a8b-4de0-80b5-0b49ee8540cf",
+          "target": "3dba3044-3e0f-4412-bbe1-cf08a360d5dd",
+          "relation": "educated at",
+          "relation_id": "P69"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "06c94eb7-2a8b-4de0-80b5-0b49ee8540cf",
+        "P35",
+        "9d2f19ff-fc36-479c-8d74-ed37d6194345",
+        "head of state",
+        "Luxembourg"
+      ],
+      [
+        "06c94eb7-2a8b-4de0-80b5-0b49ee8540cf",
+        "P69",
+        "3dba3044-3e0f-4412-bbe1-cf08a360d5dd",
+        "educated at",
+        "Lycée classique de Diekirch"
+      ]
+    ]
+  },
+  {
+    "question": "What university did the head of state of Sweden attend?",
+    "answer": "Uppsala University",
+    "entity": "Sweden",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Sweden, then find where they were educated.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "54368575-a539-473e-891d-9c296067d66c",
+          "label": "Sweden"
+        },
+        {
+          "id": "e45ec759-75b4-4069-893c-d2da85aeb703",
+          "label": "Carl XVI Gustaf of Sweden"
+        },
+        {
+          "id": "1bc6af16-a24d-4c10-831e-1d425ad31d15",
+          "label": "Uppsala University"
+        }
+      ],
+      "edges": [
+        {
+          "source": "e45ec759-75b4-4069-893c-d2da85aeb703",
+          "target": "54368575-a539-473e-891d-9c296067d66c",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "e45ec759-75b4-4069-893c-d2da85aeb703",
+          "target": "1bc6af16-a24d-4c10-831e-1d425ad31d15",
+          "relation": "educated at",
+          "relation_id": "P69"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "e45ec759-75b4-4069-893c-d2da85aeb703",
+        "P35",
+        "54368575-a539-473e-891d-9c296067d66c",
+        "head of state",
+        "Sweden"
+      ],
+      [
+        "e45ec759-75b4-4069-893c-d2da85aeb703",
+        "P69",
+        "1bc6af16-a24d-4c10-831e-1d425ad31d15",
+        "educated at",
+        "Uppsala University"
+      ]
+    ]
+  },
+  {
+    "question": "What university did the head of state of Sweden attend?",
+    "answer": "Sigtunaskolan Humanistiska Läroverket",
+    "entity": "Sweden",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Sweden, then find where they were educated.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "640cf971-1e6d-47b8-8418-19b24695eb25",
+          "label": "Sweden"
+        },
+        {
+          "id": "9411af09-e38e-45a4-9418-a5c12bdef2b1",
+          "label": "Carl XVI Gustaf of Sweden"
+        },
+        {
+          "id": "88c833bd-6c19-4efb-a099-90e22a52e6d8",
+          "label": "Sigtunaskolan Humanistiska Läroverket"
+        }
+      ],
+      "edges": [
+        {
+          "source": "9411af09-e38e-45a4-9418-a5c12bdef2b1",
+          "target": "640cf971-1e6d-47b8-8418-19b24695eb25",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "9411af09-e38e-45a4-9418-a5c12bdef2b1",
+          "target": "88c833bd-6c19-4efb-a099-90e22a52e6d8",
+          "relation": "educated at",
+          "relation_id": "P69"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "9411af09-e38e-45a4-9418-a5c12bdef2b1",
+        "P35",
+        "640cf971-1e6d-47b8-8418-19b24695eb25",
+        "head of state",
+        "Sweden"
+      ],
+      [
+        "9411af09-e38e-45a4-9418-a5c12bdef2b1",
+        "P69",
+        "88c833bd-6c19-4efb-a099-90e22a52e6d8",
+        "educated at",
+        "Sigtunaskolan Humanistiska Läroverket"
+      ]
+    ]
+  },
+  {
+    "question": "What university did the head of state of Ireland attend?",
+    "answer": "University of Manchester",
+    "entity": "Ireland",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Ireland, then find where they were educated.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "48e14ae4-83f1-4047-a998-cdc700df3770",
+          "label": "Ireland"
+        },
+        {
+          "id": "daef23be-896c-404c-91eb-04f0164ecc4f",
+          "label": "Michael D. Higgins"
+        },
+        {
+          "id": "ef433548-ce0a-4204-aa83-9879858660f4",
+          "label": "University of Manchester"
+        }
+      ],
+      "edges": [
+        {
+          "source": "daef23be-896c-404c-91eb-04f0164ecc4f",
+          "target": "48e14ae4-83f1-4047-a998-cdc700df3770",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "daef23be-896c-404c-91eb-04f0164ecc4f",
+          "target": "ef433548-ce0a-4204-aa83-9879858660f4",
+          "relation": "educated at",
+          "relation_id": "P69"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "daef23be-896c-404c-91eb-04f0164ecc4f",
+        "P35",
+        "48e14ae4-83f1-4047-a998-cdc700df3770",
+        "head of state",
+        "Ireland"
+      ],
+      [
+        "daef23be-896c-404c-91eb-04f0164ecc4f",
+        "P69",
+        "ef433548-ce0a-4204-aa83-9879858660f4",
+        "educated at",
+        "University of Manchester"
+      ]
+    ]
+  },
+  {
+    "question": "What university did the head of state of Ireland attend?",
+    "answer": "University of Galway",
+    "entity": "Ireland",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Ireland, then find where they were educated.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "676ef8df-d263-4631-9a1e-ab585c865ba0",
+          "label": "Ireland"
+        },
+        {
+          "id": "ed038005-3868-4422-999f-c789355c9583",
+          "label": "Michael D. Higgins"
+        },
+        {
+          "id": "30ce051c-737f-45be-b069-4bdff9b4fb9a",
+          "label": "University of Galway"
+        }
+      ],
+      "edges": [
+        {
+          "source": "ed038005-3868-4422-999f-c789355c9583",
+          "target": "676ef8df-d263-4631-9a1e-ab585c865ba0",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "ed038005-3868-4422-999f-c789355c9583",
+          "target": "30ce051c-737f-45be-b069-4bdff9b4fb9a",
+          "relation": "educated at",
+          "relation_id": "P69"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "ed038005-3868-4422-999f-c789355c9583",
+        "P35",
+        "676ef8df-d263-4631-9a1e-ab585c865ba0",
+        "head of state",
+        "Ireland"
+      ],
+      [
+        "ed038005-3868-4422-999f-c789355c9583",
+        "P69",
+        "30ce051c-737f-45be-b069-4bdff9b4fb9a",
+        "educated at",
+        "University of Galway"
+      ]
+    ]
+  },
+  {
+    "question": "What university did the head of state of Ireland attend?",
+    "answer": "Indiana University Bloomington",
+    "entity": "Ireland",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Ireland, then find where they were educated.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "b1b8da1a-9a34-4cca-aa3f-2885155febce",
+          "label": "Ireland"
+        },
+        {
+          "id": "c18aaa03-8672-4ea2-9fd5-599c5cc0d361",
+          "label": "Michael D. Higgins"
+        },
+        {
+          "id": "e8afc211-fcf7-4e78-a1f8-949b59dea12a",
+          "label": "Indiana University Bloomington"
+        }
+      ],
+      "edges": [
+        {
+          "source": "c18aaa03-8672-4ea2-9fd5-599c5cc0d361",
+          "target": "b1b8da1a-9a34-4cca-aa3f-2885155febce",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "c18aaa03-8672-4ea2-9fd5-599c5cc0d361",
+          "target": "e8afc211-fcf7-4e78-a1f8-949b59dea12a",
+          "relation": "educated at",
+          "relation_id": "P69"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "c18aaa03-8672-4ea2-9fd5-599c5cc0d361",
+        "P35",
+        "b1b8da1a-9a34-4cca-aa3f-2885155febce",
+        "head of state",
+        "Ireland"
+      ],
+      [
+        "c18aaa03-8672-4ea2-9fd5-599c5cc0d361",
+        "P69",
+        "e8afc211-fcf7-4e78-a1f8-949b59dea12a",
+        "educated at",
+        "Indiana University Bloomington"
+      ]
+    ]
+  },
+  {
+    "question": "What university did the head of state of Ireland attend?",
+    "answer": "Indiana University",
+    "entity": "Ireland",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Ireland, then find where they were educated.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "e9e9f987-c102-4d92-9290-c48e68baa214",
+          "label": "Ireland"
+        },
+        {
+          "id": "8266a6e2-90e7-4dd3-b15f-9db9168765dd",
+          "label": "Michael D. Higgins"
+        },
+        {
+          "id": "f43e27fc-546d-4429-8d91-1db29e4b2f95",
+          "label": "Indiana University"
+        }
+      ],
+      "edges": [
+        {
+          "source": "8266a6e2-90e7-4dd3-b15f-9db9168765dd",
+          "target": "e9e9f987-c102-4d92-9290-c48e68baa214",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "8266a6e2-90e7-4dd3-b15f-9db9168765dd",
+          "target": "f43e27fc-546d-4429-8d91-1db29e4b2f95",
+          "relation": "educated at",
+          "relation_id": "P69"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "8266a6e2-90e7-4dd3-b15f-9db9168765dd",
+        "P35",
+        "e9e9f987-c102-4d92-9290-c48e68baa214",
+        "head of state",
+        "Ireland"
+      ],
+      [
+        "8266a6e2-90e7-4dd3-b15f-9db9168765dd",
+        "P69",
+        "f43e27fc-546d-4429-8d91-1db29e4b2f95",
+        "educated at",
+        "Indiana University"
+      ]
+    ]
+  },
+  {
+    "question": "What university did the head of state of Ireland attend?",
+    "answer": "St. Flannan's College",
+    "entity": "Ireland",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Ireland, then find where they were educated.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "d576edcc-1296-4adb-9904-497f9d019f52",
+          "label": "Ireland"
+        },
+        {
+          "id": "70fc045b-1b2a-4e4f-9c70-b64c8c2c5e81",
+          "label": "Michael D. Higgins"
+        },
+        {
+          "id": "a4ef836f-50c4-46e0-bda8-63cb6b702b49",
+          "label": "St. Flannan's College"
+        }
+      ],
+      "edges": [
+        {
+          "source": "70fc045b-1b2a-4e4f-9c70-b64c8c2c5e81",
+          "target": "d576edcc-1296-4adb-9904-497f9d019f52",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "70fc045b-1b2a-4e4f-9c70-b64c8c2c5e81",
+          "target": "a4ef836f-50c4-46e0-bda8-63cb6b702b49",
+          "relation": "educated at",
+          "relation_id": "P69"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "70fc045b-1b2a-4e4f-9c70-b64c8c2c5e81",
+        "P35",
+        "d576edcc-1296-4adb-9904-497f9d019f52",
+        "head of state",
+        "Ireland"
+      ],
+      [
+        "70fc045b-1b2a-4e4f-9c70-b64c8c2c5e81",
+        "P69",
+        "a4ef836f-50c4-46e0-bda8-63cb6b702b49",
+        "educated at",
+        "St. Flannan's College"
+      ]
+    ]
+  },
+  {
+    "question": "In which country did the head of state of Slovenia receive their education?",
+    "answer": "Slovenia",
+    "entity": "Slovenia",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Slovenia, then find where they were educated, then find the country where that institution is located.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "a79e9ad7-cf7f-4a1a-9536-eb42fa8ef856",
+          "label": "Slovenia"
+        },
+        {
+          "id": "f0e7d486-ded5-4964-8c94-18a87a7dc2c7",
+          "label": "Nataša Pirc Musar"
+        },
+        {
+          "id": "eca809f1-e4c7-407e-aa43-5bf5e7085be9",
+          "label": "University of Ljubljana"
+        },
+        {
+          "id": "30120136-31f4-43ce-94e3-0f9998f7247c",
+          "label": "Slovenia"
+        }
+      ],
+      "edges": [
+        {
+          "source": "f0e7d486-ded5-4964-8c94-18a87a7dc2c7",
+          "target": "a79e9ad7-cf7f-4a1a-9536-eb42fa8ef856",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "f0e7d486-ded5-4964-8c94-18a87a7dc2c7",
+          "target": "eca809f1-e4c7-407e-aa43-5bf5e7085be9",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "eca809f1-e4c7-407e-aa43-5bf5e7085be9",
+          "target": "30120136-31f4-43ce-94e3-0f9998f7247c",
+          "relation": "located in",
+          "relation_id": "P17"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "f0e7d486-ded5-4964-8c94-18a87a7dc2c7",
+        "P35",
+        "a79e9ad7-cf7f-4a1a-9536-eb42fa8ef856",
+        "head of state",
+        "Slovenia"
+      ],
+      [
+        "f0e7d486-ded5-4964-8c94-18a87a7dc2c7",
+        "P69",
+        "eca809f1-e4c7-407e-aa43-5bf5e7085be9",
+        "educated at",
+        "University of Ljubljana"
+      ],
+      [
+        "eca809f1-e4c7-407e-aa43-5bf5e7085be9",
+        "P17",
+        "30120136-31f4-43ce-94e3-0f9998f7247c",
+        "located in",
+        "Slovenia"
+      ]
+    ]
+  },
+  {
+    "question": "In which country did the head of state of Slovenia receive their education?",
+    "answer": "Austria",
+    "entity": "Slovenia",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Slovenia, then find where they were educated, then find the country where that institution is located.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "c6d68974-bb95-44b5-820d-4b4fb537c0e0",
+          "label": "Slovenia"
+        },
+        {
+          "id": "97a6beab-99a2-4056-a40d-1741ef41ac1a",
+          "label": "Nataša Pirc Musar"
+        },
+        {
+          "id": "38b91cda-0e86-4826-9b7b-eb37b96939ca",
+          "label": "University of Vienna"
+        },
+        {
+          "id": "98102c23-ceb9-4be9-99a8-ae47b4a3ddd3",
+          "label": "Austria"
+        }
+      ],
+      "edges": [
+        {
+          "source": "97a6beab-99a2-4056-a40d-1741ef41ac1a",
+          "target": "c6d68974-bb95-44b5-820d-4b4fb537c0e0",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "97a6beab-99a2-4056-a40d-1741ef41ac1a",
+          "target": "38b91cda-0e86-4826-9b7b-eb37b96939ca",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "38b91cda-0e86-4826-9b7b-eb37b96939ca",
+          "target": "98102c23-ceb9-4be9-99a8-ae47b4a3ddd3",
+          "relation": "located in",
+          "relation_id": "P17"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "97a6beab-99a2-4056-a40d-1741ef41ac1a",
+        "P35",
+        "c6d68974-bb95-44b5-820d-4b4fb537c0e0",
+        "head of state",
+        "Slovenia"
+      ],
+      [
+        "97a6beab-99a2-4056-a40d-1741ef41ac1a",
+        "P69",
+        "38b91cda-0e86-4826-9b7b-eb37b96939ca",
+        "educated at",
+        "University of Vienna"
+      ],
+      [
+        "38b91cda-0e86-4826-9b7b-eb37b96939ca",
+        "P17",
+        "98102c23-ceb9-4be9-99a8-ae47b4a3ddd3",
+        "located in",
+        "Austria"
+      ]
+    ]
+  },
+  {
+    "question": "In which country did the head of state of Slovenia receive their education?",
+    "answer": "United Kingdom",
+    "entity": "Slovenia",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Slovenia, then find where they were educated, then find the country where that institution is located.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "f062748b-50c8-4a82-a1a2-ebf120688999",
+          "label": "Slovenia"
+        },
+        {
+          "id": "923293c8-beca-4ee7-8cdf-5d33404b48eb",
+          "label": "Nataša Pirc Musar"
+        },
+        {
+          "id": "946218a5-dbfc-4a40-9fcc-d5da69fdc15a",
+          "label": "University of Salford"
+        },
+        {
+          "id": "a63bbc60-8a30-4a3e-86a5-00f0c7c72ad3",
+          "label": "United Kingdom"
+        }
+      ],
+      "edges": [
+        {
+          "source": "923293c8-beca-4ee7-8cdf-5d33404b48eb",
+          "target": "f062748b-50c8-4a82-a1a2-ebf120688999",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "923293c8-beca-4ee7-8cdf-5d33404b48eb",
+          "target": "946218a5-dbfc-4a40-9fcc-d5da69fdc15a",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "946218a5-dbfc-4a40-9fcc-d5da69fdc15a",
+          "target": "a63bbc60-8a30-4a3e-86a5-00f0c7c72ad3",
+          "relation": "located in",
+          "relation_id": "P17"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "923293c8-beca-4ee7-8cdf-5d33404b48eb",
+        "P35",
+        "f062748b-50c8-4a82-a1a2-ebf120688999",
+        "head of state",
+        "Slovenia"
+      ],
+      [
+        "923293c8-beca-4ee7-8cdf-5d33404b48eb",
+        "P69",
+        "946218a5-dbfc-4a40-9fcc-d5da69fdc15a",
+        "educated at",
+        "University of Salford"
+      ],
+      [
+        "946218a5-dbfc-4a40-9fcc-d5da69fdc15a",
+        "P17",
+        "a63bbc60-8a30-4a3e-86a5-00f0c7c72ad3",
+        "located in",
+        "United Kingdom"
+      ]
+    ]
+  },
+  {
+    "question": "In which country did the head of state of Denmark receive their education?",
+    "answer": "United States",
+    "entity": "Denmark",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Denmark, then find where they were educated, then find the country where that institution is located.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "83a64436-bb03-464b-afd3-7922b7b3091c",
+          "label": "Denmark"
+        },
+        {
+          "id": "2293f488-acc4-4bf3-b874-38425af5d92a",
+          "label": "Frederik X of Denmark"
+        },
+        {
+          "id": "3f0abf7e-c7b1-4f74-8cab-648d2a5d112f",
+          "label": "Harvard University"
+        },
+        {
+          "id": "e4356142-efbd-4737-9c33-18e640e711cd",
+          "label": "United States"
+        }
+      ],
+      "edges": [
+        {
+          "source": "2293f488-acc4-4bf3-b874-38425af5d92a",
+          "target": "83a64436-bb03-464b-afd3-7922b7b3091c",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "2293f488-acc4-4bf3-b874-38425af5d92a",
+          "target": "3f0abf7e-c7b1-4f74-8cab-648d2a5d112f",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "3f0abf7e-c7b1-4f74-8cab-648d2a5d112f",
+          "target": "e4356142-efbd-4737-9c33-18e640e711cd",
+          "relation": "located in",
+          "relation_id": "P17"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "2293f488-acc4-4bf3-b874-38425af5d92a",
+        "P35",
+        "83a64436-bb03-464b-afd3-7922b7b3091c",
+        "head of state",
+        "Denmark"
+      ],
+      [
+        "2293f488-acc4-4bf3-b874-38425af5d92a",
+        "P69",
+        "3f0abf7e-c7b1-4f74-8cab-648d2a5d112f",
+        "educated at",
+        "Harvard University"
+      ],
+      [
+        "3f0abf7e-c7b1-4f74-8cab-648d2a5d112f",
+        "P17",
+        "e4356142-efbd-4737-9c33-18e640e711cd",
+        "located in",
+        "United States"
+      ]
+    ]
+  },
+  {
+    "question": "In which country did the head of state of Belgium receive their education?",
+    "answer": "United States",
+    "entity": "Belgium",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Belgium, then find where they were educated, then find the country where that institution is located.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "dce11a44-deda-4039-8807-13f4a8e45b50",
+          "label": "Belgium"
+        },
+        {
+          "id": "3cb02e2e-2abd-4a88-a73e-14909ca6e518",
+          "label": "Philippe of Belgium"
+        },
+        {
+          "id": "a1c5d33f-cce5-42f1-9736-114ae5471f89",
+          "label": "Stanford University"
+        },
+        {
+          "id": "cc37b8ff-03f9-483d-aa44-790b178d43c1",
+          "label": "United States"
+        }
+      ],
+      "edges": [
+        {
+          "source": "3cb02e2e-2abd-4a88-a73e-14909ca6e518",
+          "target": "dce11a44-deda-4039-8807-13f4a8e45b50",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "3cb02e2e-2abd-4a88-a73e-14909ca6e518",
+          "target": "a1c5d33f-cce5-42f1-9736-114ae5471f89",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "a1c5d33f-cce5-42f1-9736-114ae5471f89",
+          "target": "cc37b8ff-03f9-483d-aa44-790b178d43c1",
+          "relation": "located in",
+          "relation_id": "P17"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "3cb02e2e-2abd-4a88-a73e-14909ca6e518",
+        "P35",
+        "dce11a44-deda-4039-8807-13f4a8e45b50",
+        "head of state",
+        "Belgium"
+      ],
+      [
+        "3cb02e2e-2abd-4a88-a73e-14909ca6e518",
+        "P69",
+        "a1c5d33f-cce5-42f1-9736-114ae5471f89",
+        "educated at",
+        "Stanford University"
+      ],
+      [
+        "a1c5d33f-cce5-42f1-9736-114ae5471f89",
+        "P17",
+        "cc37b8ff-03f9-483d-aa44-790b178d43c1",
+        "located in",
+        "United States"
+      ]
+    ]
+  },
+  {
+    "question": "In which country did the head of state of Belgium receive their education?",
+    "answer": "United Kingdom",
+    "entity": "Belgium",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Belgium, then find where they were educated, then find the country where that institution is located.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "4ae0571f-1607-4a32-9950-7aca3fcecdd3",
+          "label": "Belgium"
+        },
+        {
+          "id": "3c8ab8d4-b351-4ac6-a23b-5dfd286526b0",
+          "label": "Philippe of Belgium"
+        },
+        {
+          "id": "8ece79aa-3bf1-4747-9009-28938dcf33d5",
+          "label": "Trinity College"
+        },
+        {
+          "id": "1014652c-04f2-48b8-bc2f-77908a27ec60",
+          "label": "United Kingdom"
+        }
+      ],
+      "edges": [
+        {
+          "source": "3c8ab8d4-b351-4ac6-a23b-5dfd286526b0",
+          "target": "4ae0571f-1607-4a32-9950-7aca3fcecdd3",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "3c8ab8d4-b351-4ac6-a23b-5dfd286526b0",
+          "target": "8ece79aa-3bf1-4747-9009-28938dcf33d5",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "8ece79aa-3bf1-4747-9009-28938dcf33d5",
+          "target": "1014652c-04f2-48b8-bc2f-77908a27ec60",
+          "relation": "located in",
+          "relation_id": "P17"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "3c8ab8d4-b351-4ac6-a23b-5dfd286526b0",
+        "P35",
+        "4ae0571f-1607-4a32-9950-7aca3fcecdd3",
+        "head of state",
+        "Belgium"
+      ],
+      [
+        "3c8ab8d4-b351-4ac6-a23b-5dfd286526b0",
+        "P69",
+        "8ece79aa-3bf1-4747-9009-28938dcf33d5",
+        "educated at",
+        "Trinity College"
+      ],
+      [
+        "8ece79aa-3bf1-4747-9009-28938dcf33d5",
+        "P17",
+        "1014652c-04f2-48b8-bc2f-77908a27ec60",
+        "located in",
+        "United Kingdom"
+      ]
+    ]
+  },
+  {
+    "question": "In which country did the head of state of Spain receive their education?",
+    "answer": "United States",
+    "entity": "Spain",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Spain, then find where they were educated, then find the country where that institution is located.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "d66c1031-f6d4-44b8-8feb-d508709394c3",
+          "label": "Spain"
+        },
+        {
+          "id": "fded43be-b84e-4e69-89cf-d42fb18fde6b",
+          "label": "Felipe VI of Spain"
+        },
+        {
+          "id": "df203497-b8d2-42f2-915b-286fac1f8642",
+          "label": "Walsh School of Foreign Service"
+        },
+        {
+          "id": "5364f35f-9933-4ba4-a356-51c770d5a702",
+          "label": "United States"
+        }
+      ],
+      "edges": [
+        {
+          "source": "fded43be-b84e-4e69-89cf-d42fb18fde6b",
+          "target": "d66c1031-f6d4-44b8-8feb-d508709394c3",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "fded43be-b84e-4e69-89cf-d42fb18fde6b",
+          "target": "df203497-b8d2-42f2-915b-286fac1f8642",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "df203497-b8d2-42f2-915b-286fac1f8642",
+          "target": "5364f35f-9933-4ba4-a356-51c770d5a702",
+          "relation": "located in",
+          "relation_id": "P17"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "fded43be-b84e-4e69-89cf-d42fb18fde6b",
+        "P35",
+        "d66c1031-f6d4-44b8-8feb-d508709394c3",
+        "head of state",
+        "Spain"
+      ],
+      [
+        "fded43be-b84e-4e69-89cf-d42fb18fde6b",
+        "P69",
+        "df203497-b8d2-42f2-915b-286fac1f8642",
+        "educated at",
+        "Walsh School of Foreign Service"
+      ],
+      [
+        "df203497-b8d2-42f2-915b-286fac1f8642",
+        "P17",
+        "5364f35f-9933-4ba4-a356-51c770d5a702",
+        "located in",
+        "United States"
+      ]
+    ]
+  },
+  {
+    "question": "In which country did the head of state of Finland receive their education?",
+    "answer": "United Kingdom",
+    "entity": "Finland",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Finland, then find where they were educated, then find the country where that institution is located.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "4fb8c455-c512-4dc0-aa06-b0f2acf99573",
+          "label": "Finland"
+        },
+        {
+          "id": "dec3453b-80c6-4bb4-95ed-2324e0ff5258",
+          "label": "Alexander Stubb"
+        },
+        {
+          "id": "20e38cd4-2092-4476-8411-a46ff2f57d16",
+          "label": "London School of Economics and Political Science"
+        },
+        {
+          "id": "f9a04d60-270f-458c-828c-26c5b8ecadf0",
+          "label": "United Kingdom"
+        }
+      ],
+      "edges": [
+        {
+          "source": "dec3453b-80c6-4bb4-95ed-2324e0ff5258",
+          "target": "4fb8c455-c512-4dc0-aa06-b0f2acf99573",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "dec3453b-80c6-4bb4-95ed-2324e0ff5258",
+          "target": "20e38cd4-2092-4476-8411-a46ff2f57d16",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "20e38cd4-2092-4476-8411-a46ff2f57d16",
+          "target": "f9a04d60-270f-458c-828c-26c5b8ecadf0",
+          "relation": "located in",
+          "relation_id": "P17"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "dec3453b-80c6-4bb4-95ed-2324e0ff5258",
+        "P35",
+        "4fb8c455-c512-4dc0-aa06-b0f2acf99573",
+        "head of state",
+        "Finland"
+      ],
+      [
+        "dec3453b-80c6-4bb4-95ed-2324e0ff5258",
+        "P69",
+        "20e38cd4-2092-4476-8411-a46ff2f57d16",
+        "educated at",
+        "London School of Economics and Political Science"
+      ],
+      [
+        "20e38cd4-2092-4476-8411-a46ff2f57d16",
+        "P17",
+        "f9a04d60-270f-458c-828c-26c5b8ecadf0",
+        "located in",
+        "United Kingdom"
+      ]
+    ]
+  },
+  {
+    "question": "In which country did the head of state of Denmark receive their education?",
+    "answer": "France",
+    "entity": "Denmark",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Denmark, then find where they were educated, then find the country where that institution is located.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "ceb9d189-d0a4-478e-a06f-6bf55febbd79",
+          "label": "Denmark"
+        },
+        {
+          "id": "bd9f2f8b-31b8-4d8f-a75a-fcb2de1b2317",
+          "label": "Frederik X of Denmark"
+        },
+        {
+          "id": "34a86a05-f1b2-4689-9229-a301f48445cd",
+          "label": "École des Roches"
+        },
+        {
+          "id": "647f280f-557b-4bf1-869f-eee7ed10e122",
+          "label": "France"
+        }
+      ],
+      "edges": [
+        {
+          "source": "bd9f2f8b-31b8-4d8f-a75a-fcb2de1b2317",
+          "target": "ceb9d189-d0a4-478e-a06f-6bf55febbd79",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "bd9f2f8b-31b8-4d8f-a75a-fcb2de1b2317",
+          "target": "34a86a05-f1b2-4689-9229-a301f48445cd",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "34a86a05-f1b2-4689-9229-a301f48445cd",
+          "target": "647f280f-557b-4bf1-869f-eee7ed10e122",
+          "relation": "located in",
+          "relation_id": "P17"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "bd9f2f8b-31b8-4d8f-a75a-fcb2de1b2317",
+        "P35",
+        "ceb9d189-d0a4-478e-a06f-6bf55febbd79",
+        "head of state",
+        "Denmark"
+      ],
+      [
+        "bd9f2f8b-31b8-4d8f-a75a-fcb2de1b2317",
+        "P69",
+        "34a86a05-f1b2-4689-9229-a301f48445cd",
+        "educated at",
+        "École des Roches"
+      ],
+      [
+        "34a86a05-f1b2-4689-9229-a301f48445cd",
+        "P17",
+        "647f280f-557b-4bf1-869f-eee7ed10e122",
+        "located in",
+        "France"
+      ]
+    ]
+  },
+  {
+    "question": "In which country did the head of state of Sweden receive their education?",
+    "answer": "Sweden",
+    "entity": "Sweden",
+    "complexity": "complex",
+    "requires_traversal": true,
+    "traversal_hints": "Find the head of state of Sweden, then find where they were educated, then find the country where that institution is located.",
+    "graph": {
+      "nodes": [
+        {
+          "id": "07aeb5d8-6c33-4dcf-b4bd-bbf20e018b87",
+          "label": "Sweden"
+        },
+        {
+          "id": "d460f40f-7de6-4101-a24b-e616433eca48",
+          "label": "Carl XVI Gustaf of Sweden"
+        },
+        {
+          "id": "727a6830-6442-4239-9678-7546a6c37fb8",
+          "label": "Uppsala University"
+        },
+        {
+          "id": "e119e54c-1d5f-4c61-b775-065b1c8a4537",
+          "label": "Sweden"
+        }
+      ],
+      "edges": [
+        {
+          "source": "d460f40f-7de6-4101-a24b-e616433eca48",
+          "target": "07aeb5d8-6c33-4dcf-b4bd-bbf20e018b87",
+          "relation": "head of state",
+          "relation_id": "P35"
+        },
+        {
+          "source": "d460f40f-7de6-4101-a24b-e616433eca48",
+          "target": "727a6830-6442-4239-9678-7546a6c37fb8",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "727a6830-6442-4239-9678-7546a6c37fb8",
+          "target": "e119e54c-1d5f-4c61-b775-065b1c8a4537",
+          "relation": "located in",
+          "relation_id": "P17"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "d460f40f-7de6-4101-a24b-e616433eca48",
+        "P35",
+        "07aeb5d8-6c33-4dcf-b4bd-bbf20e018b87",
+        "head of state",
+        "Sweden"
+      ],
+      [
+        "d460f40f-7de6-4101-a24b-e616433eca48",
+        "P69",
+        "727a6830-6442-4239-9678-7546a6c37fb8",
+        "educated at",
+        "Uppsala University"
+      ],
+      [
+        "727a6830-6442-4239-9678-7546a6c37fb8",
+        "P17",
+        "e119e54c-1d5f-4c61-b775-065b1c8a4537",
+        "located in",
+        "Sweden"
+      ]
+    ]
+  }
+]
