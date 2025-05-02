@@ -7,8 +7,11 @@ This project aims to integrate structured knowledge into Large Language Models (
 
 
 ##  Repository structure
+- `src/` – Source code for graph processing and RAG pipeline  
+- `data/` – Dataset of world leader QA pairs and knowledge graphs  
+- `report/` – Report for the project  
 
-<!-- -
+<!-- 
 ## Project Description
 
 Knowledge Graphs and Vector Databases serve distinct purposes:
