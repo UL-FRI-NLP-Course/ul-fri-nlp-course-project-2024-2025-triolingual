@@ -1,12 +1,15 @@
 # Natural language processing course: `Integrating Structured Knowledge into Large Language Models`
+
+
 **University of Ljubljana — 2024/2025**
 
+This project aims to integrate structured knowledge into Large Language Models (LLMs) using a Retrieval-Augmented Generation (RAG) approach. We aim to construct a knowledge graph dataset containing world leaders and their related facts. Subgraphs are extracted and stored in a vector database. Based on a user question, the most semantically similar facts are retrieved and used to inform the model’s response. We also analyze the use of different LLM frameworks and how prompt formulation influences the generated answers.
 
-This repository contains the coursework for the **NLP course** at the University of Ljubljana, focusing on enhancing **Large Language Models (LLMs)** with **structured knowledge**. It includes implemented experiments, literature reviews, and final results in both notebook and report form.
 
----
+##  Repository structure
 
-## 🔍 Project Overview
+<!-- -
+## Project Description
 
 Knowledge Graphs and Vector Databases serve distinct purposes:
 
@@ -15,14 +18,13 @@ Knowledge Graphs and Vector Databases serve distinct purposes:
 
 By **integrating both approaches**, we aim to combine the **semantic power** of vectors with the **explicit reasoning** of knowledge graphs for more intelligent and interpretable systems.
 
-![alt text](related_work/img/image-6.png)
+<!-- ![alt text](related_work/img/image-6.png) -->
 
 ---
 
 
 
-## 🚀 Getting Started
-
+<!--
 ### 🔧 Prerequisites
 
 Before running the project, make sure you have:
@@ -69,8 +71,9 @@ Before running the project, make sure you have:
 ├── LICENSE                         # License file
 └── README.md                       # You are here 🚀
 ```
+-->
 
-### 📦 Installation
+##  Getting Started
 
 Clone the repository and install the dependencies:
 
@@ -84,10 +87,5 @@ cd ul-fri-nlp-course-project-2024-2025-triolingual
 ```bash
 pip install -r requirements.txt
 ``` 
-## 📚 Citation
 
-If you use or reference this project, please consider citing the course or referencing the final report.
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
