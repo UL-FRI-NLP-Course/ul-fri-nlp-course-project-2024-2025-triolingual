@@ -1,0 +1,1602 @@
+[
+  {
+    "question": "What category does Al-Nawawi belong to?",
+    "answer": "human",
+    "entity": "Al-Nawawi",
+    "entity_id": "Q293571",
+    "relation": "instance of",
+    "answer_id": "Q5",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q293571"
+        },
+        {
+          "id": "Q1758024",
+          "label": "Nawa"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q234343",
+          "label": "hadith"
+        },
+        {
+          "id": "Q484181",
+          "label": "fiqh"
+        },
+        {
+          "id": "Q189459",
+          "label": "\u02bf\u0101lim"
+        },
+        {
+          "id": "Q1172458",
+          "label": "muhaddith"
+        },
+        {
+          "id": "Q1999841",
+          "label": "Islamic jurist"
+        },
+        {
+          "id": "Q12211226",
+          "label": "Dar al-Hadith al-Ashrafiyya"
+        },
+        {
+          "id": "Q432",
+          "label": "Islam"
+        },
+        {
+          "id": "Q1410729",
+          "label": "Sheikh-ul-Islam"
+        },
+        {
+          "id": "Q98123376",
+          "label": "Al-Imam"
+        },
+        {
+          "id": "Q21069195",
+          "label": "Yahya"
+        },
+        {
+          "id": "Q1806888",
+          "label": "Riy\u0101\u1e0d al-\u1e63\u0101li\u1e25\u012bn"
+        },
+        {
+          "id": "Q6806081",
+          "label": "Al Minhaj bi Sharh Sahih Muslim"
+        },
+        {
+          "id": "Q10957293",
+          "label": "Imam Nawawi's Forty Hadith"
+        },
+        {
+          "id": "Q12198341",
+          "label": "Q12198341"
+        },
+        {
+          "id": "Q16165404",
+          "label": "Al Athkar Al Navavi"
+        },
+        {
+          "id": "Q19486167",
+          "label": "Q19486167"
+        },
+        {
+          "id": "Q5410881",
+          "label": "Mu\u1e25ammad Ibn-Ibr\u0101h\u012bm Ibn-\u01e6am\u0101\u02bfa"
+        },
+        {
+          "id": "Q25452444",
+          "label": "Q25452444"
+        },
+        {
+          "id": "Q60661044",
+          "label": "Category:Al-Nawawi"
+        },
+        {
+          "id": "Q25452433",
+          "label": "Abd-ar-Rahman ibn Nuh al-Maqdiss\u00ed"
+        },
+        {
+          "id": "Q25452434",
+          "label": "Q25452434"
+        },
+        {
+          "id": "Q25452438",
+          "label": "Ibrahim ibn Issa al-Murad\u00ed"
+        },
+        {
+          "id": "Q108377574",
+          "label": "Islamic religious occupation"
+        },
+        {
+          "id": "Q185351",
+          "label": "jurist"
+        },
+        {
+          "id": "Q1234713",
+          "label": "theologian"
+        },
+        {
+          "id": "Q105275968",
+          "label": "Islamic cleric"
+        },
+        {
+          "id": "Q105322976",
+          "label": "Muslim clergy"
+        },
+        {
+          "id": "Q107313311",
+          "label": "Islamic sciences"
+        },
+        {
+          "id": "Q8655102",
+          "label": "Category:Muslim scholars of Islam"
+        },
+        {
+          "id": "Q867541",
+          "label": "Encyclop\u00e6dia Britannica 11th edition"
+        },
+        {
+          "id": "Q1029706",
+          "label": "New International Encyclopedia"
+        },
+        {
+          "id": "Q3181656",
+          "label": "The Nuttall Encyclop\u00e6dia"
+        },
+        {
+          "id": "Q3320743",
+          "label": "title of honor"
+        },
+        {
+          "id": "Q2538679",
+          "label": "Grand Mufti"
+        },
+        {
+          "id": "Q16138292",
+          "label": "Chularatchamontri"
+        },
+        {
+          "id": "Q8736086",
+          "label": "Category:Sheikh-ul-Islams of the Ottoman Empire"
+        },
+        {
+          "id": "Q20078554",
+          "label": "Great Soviet Encyclopedia (1926\u20131947)"
+        },
+        {
+          "id": "Q79",
+          "label": "Egypt"
+        },
+        {
+          "id": "Q17630264",
+          "label": "Ibrahim"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q293571",
+          "target": "Q1758024",
+          "relation": "place of death",
+          "relation_id": "P20"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q234343",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q484181",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q189459",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1172458",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1999841",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q12211226",
+          "relation": "employer",
+          "relation_id": "P108"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q432",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1410729",
+          "relation": "honorific prefix",
+          "relation_id": "P511"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q98123376",
+          "relation": "honorific prefix",
+          "relation_id": "P511"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q21069195",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1806888",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q6806081",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q10957293",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q12198341",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q16165404",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q19486167",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q5410881",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452444",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q60661044",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452433",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452434",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452438",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q108377574",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q185351",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q1234713",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q105275968",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q105322976",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q107313311",
+          "relation": "field of this occupation",
+          "relation_id": "P425"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q8655102",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q867541",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q1029706",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q3181656",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q3320743",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q432",
+          "relation": "culture",
+          "relation_id": "P2596"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q185351",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q189459",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q2538679",
+          "relation": "said to be the same as",
+          "relation_id": "P460"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q16138292",
+          "relation": "said to be the same as",
+          "relation_id": "P460"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q8736086",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q20078554",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q98123376",
+          "target": "Q3320743",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q25452434",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q25452434",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q25452434",
+          "target": "Q293571",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q79",
+          "relation": "place of death",
+          "relation_id": "P20"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q189459",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q17630264",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q293571",
+          "relation": "student",
+          "relation_id": "P802"
+        }
+      ]
+    },
+    "context_hint": "Al-Nawawi instance of human",
+    "traversal_hints": "Step 1: Look for the relationship 'instance of' between Q293571 and human.",
+    "domain": "scientists"
+  },
+  {
+    "question": "What field is Al-Nawawi known for working in?",
+    "answer": "fiqh",
+    "entity": "Al-Nawawi",
+    "entity_id": "Q293571",
+    "relation": "field of work",
+    "answer_id": "Q484181",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q293571"
+        },
+        {
+          "id": "Q1758024",
+          "label": "Nawa"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q234343",
+          "label": "hadith"
+        },
+        {
+          "id": "Q484181",
+          "label": "fiqh"
+        },
+        {
+          "id": "Q189459",
+          "label": "\u02bf\u0101lim"
+        },
+        {
+          "id": "Q1172458",
+          "label": "muhaddith"
+        },
+        {
+          "id": "Q1999841",
+          "label": "Islamic jurist"
+        },
+        {
+          "id": "Q12211226",
+          "label": "Dar al-Hadith al-Ashrafiyya"
+        },
+        {
+          "id": "Q432",
+          "label": "Islam"
+        },
+        {
+          "id": "Q1410729",
+          "label": "Sheikh-ul-Islam"
+        },
+        {
+          "id": "Q98123376",
+          "label": "Al-Imam"
+        },
+        {
+          "id": "Q21069195",
+          "label": "Yahya"
+        },
+        {
+          "id": "Q1806888",
+          "label": "Riy\u0101\u1e0d al-\u1e63\u0101li\u1e25\u012bn"
+        },
+        {
+          "id": "Q6806081",
+          "label": "Al Minhaj bi Sharh Sahih Muslim"
+        },
+        {
+          "id": "Q10957293",
+          "label": "Imam Nawawi's Forty Hadith"
+        },
+        {
+          "id": "Q12198341",
+          "label": "Q12198341"
+        },
+        {
+          "id": "Q16165404",
+          "label": "Al Athkar Al Navavi"
+        },
+        {
+          "id": "Q19486167",
+          "label": "Q19486167"
+        },
+        {
+          "id": "Q5410881",
+          "label": "Mu\u1e25ammad Ibn-Ibr\u0101h\u012bm Ibn-\u01e6am\u0101\u02bfa"
+        },
+        {
+          "id": "Q25452444",
+          "label": "Q25452444"
+        },
+        {
+          "id": "Q60661044",
+          "label": "Category:Al-Nawawi"
+        },
+        {
+          "id": "Q25452433",
+          "label": "Abd-ar-Rahman ibn Nuh al-Maqdiss\u00ed"
+        },
+        {
+          "id": "Q25452434",
+          "label": "Q25452434"
+        },
+        {
+          "id": "Q25452438",
+          "label": "Ibrahim ibn Issa al-Murad\u00ed"
+        },
+        {
+          "id": "Q7725634",
+          "label": "literary work"
+        },
+        {
+          "id": "Q47461344",
+          "label": "written work"
+        },
+        {
+          "id": "Q13955",
+          "label": "Arabic"
+        },
+        {
+          "id": "Q125469863",
+          "label": "Riy\u0101\u1e0d al-\u1e63\u0101li\u1e25\u012bn (Mu\u02bcassasat al-Ris\u0101lah, 1419H)"
+        },
+        {
+          "id": "Q125471177",
+          "label": "Riy\u0101\u1e0d al-\u1e63\u0101li\u1e25\u012bn (D\u0101r Ibn Kath\u012br, 1428h)"
+        },
+        {
+          "id": "Q79",
+          "label": "Egypt"
+        },
+        {
+          "id": "Q17630264",
+          "label": "Ibrahim"
+        },
+        {
+          "id": "Q6957341",
+          "label": "Major religious groups"
+        },
+        {
+          "id": "Q3467762",
+          "label": "Jibril"
+        },
+        {
+          "id": "Q188711",
+          "label": "companions of the Prophet"
+        },
+        {
+          "id": "Q2322765",
+          "label": "Salaf"
+        },
+        {
+          "id": "Q2354223",
+          "label": "Muhammad's wives"
+        },
+        {
+          "id": "Q9458",
+          "label": "Muhammad"
+        },
+        {
+          "id": "Q125664801",
+          "label": "Qalab"
+        },
+        {
+          "id": "Q43619",
+          "label": "natural environment"
+        },
+        {
+          "id": "Q9603",
+          "label": "Sufism"
+        },
+        {
+          "id": "Q4167836",
+          "label": "Wikimedia category"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q293571",
+          "target": "Q1758024",
+          "relation": "place of death",
+          "relation_id": "P20"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q234343",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q484181",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q189459",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1172458",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1999841",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q12211226",
+          "relation": "employer",
+          "relation_id": "P108"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q432",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1410729",
+          "relation": "honorific prefix",
+          "relation_id": "P511"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q98123376",
+          "relation": "honorific prefix",
+          "relation_id": "P511"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q21069195",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1806888",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q6806081",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q10957293",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q12198341",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q16165404",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q19486167",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q5410881",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452444",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q60661044",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452433",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452434",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452438",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q432",
+          "target": "Q6957341",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q432",
+          "target": "Q13955",
+          "relation": "official language",
+          "relation_id": "P37"
+        },
+        {
+          "source": "Q432",
+          "target": "Q3467762",
+          "relation": "director",
+          "relation_id": "P57"
+        },
+        {
+          "source": "Q432",
+          "target": "Q188711",
+          "relation": "illustrator",
+          "relation_id": "P110"
+        },
+        {
+          "source": "Q432",
+          "target": "Q189459",
+          "relation": "illustrator",
+          "relation_id": "P110"
+        },
+        {
+          "source": "Q432",
+          "target": "Q2322765",
+          "relation": "illustrator",
+          "relation_id": "P110"
+        },
+        {
+          "source": "Q432",
+          "target": "Q2354223",
+          "relation": "illustrator",
+          "relation_id": "P110"
+        },
+        {
+          "source": "Q432",
+          "target": "Q9458",
+          "relation": "founded by",
+          "relation_id": "P112"
+        },
+        {
+          "source": "Q432",
+          "target": "Q125664801",
+          "relation": "item operated",
+          "relation_id": "P121"
+        },
+        {
+          "source": "Q432",
+          "target": "Q43619",
+          "relation": "physically interacts with",
+          "relation_id": "P129"
+        },
+        {
+          "source": "Q1806888",
+          "target": "Q7725634",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1806888",
+          "target": "Q47461344",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1806888",
+          "target": "Q293571",
+          "relation": "author",
+          "relation_id": "P50"
+        },
+        {
+          "source": "Q1806888",
+          "target": "Q13955",
+          "relation": "language of work or name",
+          "relation_id": "P407"
+        },
+        {
+          "source": "Q1806888",
+          "target": "Q125469863",
+          "relation": "has edition or translation",
+          "relation_id": "P747"
+        },
+        {
+          "source": "Q1806888",
+          "target": "Q125471177",
+          "relation": "has edition or translation",
+          "relation_id": "P747"
+        },
+        {
+          "source": "Q12198341",
+          "target": "Q7725634",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q12198341",
+          "target": "Q293571",
+          "relation": "author",
+          "relation_id": "P50"
+        },
+        {
+          "source": "Q12198341",
+          "target": "Q13955",
+          "relation": "language of work or name",
+          "relation_id": "P407"
+        },
+        {
+          "source": "Q12198341",
+          "target": "Q9603",
+          "relation": "main subject",
+          "relation_id": "P921"
+        },
+        {
+          "source": "Q60661044",
+          "target": "Q4167836",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q60661044",
+          "target": "Q293571",
+          "relation": "category's main topic",
+          "relation_id": "P301"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q79",
+          "relation": "place of death",
+          "relation_id": "P20"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q189459",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q17630264",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q293571",
+          "relation": "student",
+          "relation_id": "P802"
+        }
+      ]
+    },
+    "context_hint": "Al-Nawawi field of work fiqh",
+    "traversal_hints": "Step 1: Look for the relationship 'field of work' between Q293571 and fiqh.",
+    "domain": "scientists"
+  },
+  {
+    "question": "Where is Al-Nawawi employed?",
+    "answer": "Dar al-Hadith al-Ashrafiyya",
+    "entity": "Al-Nawawi",
+    "entity_id": "Q293571",
+    "relation": "employer",
+    "answer_id": "Q12211226",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q293571"
+        },
+        {
+          "id": "Q1758024",
+          "label": "Nawa"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q234343",
+          "label": "hadith"
+        },
+        {
+          "id": "Q484181",
+          "label": "fiqh"
+        },
+        {
+          "id": "Q189459",
+          "label": "\u02bf\u0101lim"
+        },
+        {
+          "id": "Q1172458",
+          "label": "muhaddith"
+        },
+        {
+          "id": "Q1999841",
+          "label": "Islamic jurist"
+        },
+        {
+          "id": "Q12211226",
+          "label": "Dar al-Hadith al-Ashrafiyya"
+        },
+        {
+          "id": "Q432",
+          "label": "Islam"
+        },
+        {
+          "id": "Q1410729",
+          "label": "Sheikh-ul-Islam"
+        },
+        {
+          "id": "Q98123376",
+          "label": "Al-Imam"
+        },
+        {
+          "id": "Q21069195",
+          "label": "Yahya"
+        },
+        {
+          "id": "Q1806888",
+          "label": "Riy\u0101\u1e0d al-\u1e63\u0101li\u1e25\u012bn"
+        },
+        {
+          "id": "Q6806081",
+          "label": "Al Minhaj bi Sharh Sahih Muslim"
+        },
+        {
+          "id": "Q10957293",
+          "label": "Imam Nawawi's Forty Hadith"
+        },
+        {
+          "id": "Q12198341",
+          "label": "Q12198341"
+        },
+        {
+          "id": "Q16165404",
+          "label": "Al Athkar Al Navavi"
+        },
+        {
+          "id": "Q19486167",
+          "label": "Q19486167"
+        },
+        {
+          "id": "Q5410881",
+          "label": "Mu\u1e25ammad Ibn-Ibr\u0101h\u012bm Ibn-\u01e6am\u0101\u02bfa"
+        },
+        {
+          "id": "Q25452444",
+          "label": "Q25452444"
+        },
+        {
+          "id": "Q60661044",
+          "label": "Category:Al-Nawawi"
+        },
+        {
+          "id": "Q25452433",
+          "label": "Abd-ar-Rahman ibn Nuh al-Maqdiss\u00ed"
+        },
+        {
+          "id": "Q25452434",
+          "label": "Q25452434"
+        },
+        {
+          "id": "Q25452438",
+          "label": "Ibrahim ibn Issa al-Murad\u00ed"
+        },
+        {
+          "id": "Q3320743",
+          "label": "title of honor"
+        },
+        {
+          "id": "Q185351",
+          "label": "jurist"
+        },
+        {
+          "id": "Q2538679",
+          "label": "Grand Mufti"
+        },
+        {
+          "id": "Q16138292",
+          "label": "Chularatchamontri"
+        },
+        {
+          "id": "Q8736086",
+          "label": "Category:Sheikh-ul-Islams of the Ottoman Empire"
+        },
+        {
+          "id": "Q20078554",
+          "label": "Great Soviet Encyclopedia (1926\u20131947)"
+        },
+        {
+          "id": "Q79",
+          "label": "Egypt"
+        },
+        {
+          "id": "Q17630264",
+          "label": "Ibrahim"
+        },
+        {
+          "id": "Q28640",
+          "label": "profession"
+        },
+        {
+          "id": "Q4504549",
+          "label": "religious figure"
+        },
+        {
+          "id": "Q482752",
+          "label": "sharia"
+        },
+        {
+          "id": "Q18517268",
+          "label": "Islamskiy entsiklopedicheskiy slovar'"
+        },
+        {
+          "id": "Q7725634",
+          "label": "literary work"
+        },
+        {
+          "id": "Q13955",
+          "label": "Arabic"
+        },
+        {
+          "id": "Q9603",
+          "label": "Sufism"
+        },
+        {
+          "id": "Q108377574",
+          "label": "Islamic religious occupation"
+        },
+        {
+          "id": "Q1234713",
+          "label": "theologian"
+        },
+        {
+          "id": "Q105275968",
+          "label": "Islamic cleric"
+        },
+        {
+          "id": "Q105322976",
+          "label": "Muslim clergy"
+        },
+        {
+          "id": "Q107313311",
+          "label": "Islamic sciences"
+        },
+        {
+          "id": "Q8655102",
+          "label": "Category:Muslim scholars of Islam"
+        },
+        {
+          "id": "Q867541",
+          "label": "Encyclop\u00e6dia Britannica 11th edition"
+        },
+        {
+          "id": "Q1029706",
+          "label": "New International Encyclopedia"
+        },
+        {
+          "id": "Q3181656",
+          "label": "The Nuttall Encyclop\u00e6dia"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q293571",
+          "target": "Q1758024",
+          "relation": "place of death",
+          "relation_id": "P20"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q234343",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q484181",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q189459",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1172458",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1999841",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q12211226",
+          "relation": "employer",
+          "relation_id": "P108"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q432",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1410729",
+          "relation": "honorific prefix",
+          "relation_id": "P511"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q98123376",
+          "relation": "honorific prefix",
+          "relation_id": "P511"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q21069195",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1806888",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q6806081",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q10957293",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q12198341",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q16165404",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q19486167",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q5410881",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452444",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q60661044",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452433",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452434",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452438",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q108377574",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q185351",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q1234713",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q105275968",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q105322976",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q107313311",
+          "relation": "field of this occupation",
+          "relation_id": "P425"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q8655102",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q867541",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q1029706",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q3181656",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q1999841",
+          "target": "Q28640",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1999841",
+          "target": "Q185351",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q1999841",
+          "target": "Q4504549",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q1999841",
+          "target": "Q482752",
+          "relation": "field of this occupation",
+          "relation_id": "P425"
+        },
+        {
+          "source": "Q1999841",
+          "target": "Q484181",
+          "relation": "field of this occupation",
+          "relation_id": "P425"
+        },
+        {
+          "source": "Q1999841",
+          "target": "Q18517268",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q1999841",
+          "target": "Q189459",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q3320743",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q432",
+          "relation": "culture",
+          "relation_id": "P2596"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q185351",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q189459",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q2538679",
+          "relation": "said to be the same as",
+          "relation_id": "P460"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q16138292",
+          "relation": "said to be the same as",
+          "relation_id": "P460"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q8736086",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q20078554",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q12198341",
+          "target": "Q7725634",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q12198341",
+          "target": "Q293571",
+          "relation": "author",
+          "relation_id": "P50"
+        },
+        {
+          "source": "Q12198341",
+          "target": "Q13955",
+          "relation": "language of work or name",
+          "relation_id": "P407"
+        },
+        {
+          "source": "Q12198341",
+          "target": "Q9603",
+          "relation": "main subject",
+          "relation_id": "P921"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q79",
+          "relation": "place of death",
+          "relation_id": "P20"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q189459",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q17630264",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q293571",
+          "relation": "student",
+          "relation_id": "P802"
+        }
+      ]
+    },
+    "context_hint": "Al-Nawawi employer Dar al-Hadith al-Ashrafiyya",
+    "traversal_hints": "Step 1: Look for the relationship 'employer' between Q293571 and Dar al-Hadith al-Ashrafiyya.",
+    "domain": "scientists"
+  }
+]

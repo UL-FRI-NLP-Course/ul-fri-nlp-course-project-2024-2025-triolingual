@@ -1,0 +1,543 @@
+[
+  {
+    "question": "In what year did ATFBank begin operations?",
+    "answer": "1995-06-01T00:00:00Z",
+    "entity_id": "Q80438",
+    "entity": "ATFBank",
+    "domain": "companies",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q80438",
+          "properties": {
+            "logo image": "http://commons.wikimedia.org/wiki/Special:FilePath/ATFBank%20Logo.svg",
+            "inception": "1995-06-01T00:00:00Z",
+            "official website": "http://www.atfbank.kz/",
+            "Google Knowledge Graph ID": "/g/121hf79f"
+          }
+        },
+        {
+          "id": "Q232",
+          "label": "Kazakhstan"
+        },
+        {
+          "id": "Q22687",
+          "label": "bank"
+        },
+        {
+          "id": "Q4830453",
+          "label": "business"
+        },
+        {
+          "id": "Q6881511",
+          "label": "enterprise"
+        },
+        {
+          "id": "Q35493",
+          "label": "Almaty"
+        },
+        {
+          "id": "Q134161",
+          "label": "joint-stock company"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q80438",
+          "target": "Q232",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q80438",
+          "target": "Q22687",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q80438",
+          "target": "Q4830453",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q80438",
+          "target": "Q6881511",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q80438",
+          "target": "Q35493",
+          "relation": "headquarters location",
+          "relation_id": "P159"
+        },
+        {
+          "source": "Q80438",
+          "target": "Q134161",
+          "relation": "legal form",
+          "relation_id": "P1454"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q80438",
+        "P17",
+        "http://www.wikidata.org/entity/Q232",
+        "country",
+        "Kazakhstan"
+      ],
+      [
+        "Q80438",
+        "P31",
+        "http://www.wikidata.org/entity/Q22687",
+        "instance of",
+        "bank"
+      ],
+      [
+        "Q80438",
+        "P31",
+        "http://www.wikidata.org/entity/Q4830453",
+        "instance of",
+        "business"
+      ],
+      [
+        "Q80438",
+        "P31",
+        "http://www.wikidata.org/entity/Q6881511",
+        "instance of",
+        "enterprise"
+      ],
+      [
+        "Q80438",
+        "P154",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/ATFBank%20Logo.svg",
+        "logo image",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/ATFBank%20Logo.svg"
+      ],
+      [
+        "Q80438",
+        "P159",
+        "http://www.wikidata.org/entity/Q35493",
+        "headquarters location",
+        "Almaty"
+      ],
+      [
+        "Q80438",
+        "P571",
+        "1995-06-01T00:00:00Z",
+        "inception",
+        "1995-06-01T00:00:00Z"
+      ],
+      [
+        "Q80438",
+        "P856",
+        "http://www.atfbank.kz/",
+        "official website",
+        "http://www.atfbank.kz/"
+      ],
+      [
+        "Q80438",
+        "P1454",
+        "http://www.wikidata.org/entity/Q134161",
+        "legal form",
+        "joint-stock company"
+      ],
+      [
+        "Q80438",
+        "P2671",
+        "/g/121hf79f",
+        "Google Knowledge Graph ID",
+        "/g/121hf79f"
+      ]
+    ],
+    "question_type": "founded"
+  },
+  {
+    "question": "When did Piraeus Bank start as a business?",
+    "answer": "1916-01-01T00:00:00Z",
+    "entity_id": "Q3312",
+    "entity": "Piraeus Bank",
+    "domain": "companies",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q3312",
+          "properties": {
+            "OSM Name Suggestion Index ID": "piraeusbank-f14c4e",
+            "social media followers": "17500",
+            "KISTI institute ID": "K000230211",
+            "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Piraeus%20Bank%20HQ.jpg",
+            "logo image": "http://commons.wikimedia.org/wiki/Special:FilePath/Piraeus%20Bank%202024%20logo.svg",
+            "ISNI": "0000000085853512",
+            "VIAF cluster ID": "124182012",
+            "GND ID": "10170158-5",
+            "Commons category": "Piraeus Bank",
+            "inception": "1916-01-01T00:00:00Z",
+            "Freebase ID": "/m/035906",
+            "official website": "http://www.piraeusbank.gr/",
+            "ISIN": "GRS014003008",
+            "Legal Entity Identifier": "M6AD1Y1KW32H8THQ6F76",
+            "official name": "PIRAEUS BANK SA"
+          }
+        },
+        {
+          "id": "Q41",
+          "label": "Greece"
+        },
+        {
+          "id": "Q22687",
+          "label": "bank"
+        },
+        {
+          "id": "Q650241",
+          "label": "financial institution"
+        },
+        {
+          "id": "Q891723",
+          "label": "public company"
+        },
+        {
+          "id": "Q4830453",
+          "label": "business"
+        },
+        {
+          "id": "Q1524",
+          "label": "Athens"
+        },
+        {
+          "id": "Q3100734",
+          "label": "Geniki Bank"
+        },
+        {
+          "id": "Q755341",
+          "label": "Athens Stock Exchange"
+        },
+        {
+          "id": "Q806718",
+          "label": "economics of banking"
+        },
+        {
+          "id": "Q837171",
+          "label": "financial services"
+        },
+        {
+          "id": "Q57774188",
+          "label": "financial sector"
+        },
+        {
+          "id": "Q26839244",
+          "label": "Anonymi Etaireia"
+        },
+        {
+          "id": "Q7197670",
+          "label": "Piraeus Bank Tower Bucharest"
+        },
+        {
+          "id": "Q17098445",
+          "label": "Piraeus Bank Beograd"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q3312",
+          "target": "Q41",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q22687",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q650241",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q891723",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q4830453",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q1524",
+          "relation": "headquarters location",
+          "relation_id": "P159"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q3100734",
+          "relation": "child organization/unit",
+          "relation_id": "P355"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q755341",
+          "relation": "stock exchange",
+          "relation_id": "P414"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q806718",
+          "relation": "industry",
+          "relation_id": "P452"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q837171",
+          "relation": "industry",
+          "relation_id": "P452"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q57774188",
+          "relation": "industry",
+          "relation_id": "P452"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q26839244",
+          "relation": "legal form",
+          "relation_id": "P1454"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q7197670",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q17098445",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q3312",
+        "P8253",
+        "piraeusbank-f14c4e",
+        "OSM Name Suggestion Index ID",
+        "piraeusbank-f14c4e"
+      ],
+      [
+        "Q3312",
+        "P8687",
+        "17500",
+        "social media followers",
+        "17500"
+      ],
+      [
+        "Q3312",
+        "P13092",
+        "K000230211",
+        "KISTI institute ID",
+        "K000230211"
+      ],
+      [
+        "Q3312",
+        "P17",
+        "http://www.wikidata.org/entity/Q41",
+        "country",
+        "Greece"
+      ],
+      [
+        "Q3312",
+        "P18",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Piraeus%20Bank%20HQ.jpg",
+        "image",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Piraeus%20Bank%20HQ.jpg"
+      ],
+      [
+        "Q3312",
+        "P31",
+        "http://www.wikidata.org/entity/Q22687",
+        "instance of",
+        "bank"
+      ],
+      [
+        "Q3312",
+        "P31",
+        "http://www.wikidata.org/entity/Q650241",
+        "instance of",
+        "financial institution"
+      ],
+      [
+        "Q3312",
+        "P31",
+        "http://www.wikidata.org/entity/Q891723",
+        "instance of",
+        "public company"
+      ],
+      [
+        "Q3312",
+        "P31",
+        "http://www.wikidata.org/entity/Q4830453",
+        "instance of",
+        "business"
+      ],
+      [
+        "Q3312",
+        "P154",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Piraeus%20Bank%202024%20logo.svg",
+        "logo image",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Piraeus%20Bank%202024%20logo.svg"
+      ],
+      [
+        "Q3312",
+        "P159",
+        "http://www.wikidata.org/entity/Q1524",
+        "headquarters location",
+        "Athens"
+      ],
+      [
+        "Q3312",
+        "P213",
+        "0000000085853512",
+        "ISNI",
+        "0000000085853512"
+      ],
+      [
+        "Q3312",
+        "P214",
+        "124182012",
+        "VIAF cluster ID",
+        "124182012"
+      ],
+      [
+        "Q3312",
+        "P227",
+        "10170158-5",
+        "GND ID",
+        "10170158-5"
+      ],
+      [
+        "Q3312",
+        "P355",
+        "http://www.wikidata.org/entity/Q3100734",
+        "child organization/unit",
+        "Geniki Bank"
+      ],
+      [
+        "Q3312",
+        "P373",
+        "Piraeus Bank",
+        "Commons category",
+        "Piraeus Bank"
+      ],
+      [
+        "Q3312",
+        "P414",
+        "http://www.wikidata.org/entity/Q755341",
+        "stock exchange",
+        "Athens Stock Exchange"
+      ],
+      [
+        "Q3312",
+        "P452",
+        "http://www.wikidata.org/entity/Q806718",
+        "industry",
+        "economics of banking"
+      ],
+      [
+        "Q3312",
+        "P452",
+        "http://www.wikidata.org/entity/Q837171",
+        "industry",
+        "financial services"
+      ],
+      [
+        "Q3312",
+        "P452",
+        "http://www.wikidata.org/entity/Q57774188",
+        "industry",
+        "financial sector"
+      ],
+      [
+        "Q3312",
+        "P571",
+        "1916-01-01T00:00:00Z",
+        "inception",
+        "1916-01-01T00:00:00Z"
+      ],
+      [
+        "Q3312",
+        "P646",
+        "/m/035906",
+        "Freebase ID",
+        "/m/035906"
+      ],
+      [
+        "Q3312",
+        "P856",
+        "http://www.piraeusbank.gr/",
+        "official website",
+        "http://www.piraeusbank.gr/"
+      ],
+      [
+        "Q3312",
+        "P946",
+        "GRS014003008",
+        "ISIN",
+        "GRS014003008"
+      ],
+      [
+        "Q3312",
+        "P1278",
+        "M6AD1Y1KW32H8THQ6F76",
+        "Legal Entity Identifier",
+        "M6AD1Y1KW32H8THQ6F76"
+      ],
+      [
+        "Q3312",
+        "P1448",
+        "\u03a4\u03a1\u0391\u03a0\u0395\u0396\u0391 \u03a0\u0395\u0399\u03a1\u0391\u0399\u03a9\u03a3 \u0391\u039d\u03a9\u039d\u03a5\u039c\u039f\u03a3 \u0395\u03a4\u0391\u0399\u03a1\u0395\u0399\u0391",
+        "official name",
+        "\u03a4\u03a1\u0391\u03a0\u0395\u0396\u0391 \u03a0\u0395\u0399\u03a1\u0391\u0399\u03a9\u03a3 \u0391\u039d\u03a9\u039d\u03a5\u039c\u039f\u03a3 \u0395\u03a4\u0391\u0399\u03a1\u0395\u0399\u0391"
+      ],
+      [
+        "Q3312",
+        "P1448",
+        "PIRAEUS BANK SA",
+        "official name",
+        "PIRAEUS BANK SA"
+      ],
+      [
+        "Q3312",
+        "P1454",
+        "http://www.wikidata.org/entity/Q26839244",
+        "legal form",
+        "Anonymi Etaireia"
+      ],
+      [
+        "Q3312",
+        "P1830",
+        "http://www.wikidata.org/entity/Q7197670",
+        "owner of",
+        "Piraeus Bank Tower Bucharest"
+      ],
+      [
+        "Q3312",
+        "P1830",
+        "http://www.wikidata.org/entity/Q17098445",
+        "owner of",
+        "Piraeus Bank Beograd"
+      ]
+    ],
+    "question_type": "founded"
+  }
+]

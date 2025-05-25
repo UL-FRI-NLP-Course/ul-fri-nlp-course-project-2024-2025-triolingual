@@ -1,0 +1,4726 @@
+[
+  {
+    "question": "What is the citizenship of Salvador S\u00e1nchez Cer\u00e9n?",
+    "answer": "El Salvador",
+    "entity": "Salvador S\u00e1nchez Cer\u00e9n",
+    "entity_id": "Q936831",
+    "relation": "citizenship",
+    "answer_id": "Q792",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q936831"
+        },
+        {
+          "id": "Q1154058",
+          "label": "Quezaltepeque"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q792",
+          "label": "El Salvador"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q878151",
+          "label": "President of El Salvador"
+        },
+        {
+          "id": "Q7925044",
+          "label": "Vice President of El Salvador"
+        },
+        {
+          "id": "Q648924",
+          "label": "Farabundo Mart\u00ed National Liberation Front"
+        },
+        {
+          "id": "Q1321",
+          "label": "Spanish"
+        },
+        {
+          "id": "Q82955",
+          "label": "politician"
+        },
+        {
+          "id": "Q762844",
+          "label": "Order pro Merito Melitensi"
+        },
+        {
+          "id": "Q117384949",
+          "label": "Order of the Five Volcanoes"
+        },
+        {
+          "id": "Q18220463",
+          "label": "Salvador"
+        },
+        {
+          "id": "Q5828987",
+          "label": "2014 Salvadoran presidential election"
+        },
+        {
+          "id": "Q774",
+          "label": "Guatemala"
+        },
+        {
+          "id": "Q193622",
+          "label": "order"
+        },
+        {
+          "id": "Q190025",
+          "label": "Federal Republic of Central America"
+        },
+        {
+          "id": "Q118524496",
+          "label": "Category:Orden de los Cinco Volcanes"
+        },
+        {
+          "id": "Q48264",
+          "label": "gender identity"
+        },
+        {
+          "id": "Q4369513",
+          "label": "sex of humans"
+        },
+        {
+          "id": "Q99485732",
+          "label": "gendered"
+        },
+        {
+          "id": "Q5530970",
+          "label": "gender binary"
+        },
+        {
+          "id": "Q20686840",
+          "label": "male and female"
+        },
+        {
+          "id": "Q6581072",
+          "label": "female"
+        },
+        {
+          "id": "Q7905582",
+          "label": "Category:Male"
+        },
+        {
+          "id": "Q48388241",
+          "label": "Portrait of a man"
+        },
+        {
+          "id": "Q131587983",
+          "label": "Funerary relief of a Palmyrene man"
+        },
+        {
+          "id": "Q131613891",
+          "label": "Portrait of a man"
+        },
+        {
+          "id": "Q294414",
+          "label": "public office"
+        },
+        {
+          "id": "Q42178",
+          "label": "vice president"
+        },
+        {
+          "id": "Q5784028",
+          "label": "Council of Ministers of El Salvador"
+        },
+        {
+          "id": "Q13301588",
+          "label": "Category:Vice presidents of El Salvador"
+        },
+        {
+          "id": "Q61022687",
+          "label": "F\u00e9lix Ulloa, Jr."
+        },
+        {
+          "id": "Q190353",
+          "label": "Sovereign Military Order of Malta"
+        },
+        {
+          "id": "Q20680119",
+          "label": "Cross pro Merito Melitensi"
+        },
+        {
+          "id": "Q20680128",
+          "label": "Knight Grand Cross of the Order of Merit"
+        },
+        {
+          "id": "Q22010840",
+          "label": "Officer of the Order pro Merito Melitensi"
+        },
+        {
+          "id": "Q22135199",
+          "label": "Knight Grand Cross with Collar of the Order of Merit"
+        },
+        {
+          "id": "Q111365118",
+          "label": "Commander of the Order pro Merito Melitensi"
+        },
+        {
+          "id": "Q111365226",
+          "label": "Knight Grand Officer of the Order of Merit"
+        },
+        {
+          "id": "Q17477558",
+          "label": "Category:Order of Merit pro Merito Melitensi"
+        },
+        {
+          "id": "Q294462",
+          "label": "Order of Merit"
+        },
+        {
+          "id": "Q8790981",
+          "label": "Category:Presidents of El Salvador"
+        },
+        {
+          "id": "Q17712353",
+          "label": "Nayib Bukele"
+        },
+        {
+          "id": "Q10353659",
+          "label": "list of presidents of El Salvador"
+        },
+        {
+          "id": "Q5589203",
+          "label": "Government of El Salvador"
+        },
+        {
+          "id": "Q17279032",
+          "label": "elective office"
+        },
+        {
+          "id": "Q5047867",
+          "label": "Casa Presidencial"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q936831",
+          "target": "Q1154058",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q792",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q878151",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q7925044",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q648924",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q1321",
+          "relation": "languages spoken, written or signed",
+          "relation_id": "P1412"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q82955",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q762844",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q117384949",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q18220463",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5828987",
+          "relation": "candidacy in election",
+          "relation_id": "P3602"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q48264",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q4369513",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q99485732",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q5530970",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q20686840",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q6581072",
+          "relation": "opposite of",
+          "relation_id": "P461"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q7905582",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q48388241",
+          "relation": "depicted by",
+          "relation_id": "P1299"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q131587983",
+          "relation": "depicted by",
+          "relation_id": "P1299"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q131613891",
+          "relation": "depicted by",
+          "relation_id": "P1299"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q8790981",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q17712353",
+          "relation": "position holder",
+          "relation_id": "P1308"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q7925044",
+          "relation": "substitute/deputy/replacement of office/officeholder",
+          "relation_id": "P2098"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q10353659",
+          "relation": "has list",
+          "relation_id": "P2354"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q5589203",
+          "relation": "organization directed by the office or position",
+          "relation_id": "P2389"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q294414",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q17279032",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q5047867",
+          "relation": "official residence",
+          "relation_id": "P263"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q294414",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q42178",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q5784028",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q13301588",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q61022687",
+          "relation": "position holder",
+          "relation_id": "P1308"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q190353",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q193622",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q20680119",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q20680128",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q22010840",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q22135199",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q111365118",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q111365226",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q17477558",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q294462",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q774",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q193622",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q190025",
+          "relation": "named after",
+          "relation_id": "P138"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q118524496",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        }
+      ]
+    },
+    "context_hint": "Salvador S\u00e1nchez Cer\u00e9n citizenship El Salvador",
+    "traversal_hints": "Step 1: Look for the relationship 'country of citizenship' between Q936831 and El Salvador.",
+    "domain": "world_leaders"
+  },
+  {
+    "question": "What is Salvador S\u00e1nchez Cer\u00e9n classified as?",
+    "answer": "human",
+    "entity": "Salvador S\u00e1nchez Cer\u00e9n",
+    "entity_id": "Q936831",
+    "relation": "instance of",
+    "answer_id": "Q5",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q936831"
+        },
+        {
+          "id": "Q1154058",
+          "label": "Quezaltepeque"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q792",
+          "label": "El Salvador"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q878151",
+          "label": "President of El Salvador"
+        },
+        {
+          "id": "Q7925044",
+          "label": "Vice President of El Salvador"
+        },
+        {
+          "id": "Q648924",
+          "label": "Farabundo Mart\u00ed National Liberation Front"
+        },
+        {
+          "id": "Q1321",
+          "label": "Spanish"
+        },
+        {
+          "id": "Q82955",
+          "label": "politician"
+        },
+        {
+          "id": "Q762844",
+          "label": "Order pro Merito Melitensi"
+        },
+        {
+          "id": "Q117384949",
+          "label": "Order of the Five Volcanoes"
+        },
+        {
+          "id": "Q18220463",
+          "label": "Salvador"
+        },
+        {
+          "id": "Q5828987",
+          "label": "2014 Salvadoran presidential election"
+        },
+        {
+          "id": "Q3769299",
+          "label": "human behavior"
+        },
+        {
+          "id": "Q18387795",
+          "label": "perspective-taking"
+        },
+        {
+          "id": "Q95074",
+          "label": "character"
+        },
+        {
+          "id": "Q215627",
+          "label": "person"
+        },
+        {
+          "id": "Q2472587",
+          "label": "people"
+        },
+        {
+          "id": "Q114353657",
+          "label": "Human"
+        },
+        {
+          "id": "Q124542004",
+          "label": "human in the center of cosmos"
+        },
+        {
+          "id": "P18",
+          "label": "image"
+        },
+        {
+          "id": "P19",
+          "label": "place of birth"
+        },
+        {
+          "id": "P20",
+          "label": "place of death"
+        },
+        {
+          "id": "Q294414",
+          "label": "public office"
+        },
+        {
+          "id": "Q42178",
+          "label": "vice president"
+        },
+        {
+          "id": "Q5784028",
+          "label": "Council of Ministers of El Salvador"
+        },
+        {
+          "id": "Q13301588",
+          "label": "Category:Vice presidents of El Salvador"
+        },
+        {
+          "id": "Q61022687",
+          "label": "F\u00e9lix Ulloa, Jr."
+        },
+        {
+          "id": "Q8790981",
+          "label": "Category:Presidents of El Salvador"
+        },
+        {
+          "id": "Q17712353",
+          "label": "Nayib Bukele"
+        },
+        {
+          "id": "Q10353659",
+          "label": "list of presidents of El Salvador"
+        },
+        {
+          "id": "Q5589203",
+          "label": "Government of El Salvador"
+        },
+        {
+          "id": "Q17279032",
+          "label": "elective office"
+        },
+        {
+          "id": "Q5047867",
+          "label": "Casa Presidencial"
+        },
+        {
+          "id": "Q12585",
+          "label": "Latin America"
+        },
+        {
+          "id": "Q27611",
+          "label": "Central America"
+        },
+        {
+          "id": "Q5385",
+          "label": "UTC\u221206:00"
+        },
+        {
+          "id": "Q63286062",
+          "label": "America/El_Salvador"
+        },
+        {
+          "id": "Q1065",
+          "label": "United Nations"
+        },
+        {
+          "id": "Q7809",
+          "label": "UNESCO"
+        },
+        {
+          "id": "Q7817",
+          "label": "World Health Organization"
+        },
+        {
+          "id": "Q7825",
+          "label": "World Trade Organization"
+        },
+        {
+          "id": "Q8475",
+          "label": "Interpol"
+        },
+        {
+          "id": "Q17495",
+          "label": "Universal Postal Union UPU"
+        },
+        {
+          "id": "Q5968650",
+          "label": "labourism"
+        },
+        {
+          "id": "Q11900614",
+          "label": "left-wing populism"
+        },
+        {
+          "id": "Q6008488",
+          "label": "Medardo Gonz\u00e1lez"
+        },
+        {
+          "id": "Q8443414",
+          "label": "Category:Farabundo Mart\u00ed National Liberation Front politicians"
+        },
+        {
+          "id": "Q7278",
+          "label": "political party"
+        },
+        {
+          "id": "Q3110",
+          "label": "San Salvador"
+        },
+        {
+          "id": "Q1024114",
+          "label": "Permanent Conference of Political Parties of Latin America and the Caribbean"
+        },
+        {
+          "id": "Q2915940",
+          "label": "S\u00e3o Paulo Forum"
+        },
+        {
+          "id": "Q7248622",
+          "label": "Progressive Alliance"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q936831",
+          "target": "Q1154058",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q792",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q878151",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q7925044",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q648924",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q1321",
+          "relation": "languages spoken, written or signed",
+          "relation_id": "P1412"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q82955",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q762844",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q117384949",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q18220463",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5828987",
+          "relation": "candidacy in election",
+          "relation_id": "P3602"
+        },
+        {
+          "source": "Q792",
+          "target": "Q12585",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q792",
+          "target": "Q27611",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q792",
+          "target": "Q5385",
+          "relation": "located in time zone",
+          "relation_id": "P421"
+        },
+        {
+          "source": "Q792",
+          "target": "Q63286062",
+          "relation": "located in time zone",
+          "relation_id": "P421"
+        },
+        {
+          "source": "Q792",
+          "target": "Q1065",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q792",
+          "target": "Q7809",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q792",
+          "target": "Q7817",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q792",
+          "target": "Q7825",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q792",
+          "target": "Q8475",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q792",
+          "target": "Q17495",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q5",
+          "target": "Q3769299",
+          "relation": "has characteristic",
+          "relation_id": "P1552"
+        },
+        {
+          "source": "Q5",
+          "target": "Q18387795",
+          "relation": "has characteristic",
+          "relation_id": "P1552"
+        },
+        {
+          "source": "Q5",
+          "target": "Q95074",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q215627",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q2472587",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q114353657",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q124542004",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "P18",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q5",
+          "target": "P19",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q5",
+          "target": "P20",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q8790981",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q17712353",
+          "relation": "position holder",
+          "relation_id": "P1308"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q7925044",
+          "relation": "substitute/deputy/replacement of office/officeholder",
+          "relation_id": "P2098"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q10353659",
+          "relation": "has list",
+          "relation_id": "P2354"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q5589203",
+          "relation": "organization directed by the office or position",
+          "relation_id": "P2389"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q294414",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q17279032",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q5047867",
+          "relation": "official residence",
+          "relation_id": "P263"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q294414",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q42178",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q5784028",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q13301588",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q61022687",
+          "relation": "position holder",
+          "relation_id": "P1308"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q5968650",
+          "relation": "political ideology",
+          "relation_id": "P1142"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q11900614",
+          "relation": "political ideology",
+          "relation_id": "P1142"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q6008488",
+          "relation": "general secretary",
+          "relation_id": "P3975"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q8443414",
+          "relation": "member category",
+          "relation_id": "P6365"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q7278",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q3110",
+          "relation": "headquarters location",
+          "relation_id": "P159"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q1024114",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q2915940",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q7248622",
+          "relation": "member of",
+          "relation_id": "P463"
+        }
+      ]
+    },
+    "context_hint": "Salvador S\u00e1nchez Cer\u00e9n instance of human",
+    "traversal_hints": "Step 1: Look for the relationship 'instance of' between Q936831 and human.",
+    "domain": "world_leaders"
+  },
+  {
+    "question": "What official role has Salvador S\u00e1nchez Cer\u00e9n occupied?",
+    "answer": "Vice President of El Salvador",
+    "entity": "Salvador S\u00e1nchez Cer\u00e9n",
+    "entity_id": "Q936831",
+    "relation": "position held",
+    "answer_id": "Q7925044",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q936831"
+        },
+        {
+          "id": "Q1154058",
+          "label": "Quezaltepeque"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q792",
+          "label": "El Salvador"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q878151",
+          "label": "President of El Salvador"
+        },
+        {
+          "id": "Q7925044",
+          "label": "Vice President of El Salvador"
+        },
+        {
+          "id": "Q648924",
+          "label": "Farabundo Mart\u00ed National Liberation Front"
+        },
+        {
+          "id": "Q1321",
+          "label": "Spanish"
+        },
+        {
+          "id": "Q82955",
+          "label": "politician"
+        },
+        {
+          "id": "Q762844",
+          "label": "Order pro Merito Melitensi"
+        },
+        {
+          "id": "Q117384949",
+          "label": "Order of the Five Volcanoes"
+        },
+        {
+          "id": "Q18220463",
+          "label": "Salvador"
+        },
+        {
+          "id": "Q5828987",
+          "label": "2014 Salvadoran presidential election"
+        },
+        {
+          "id": "Q56061",
+          "label": "administrative territorial entity"
+        },
+        {
+          "id": "Q486972",
+          "label": "human settlement"
+        },
+        {
+          "id": "Q127499753",
+          "label": "district of El Salvador"
+        },
+        {
+          "id": "Q127639689",
+          "label": "Northern La Libertad"
+        },
+        {
+          "id": "Q5385",
+          "label": "UTC\u221206:00"
+        },
+        {
+          "id": "Q104518900",
+          "label": "Category:Quezaltepeque, El Salvador"
+        },
+        {
+          "id": "Q32410325",
+          "label": "Q32410325"
+        },
+        {
+          "id": "Q116050899",
+          "label": "Q116050899"
+        },
+        {
+          "id": "Q774",
+          "label": "Guatemala"
+        },
+        {
+          "id": "Q193622",
+          "label": "order"
+        },
+        {
+          "id": "Q190025",
+          "label": "Federal Republic of Central America"
+        },
+        {
+          "id": "Q118524496",
+          "label": "Category:Orden de los Cinco Volcanes"
+        },
+        {
+          "id": "Q3769299",
+          "label": "human behavior"
+        },
+        {
+          "id": "Q18387795",
+          "label": "perspective-taking"
+        },
+        {
+          "id": "Q95074",
+          "label": "character"
+        },
+        {
+          "id": "Q215627",
+          "label": "person"
+        },
+        {
+          "id": "Q2472587",
+          "label": "people"
+        },
+        {
+          "id": "Q114353657",
+          "label": "Human"
+        },
+        {
+          "id": "Q124542004",
+          "label": "human in the center of cosmos"
+        },
+        {
+          "id": "P18",
+          "label": "image"
+        },
+        {
+          "id": "P19",
+          "label": "place of birth"
+        },
+        {
+          "id": "P20",
+          "label": "place of death"
+        },
+        {
+          "id": "Q294414",
+          "label": "public office"
+        },
+        {
+          "id": "Q42178",
+          "label": "vice president"
+        },
+        {
+          "id": "Q5784028",
+          "label": "Council of Ministers of El Salvador"
+        },
+        {
+          "id": "Q13301588",
+          "label": "Category:Vice presidents of El Salvador"
+        },
+        {
+          "id": "Q61022687",
+          "label": "F\u00e9lix Ulloa, Jr."
+        },
+        {
+          "id": "Q112679286",
+          "label": "presidential election in El Salvador"
+        },
+        {
+          "id": "Q2985472",
+          "label": "2009 Salvadoran presidential election"
+        },
+        {
+          "id": "Q54849954",
+          "label": "2019 Salvadoran presidential election"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q936831",
+          "target": "Q1154058",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q792",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q878151",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q7925044",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q648924",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q1321",
+          "relation": "languages spoken, written or signed",
+          "relation_id": "P1412"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q82955",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q762844",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q117384949",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q18220463",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5828987",
+          "relation": "candidacy in election",
+          "relation_id": "P3602"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q56061",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q486972",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q127499753",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q127639689",
+          "relation": "capital of",
+          "relation_id": "P1376"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q5385",
+          "relation": "located in time zone",
+          "relation_id": "P421"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q104518900",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q32410325",
+          "relation": "category for people born here",
+          "relation_id": "P1464"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q116050899",
+          "relation": "category for people who died here",
+          "relation_id": "P1465"
+        },
+        {
+          "source": "Q5",
+          "target": "Q3769299",
+          "relation": "has characteristic",
+          "relation_id": "P1552"
+        },
+        {
+          "source": "Q5",
+          "target": "Q18387795",
+          "relation": "has characteristic",
+          "relation_id": "P1552"
+        },
+        {
+          "source": "Q5",
+          "target": "Q95074",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q215627",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q2472587",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q114353657",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q124542004",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "P18",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q5",
+          "target": "P19",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q5",
+          "target": "P20",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q294414",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q42178",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q5784028",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q13301588",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q61022687",
+          "relation": "position holder",
+          "relation_id": "P1308"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q774",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q193622",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q190025",
+          "relation": "named after",
+          "relation_id": "P138"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q118524496",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q792",
+          "relation": "applies to jurisdiction",
+          "relation_id": "P1001"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q112679286",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q2985472",
+          "relation": "follows",
+          "relation_id": "P155"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q54849954",
+          "relation": "followed by",
+          "relation_id": "P156"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q878151",
+          "relation": "office contested",
+          "relation_id": "P541"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q936831",
+          "relation": "successful candidate",
+          "relation_id": "P991"
+        }
+      ]
+    },
+    "context_hint": "Salvador S\u00e1nchez Cer\u00e9n position held Vice President of El Salvador",
+    "traversal_hints": "Step 1: Look for the relationship 'position held' between Q936831 and Vice President of El Salvador.",
+    "domain": "world_leaders"
+  },
+  {
+    "question": "What category does Al-Nawawi belong to?",
+    "answer": "human",
+    "entity": "Al-Nawawi",
+    "entity_id": "Q293571",
+    "relation": "instance of",
+    "answer_id": "Q5",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q293571"
+        },
+        {
+          "id": "Q1758024",
+          "label": "Nawa"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q234343",
+          "label": "hadith"
+        },
+        {
+          "id": "Q484181",
+          "label": "fiqh"
+        },
+        {
+          "id": "Q189459",
+          "label": "\u02bf\u0101lim"
+        },
+        {
+          "id": "Q1172458",
+          "label": "muhaddith"
+        },
+        {
+          "id": "Q1999841",
+          "label": "Islamic jurist"
+        },
+        {
+          "id": "Q12211226",
+          "label": "Dar al-Hadith al-Ashrafiyya"
+        },
+        {
+          "id": "Q432",
+          "label": "Islam"
+        },
+        {
+          "id": "Q1410729",
+          "label": "Sheikh-ul-Islam"
+        },
+        {
+          "id": "Q98123376",
+          "label": "Al-Imam"
+        },
+        {
+          "id": "Q21069195",
+          "label": "Yahya"
+        },
+        {
+          "id": "Q1806888",
+          "label": "Riy\u0101\u1e0d al-\u1e63\u0101li\u1e25\u012bn"
+        },
+        {
+          "id": "Q6806081",
+          "label": "Al Minhaj bi Sharh Sahih Muslim"
+        },
+        {
+          "id": "Q10957293",
+          "label": "Imam Nawawi's Forty Hadith"
+        },
+        {
+          "id": "Q12198341",
+          "label": "Q12198341"
+        },
+        {
+          "id": "Q16165404",
+          "label": "Al Athkar Al Navavi"
+        },
+        {
+          "id": "Q19486167",
+          "label": "Q19486167"
+        },
+        {
+          "id": "Q5410881",
+          "label": "Mu\u1e25ammad Ibn-Ibr\u0101h\u012bm Ibn-\u01e6am\u0101\u02bfa"
+        },
+        {
+          "id": "Q25452444",
+          "label": "Q25452444"
+        },
+        {
+          "id": "Q60661044",
+          "label": "Category:Al-Nawawi"
+        },
+        {
+          "id": "Q25452433",
+          "label": "Abd-ar-Rahman ibn Nuh al-Maqdiss\u00ed"
+        },
+        {
+          "id": "Q25452434",
+          "label": "Q25452434"
+        },
+        {
+          "id": "Q25452438",
+          "label": "Ibrahim ibn Issa al-Murad\u00ed"
+        },
+        {
+          "id": "Q108377574",
+          "label": "Islamic religious occupation"
+        },
+        {
+          "id": "Q185351",
+          "label": "jurist"
+        },
+        {
+          "id": "Q1234713",
+          "label": "theologian"
+        },
+        {
+          "id": "Q105275968",
+          "label": "Islamic cleric"
+        },
+        {
+          "id": "Q105322976",
+          "label": "Muslim clergy"
+        },
+        {
+          "id": "Q107313311",
+          "label": "Islamic sciences"
+        },
+        {
+          "id": "Q8655102",
+          "label": "Category:Muslim scholars of Islam"
+        },
+        {
+          "id": "Q867541",
+          "label": "Encyclop\u00e6dia Britannica 11th edition"
+        },
+        {
+          "id": "Q1029706",
+          "label": "New International Encyclopedia"
+        },
+        {
+          "id": "Q3181656",
+          "label": "The Nuttall Encyclop\u00e6dia"
+        },
+        {
+          "id": "Q3320743",
+          "label": "title of honor"
+        },
+        {
+          "id": "Q2538679",
+          "label": "Grand Mufti"
+        },
+        {
+          "id": "Q16138292",
+          "label": "Chularatchamontri"
+        },
+        {
+          "id": "Q8736086",
+          "label": "Category:Sheikh-ul-Islams of the Ottoman Empire"
+        },
+        {
+          "id": "Q20078554",
+          "label": "Great Soviet Encyclopedia (1926\u20131947)"
+        },
+        {
+          "id": "Q79",
+          "label": "Egypt"
+        },
+        {
+          "id": "Q17630264",
+          "label": "Ibrahim"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q293571",
+          "target": "Q1758024",
+          "relation": "place of death",
+          "relation_id": "P20"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q234343",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q484181",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q189459",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1172458",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1999841",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q12211226",
+          "relation": "employer",
+          "relation_id": "P108"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q432",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1410729",
+          "relation": "honorific prefix",
+          "relation_id": "P511"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q98123376",
+          "relation": "honorific prefix",
+          "relation_id": "P511"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q21069195",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1806888",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q6806081",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q10957293",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q12198341",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q16165404",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q19486167",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q5410881",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452444",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q60661044",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452433",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452434",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452438",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q108377574",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q185351",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q1234713",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q105275968",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q105322976",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q107313311",
+          "relation": "field of this occupation",
+          "relation_id": "P425"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q8655102",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q867541",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q1029706",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q3181656",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q3320743",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q432",
+          "relation": "culture",
+          "relation_id": "P2596"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q185351",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q189459",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q2538679",
+          "relation": "said to be the same as",
+          "relation_id": "P460"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q16138292",
+          "relation": "said to be the same as",
+          "relation_id": "P460"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q8736086",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q20078554",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q98123376",
+          "target": "Q3320743",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q25452434",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q25452434",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q25452434",
+          "target": "Q293571",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q79",
+          "relation": "place of death",
+          "relation_id": "P20"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q189459",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q17630264",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q293571",
+          "relation": "student",
+          "relation_id": "P802"
+        }
+      ]
+    },
+    "context_hint": "Al-Nawawi instance of human",
+    "traversal_hints": "Step 1: Look for the relationship 'instance of' between Q293571 and human.",
+    "domain": "scientists"
+  },
+  {
+    "question": "What field is Al-Nawawi known for working in?",
+    "answer": "fiqh",
+    "entity": "Al-Nawawi",
+    "entity_id": "Q293571",
+    "relation": "field of work",
+    "answer_id": "Q484181",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q293571"
+        },
+        {
+          "id": "Q1758024",
+          "label": "Nawa"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q234343",
+          "label": "hadith"
+        },
+        {
+          "id": "Q484181",
+          "label": "fiqh"
+        },
+        {
+          "id": "Q189459",
+          "label": "\u02bf\u0101lim"
+        },
+        {
+          "id": "Q1172458",
+          "label": "muhaddith"
+        },
+        {
+          "id": "Q1999841",
+          "label": "Islamic jurist"
+        },
+        {
+          "id": "Q12211226",
+          "label": "Dar al-Hadith al-Ashrafiyya"
+        },
+        {
+          "id": "Q432",
+          "label": "Islam"
+        },
+        {
+          "id": "Q1410729",
+          "label": "Sheikh-ul-Islam"
+        },
+        {
+          "id": "Q98123376",
+          "label": "Al-Imam"
+        },
+        {
+          "id": "Q21069195",
+          "label": "Yahya"
+        },
+        {
+          "id": "Q1806888",
+          "label": "Riy\u0101\u1e0d al-\u1e63\u0101li\u1e25\u012bn"
+        },
+        {
+          "id": "Q6806081",
+          "label": "Al Minhaj bi Sharh Sahih Muslim"
+        },
+        {
+          "id": "Q10957293",
+          "label": "Imam Nawawi's Forty Hadith"
+        },
+        {
+          "id": "Q12198341",
+          "label": "Q12198341"
+        },
+        {
+          "id": "Q16165404",
+          "label": "Al Athkar Al Navavi"
+        },
+        {
+          "id": "Q19486167",
+          "label": "Q19486167"
+        },
+        {
+          "id": "Q5410881",
+          "label": "Mu\u1e25ammad Ibn-Ibr\u0101h\u012bm Ibn-\u01e6am\u0101\u02bfa"
+        },
+        {
+          "id": "Q25452444",
+          "label": "Q25452444"
+        },
+        {
+          "id": "Q60661044",
+          "label": "Category:Al-Nawawi"
+        },
+        {
+          "id": "Q25452433",
+          "label": "Abd-ar-Rahman ibn Nuh al-Maqdiss\u00ed"
+        },
+        {
+          "id": "Q25452434",
+          "label": "Q25452434"
+        },
+        {
+          "id": "Q25452438",
+          "label": "Ibrahim ibn Issa al-Murad\u00ed"
+        },
+        {
+          "id": "Q7725634",
+          "label": "literary work"
+        },
+        {
+          "id": "Q47461344",
+          "label": "written work"
+        },
+        {
+          "id": "Q13955",
+          "label": "Arabic"
+        },
+        {
+          "id": "Q125469863",
+          "label": "Riy\u0101\u1e0d al-\u1e63\u0101li\u1e25\u012bn (Mu\u02bcassasat al-Ris\u0101lah, 1419H)"
+        },
+        {
+          "id": "Q125471177",
+          "label": "Riy\u0101\u1e0d al-\u1e63\u0101li\u1e25\u012bn (D\u0101r Ibn Kath\u012br, 1428h)"
+        },
+        {
+          "id": "Q79",
+          "label": "Egypt"
+        },
+        {
+          "id": "Q17630264",
+          "label": "Ibrahim"
+        },
+        {
+          "id": "Q6957341",
+          "label": "Major religious groups"
+        },
+        {
+          "id": "Q3467762",
+          "label": "Jibril"
+        },
+        {
+          "id": "Q188711",
+          "label": "companions of the Prophet"
+        },
+        {
+          "id": "Q2322765",
+          "label": "Salaf"
+        },
+        {
+          "id": "Q2354223",
+          "label": "Muhammad's wives"
+        },
+        {
+          "id": "Q9458",
+          "label": "Muhammad"
+        },
+        {
+          "id": "Q125664801",
+          "label": "Qalab"
+        },
+        {
+          "id": "Q43619",
+          "label": "natural environment"
+        },
+        {
+          "id": "Q9603",
+          "label": "Sufism"
+        },
+        {
+          "id": "Q4167836",
+          "label": "Wikimedia category"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q293571",
+          "target": "Q1758024",
+          "relation": "place of death",
+          "relation_id": "P20"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q234343",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q484181",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q189459",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1172458",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1999841",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q12211226",
+          "relation": "employer",
+          "relation_id": "P108"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q432",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1410729",
+          "relation": "honorific prefix",
+          "relation_id": "P511"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q98123376",
+          "relation": "honorific prefix",
+          "relation_id": "P511"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q21069195",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1806888",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q6806081",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q10957293",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q12198341",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q16165404",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q19486167",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q5410881",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452444",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q60661044",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452433",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452434",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452438",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q432",
+          "target": "Q6957341",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q432",
+          "target": "Q13955",
+          "relation": "official language",
+          "relation_id": "P37"
+        },
+        {
+          "source": "Q432",
+          "target": "Q3467762",
+          "relation": "director",
+          "relation_id": "P57"
+        },
+        {
+          "source": "Q432",
+          "target": "Q188711",
+          "relation": "illustrator",
+          "relation_id": "P110"
+        },
+        {
+          "source": "Q432",
+          "target": "Q189459",
+          "relation": "illustrator",
+          "relation_id": "P110"
+        },
+        {
+          "source": "Q432",
+          "target": "Q2322765",
+          "relation": "illustrator",
+          "relation_id": "P110"
+        },
+        {
+          "source": "Q432",
+          "target": "Q2354223",
+          "relation": "illustrator",
+          "relation_id": "P110"
+        },
+        {
+          "source": "Q432",
+          "target": "Q9458",
+          "relation": "founded by",
+          "relation_id": "P112"
+        },
+        {
+          "source": "Q432",
+          "target": "Q125664801",
+          "relation": "item operated",
+          "relation_id": "P121"
+        },
+        {
+          "source": "Q432",
+          "target": "Q43619",
+          "relation": "physically interacts with",
+          "relation_id": "P129"
+        },
+        {
+          "source": "Q1806888",
+          "target": "Q7725634",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1806888",
+          "target": "Q47461344",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1806888",
+          "target": "Q293571",
+          "relation": "author",
+          "relation_id": "P50"
+        },
+        {
+          "source": "Q1806888",
+          "target": "Q13955",
+          "relation": "language of work or name",
+          "relation_id": "P407"
+        },
+        {
+          "source": "Q1806888",
+          "target": "Q125469863",
+          "relation": "has edition or translation",
+          "relation_id": "P747"
+        },
+        {
+          "source": "Q1806888",
+          "target": "Q125471177",
+          "relation": "has edition or translation",
+          "relation_id": "P747"
+        },
+        {
+          "source": "Q12198341",
+          "target": "Q7725634",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q12198341",
+          "target": "Q293571",
+          "relation": "author",
+          "relation_id": "P50"
+        },
+        {
+          "source": "Q12198341",
+          "target": "Q13955",
+          "relation": "language of work or name",
+          "relation_id": "P407"
+        },
+        {
+          "source": "Q12198341",
+          "target": "Q9603",
+          "relation": "main subject",
+          "relation_id": "P921"
+        },
+        {
+          "source": "Q60661044",
+          "target": "Q4167836",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q60661044",
+          "target": "Q293571",
+          "relation": "category's main topic",
+          "relation_id": "P301"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q79",
+          "relation": "place of death",
+          "relation_id": "P20"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q189459",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q17630264",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q293571",
+          "relation": "student",
+          "relation_id": "P802"
+        }
+      ]
+    },
+    "context_hint": "Al-Nawawi field of work fiqh",
+    "traversal_hints": "Step 1: Look for the relationship 'field of work' between Q293571 and fiqh.",
+    "domain": "scientists"
+  },
+  {
+    "question": "Where is Al-Nawawi employed?",
+    "answer": "Dar al-Hadith al-Ashrafiyya",
+    "entity": "Al-Nawawi",
+    "entity_id": "Q293571",
+    "relation": "employer",
+    "answer_id": "Q12211226",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q293571"
+        },
+        {
+          "id": "Q1758024",
+          "label": "Nawa"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q234343",
+          "label": "hadith"
+        },
+        {
+          "id": "Q484181",
+          "label": "fiqh"
+        },
+        {
+          "id": "Q189459",
+          "label": "\u02bf\u0101lim"
+        },
+        {
+          "id": "Q1172458",
+          "label": "muhaddith"
+        },
+        {
+          "id": "Q1999841",
+          "label": "Islamic jurist"
+        },
+        {
+          "id": "Q12211226",
+          "label": "Dar al-Hadith al-Ashrafiyya"
+        },
+        {
+          "id": "Q432",
+          "label": "Islam"
+        },
+        {
+          "id": "Q1410729",
+          "label": "Sheikh-ul-Islam"
+        },
+        {
+          "id": "Q98123376",
+          "label": "Al-Imam"
+        },
+        {
+          "id": "Q21069195",
+          "label": "Yahya"
+        },
+        {
+          "id": "Q1806888",
+          "label": "Riy\u0101\u1e0d al-\u1e63\u0101li\u1e25\u012bn"
+        },
+        {
+          "id": "Q6806081",
+          "label": "Al Minhaj bi Sharh Sahih Muslim"
+        },
+        {
+          "id": "Q10957293",
+          "label": "Imam Nawawi's Forty Hadith"
+        },
+        {
+          "id": "Q12198341",
+          "label": "Q12198341"
+        },
+        {
+          "id": "Q16165404",
+          "label": "Al Athkar Al Navavi"
+        },
+        {
+          "id": "Q19486167",
+          "label": "Q19486167"
+        },
+        {
+          "id": "Q5410881",
+          "label": "Mu\u1e25ammad Ibn-Ibr\u0101h\u012bm Ibn-\u01e6am\u0101\u02bfa"
+        },
+        {
+          "id": "Q25452444",
+          "label": "Q25452444"
+        },
+        {
+          "id": "Q60661044",
+          "label": "Category:Al-Nawawi"
+        },
+        {
+          "id": "Q25452433",
+          "label": "Abd-ar-Rahman ibn Nuh al-Maqdiss\u00ed"
+        },
+        {
+          "id": "Q25452434",
+          "label": "Q25452434"
+        },
+        {
+          "id": "Q25452438",
+          "label": "Ibrahim ibn Issa al-Murad\u00ed"
+        },
+        {
+          "id": "Q3320743",
+          "label": "title of honor"
+        },
+        {
+          "id": "Q185351",
+          "label": "jurist"
+        },
+        {
+          "id": "Q2538679",
+          "label": "Grand Mufti"
+        },
+        {
+          "id": "Q16138292",
+          "label": "Chularatchamontri"
+        },
+        {
+          "id": "Q8736086",
+          "label": "Category:Sheikh-ul-Islams of the Ottoman Empire"
+        },
+        {
+          "id": "Q20078554",
+          "label": "Great Soviet Encyclopedia (1926\u20131947)"
+        },
+        {
+          "id": "Q79",
+          "label": "Egypt"
+        },
+        {
+          "id": "Q17630264",
+          "label": "Ibrahim"
+        },
+        {
+          "id": "Q28640",
+          "label": "profession"
+        },
+        {
+          "id": "Q4504549",
+          "label": "religious figure"
+        },
+        {
+          "id": "Q482752",
+          "label": "sharia"
+        },
+        {
+          "id": "Q18517268",
+          "label": "Islamskiy entsiklopedicheskiy slovar'"
+        },
+        {
+          "id": "Q7725634",
+          "label": "literary work"
+        },
+        {
+          "id": "Q13955",
+          "label": "Arabic"
+        },
+        {
+          "id": "Q9603",
+          "label": "Sufism"
+        },
+        {
+          "id": "Q108377574",
+          "label": "Islamic religious occupation"
+        },
+        {
+          "id": "Q1234713",
+          "label": "theologian"
+        },
+        {
+          "id": "Q105275968",
+          "label": "Islamic cleric"
+        },
+        {
+          "id": "Q105322976",
+          "label": "Muslim clergy"
+        },
+        {
+          "id": "Q107313311",
+          "label": "Islamic sciences"
+        },
+        {
+          "id": "Q8655102",
+          "label": "Category:Muslim scholars of Islam"
+        },
+        {
+          "id": "Q867541",
+          "label": "Encyclop\u00e6dia Britannica 11th edition"
+        },
+        {
+          "id": "Q1029706",
+          "label": "New International Encyclopedia"
+        },
+        {
+          "id": "Q3181656",
+          "label": "The Nuttall Encyclop\u00e6dia"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q293571",
+          "target": "Q1758024",
+          "relation": "place of death",
+          "relation_id": "P20"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q234343",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q484181",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q189459",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1172458",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1999841",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q12211226",
+          "relation": "employer",
+          "relation_id": "P108"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q432",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1410729",
+          "relation": "honorific prefix",
+          "relation_id": "P511"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q98123376",
+          "relation": "honorific prefix",
+          "relation_id": "P511"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q21069195",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1806888",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q6806081",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q10957293",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q12198341",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q16165404",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q19486167",
+          "relation": "notable work",
+          "relation_id": "P800"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q5410881",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452444",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q60661044",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452433",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452434",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q25452438",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q108377574",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q185351",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q1234713",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q105275968",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q105322976",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q107313311",
+          "relation": "field of this occupation",
+          "relation_id": "P425"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q8655102",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q867541",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q1029706",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q189459",
+          "target": "Q3181656",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q1999841",
+          "target": "Q28640",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1999841",
+          "target": "Q185351",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q1999841",
+          "target": "Q4504549",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q1999841",
+          "target": "Q482752",
+          "relation": "field of this occupation",
+          "relation_id": "P425"
+        },
+        {
+          "source": "Q1999841",
+          "target": "Q484181",
+          "relation": "field of this occupation",
+          "relation_id": "P425"
+        },
+        {
+          "source": "Q1999841",
+          "target": "Q18517268",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q1999841",
+          "target": "Q189459",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q3320743",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q432",
+          "relation": "culture",
+          "relation_id": "P2596"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q185351",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q189459",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q2538679",
+          "relation": "said to be the same as",
+          "relation_id": "P460"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q16138292",
+          "relation": "said to be the same as",
+          "relation_id": "P460"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q8736086",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q1410729",
+          "target": "Q20078554",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        },
+        {
+          "source": "Q12198341",
+          "target": "Q7725634",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q12198341",
+          "target": "Q293571",
+          "relation": "author",
+          "relation_id": "P50"
+        },
+        {
+          "source": "Q12198341",
+          "target": "Q13955",
+          "relation": "language of work or name",
+          "relation_id": "P407"
+        },
+        {
+          "source": "Q12198341",
+          "target": "Q9603",
+          "relation": "main subject",
+          "relation_id": "P921"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q79",
+          "relation": "place of death",
+          "relation_id": "P20"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q189459",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q17630264",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q25452438",
+          "target": "Q293571",
+          "relation": "student",
+          "relation_id": "P802"
+        }
+      ]
+    },
+    "context_hint": "Al-Nawawi employer Dar al-Hadith al-Ashrafiyya",
+    "traversal_hints": "Step 1: Look for the relationship 'employer' between Q293571 and Dar al-Hadith al-Ashrafiyya.",
+    "domain": "scientists"
+  },
+  {
+    "question": "What category does UBS belong to?",
+    "answer": "public company",
+    "entity": "UBS",
+    "entity_id": "Q193199",
+    "relation": "instance of",
+    "answer_id": "Q891723",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q193199"
+        },
+        {
+          "id": "Q7217980",
+          "label": "Category:UBS"
+        },
+        {
+          "id": "Q115120676",
+          "label": "Colm Kelleher"
+        },
+        {
+          "id": "Q568041",
+          "label": "universal bank"
+        },
+        {
+          "id": "Q3487910",
+          "label": "Swiss Bank Corporation"
+        },
+        {
+          "id": "Q6881495",
+          "label": "Union Bank of Switzerland"
+        },
+        {
+          "id": "Q693737",
+          "label": "Aktiengesellschaft"
+        },
+        {
+          "id": "Q2311",
+          "label": "Airbus SE"
+        },
+        {
+          "id": "Q100012",
+          "label": "Polybahn"
+        },
+        {
+          "id": "Q278810",
+          "label": "Pennon Group"
+        },
+        {
+          "id": "Q7072432",
+          "label": "ODS Tower"
+        },
+        {
+          "id": "Q18394708",
+          "label": "Wealthfront"
+        },
+        {
+          "id": "Q29882781",
+          "label": "Ch\u00e2teau Wolfsberg with Parquin House and chapel"
+        },
+        {
+          "id": "Q42378",
+          "label": "Universal Serial Bus"
+        },
+        {
+          "id": "Q819089",
+          "label": "Berezin UB"
+        },
+        {
+          "id": "Q55",
+          "label": "Netherlands"
+        },
+        {
+          "id": "Q142",
+          "label": "France"
+        },
+        {
+          "id": "Q206361",
+          "label": "concern"
+        },
+        {
+          "id": "Q891723",
+          "label": "public company"
+        },
+        {
+          "id": "Q4830453",
+          "label": "business"
+        },
+        {
+          "id": "Q6881511",
+          "label": "enterprise"
+        },
+        {
+          "id": "Q1436777",
+          "label": "Sociedad Estatal de Participaciones Industriales"
+        },
+        {
+          "id": "Q7392048",
+          "label": "SOGEPA"
+        },
+        {
+          "id": "Q18287094",
+          "label": "Gesellschaft zur Beteiligungsverwaltung mbH & Co. KG"
+        },
+        {
+          "id": "Q165765",
+          "label": "Dornier"
+        },
+        {
+          "id": "Q145",
+          "label": "United Kingdom"
+        },
+        {
+          "id": "Q522617",
+          "label": "Invesco"
+        },
+        {
+          "id": "Q637440",
+          "label": "Lazard"
+        },
+        {
+          "id": "Q691481",
+          "label": "The Pictet Group"
+        },
+        {
+          "id": "Q1470848",
+          "label": "Legal & General"
+        },
+        {
+          "id": "Q2843129",
+          "label": "Ameriprise Financial"
+        },
+        {
+          "id": "Q10541491",
+          "label": "legal form"
+        },
+        {
+          "id": "Q19588327",
+          "label": "type of legal entity in Switzerland"
+        },
+        {
+          "id": "Q2012796",
+          "label": "Swiss Code of Obligations"
+        },
+        {
+          "id": "Q155076",
+          "label": "juridical person"
+        },
+        {
+          "id": "Q22084735",
+          "label": "Aktiengesellschaft"
+        },
+        {
+          "id": "Q39",
+          "label": "Switzerland"
+        },
+        {
+          "id": "Q72",
+          "label": "Zurich"
+        },
+        {
+          "id": "Q43015",
+          "label": "finance"
+        },
+        {
+          "id": "Q806664",
+          "label": "Bank in Winterthur"
+        },
+        {
+          "id": "Q1557704",
+          "label": "Toggenburger Bank"
+        },
+        {
+          "id": "Q142031",
+          "label": "funicular"
+        },
+        {
+          "id": "Q131873273",
+          "label": "UBS-Polybahn AG"
+        },
+        {
+          "id": "Q11943",
+          "label": "Canton of Z\u00fcrich"
+        },
+        {
+          "id": "Q682070",
+          "label": "Verkehrsbetriebe Z\u00fcrich"
+        },
+        {
+          "id": "Q11942",
+          "label": "ETH Zurich"
+        },
+        {
+          "id": "Q201977",
+          "label": "Zurich Transport Network"
+        },
+        {
+          "id": "Q1053678",
+          "label": "Central"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q193199",
+          "target": "Q7217980",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q115120676",
+          "relation": "director / manager",
+          "relation_id": "P1037"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q568041",
+          "relation": "product or material produced",
+          "relation_id": "P1056"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q3487910",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q6881495",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q693737",
+          "relation": "legal form",
+          "relation_id": "P1454"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q2311",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q100012",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q278810",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q7072432",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q18394708",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q29882781",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q42378",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q819089",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q39",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q4830453",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q72",
+          "relation": "headquarters location",
+          "relation_id": "P159"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q43015",
+          "relation": "industry",
+          "relation_id": "P452"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q806664",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q1557704",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q193199",
+          "relation": "replaced by",
+          "relation_id": "P1366"
+        },
+        {
+          "source": "Q693737",
+          "target": "Q10541491",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q693737",
+          "target": "Q19588327",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q693737",
+          "target": "Q2012796",
+          "relation": "main regulatory text",
+          "relation_id": "P92"
+        },
+        {
+          "source": "Q693737",
+          "target": "Q155076",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q693737",
+          "target": "Q22084735",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q693737",
+          "target": "Q39",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q55",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q142",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q206361",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q891723",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q4830453",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q6881511",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q1436777",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q7392048",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q18287094",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q165765",
+          "relation": "follows",
+          "relation_id": "P155"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q39",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q142031",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q131873273",
+          "relation": "operator",
+          "relation_id": "P137"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q72",
+          "relation": "located in the administrative territorial entity",
+          "relation_id": "P131"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q11943",
+          "relation": "located in the administrative territorial entity",
+          "relation_id": "P131"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q682070",
+          "relation": "operator",
+          "relation_id": "P137"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q11942",
+          "relation": "named after",
+          "relation_id": "P138"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q201977",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q1053678",
+          "relation": "terminus",
+          "relation_id": "P559"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q145",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q891723",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q4830453",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q6881511",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q193199",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q522617",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q637440",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q691481",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q1470848",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q2843129",
+          "relation": "owned by",
+          "relation_id": "P127"
+        }
+      ]
+    },
+    "context_hint": "UBS instance of public company",
+    "traversal_hints": "Step 1: Look for the relationship 'owner of' between Q193199 and Airbus SE.\nStep 2: Look for the relationship 'instance of' between Airbus SE and public company.",
+    "domain": "companies"
+  },
+  {
+    "question": "Where is the main office of UBS?",
+    "answer": "Zurich",
+    "entity": "UBS",
+    "entity_id": "Q193199",
+    "relation": "headquarters location",
+    "answer_id": "Q72",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q193199"
+        },
+        {
+          "id": "Q7217980",
+          "label": "Category:UBS"
+        },
+        {
+          "id": "Q115120676",
+          "label": "Colm Kelleher"
+        },
+        {
+          "id": "Q568041",
+          "label": "universal bank"
+        },
+        {
+          "id": "Q3487910",
+          "label": "Swiss Bank Corporation"
+        },
+        {
+          "id": "Q6881495",
+          "label": "Union Bank of Switzerland"
+        },
+        {
+          "id": "Q693737",
+          "label": "Aktiengesellschaft"
+        },
+        {
+          "id": "Q2311",
+          "label": "Airbus SE"
+        },
+        {
+          "id": "Q100012",
+          "label": "Polybahn"
+        },
+        {
+          "id": "Q278810",
+          "label": "Pennon Group"
+        },
+        {
+          "id": "Q7072432",
+          "label": "ODS Tower"
+        },
+        {
+          "id": "Q18394708",
+          "label": "Wealthfront"
+        },
+        {
+          "id": "Q29882781",
+          "label": "Ch\u00e2teau Wolfsberg with Parquin House and chapel"
+        },
+        {
+          "id": "Q42378",
+          "label": "Universal Serial Bus"
+        },
+        {
+          "id": "Q819089",
+          "label": "Berezin UB"
+        },
+        {
+          "id": "Q39",
+          "label": "Switzerland"
+        },
+        {
+          "id": "Q751876",
+          "label": "ch\u00e2teau"
+        },
+        {
+          "id": "Q811979",
+          "label": "architectural structure"
+        },
+        {
+          "id": "Q1497375",
+          "label": "architectural ensemble"
+        },
+        {
+          "id": "Q65127",
+          "label": "Ermatingen"
+        },
+        {
+          "id": "Q840829",
+          "label": "baroque architecture"
+        },
+        {
+          "id": "Q14913298",
+          "label": "list of cultural properties in Ermatingen"
+        },
+        {
+          "id": "Q12126757",
+          "label": "class B Swiss cultural property of regional significance"
+        },
+        {
+          "id": "Q97478016",
+          "label": "besonders wertvoll (Thurgau)"
+        },
+        {
+          "id": "Q4167836",
+          "label": "Wikimedia category"
+        },
+        {
+          "id": "Q30",
+          "label": "United States"
+        },
+        {
+          "id": "Q4830453",
+          "label": "business"
+        },
+        {
+          "id": "Q21096079",
+          "label": "Robo-advisor"
+        },
+        {
+          "id": "Q18157110",
+          "label": "Andy Rachleff"
+        },
+        {
+          "id": "Q47265",
+          "label": "Palo Alto"
+        },
+        {
+          "id": "Q837171",
+          "label": "financial services"
+        },
+        {
+          "id": "Q72",
+          "label": "Zurich"
+        },
+        {
+          "id": "Q43015",
+          "label": "finance"
+        },
+        {
+          "id": "Q806664",
+          "label": "Bank in Winterthur"
+        },
+        {
+          "id": "Q1557704",
+          "label": "Toggenburger Bank"
+        },
+        {
+          "id": "Q678018",
+          "label": "Bandon"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q27",
+          "label": "Ireland"
+        },
+        {
+          "id": "Q145",
+          "label": "United Kingdom"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q623268",
+          "label": "chief financial officer"
+        },
+        {
+          "id": "Q2534525",
+          "label": "chairman of the executive board"
+        },
+        {
+          "id": "Q806798",
+          "label": "banker"
+        },
+        {
+          "id": "Q2961975",
+          "label": "business executive"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q193199",
+          "target": "Q7217980",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q115120676",
+          "relation": "director / manager",
+          "relation_id": "P1037"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q568041",
+          "relation": "product or material produced",
+          "relation_id": "P1056"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q3487910",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q6881495",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q693737",
+          "relation": "legal form",
+          "relation_id": "P1454"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q2311",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q100012",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q278810",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q7072432",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q18394708",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q29882781",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q42378",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q819089",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q7217980",
+          "target": "Q4167836",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q7217980",
+          "target": "Q193199",
+          "relation": "category's main topic",
+          "relation_id": "P301"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q678018",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q27",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q145",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q623268",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q2534525",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q806798",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q2961975",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q193199",
+          "relation": "employer",
+          "relation_id": "P108"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q39",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q4830453",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q72",
+          "relation": "headquarters location",
+          "relation_id": "P159"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q43015",
+          "relation": "industry",
+          "relation_id": "P452"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q806664",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q1557704",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q193199",
+          "relation": "replaced by",
+          "relation_id": "P1366"
+        },
+        {
+          "source": "Q18394708",
+          "target": "Q30",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q18394708",
+          "target": "Q4830453",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q18394708",
+          "target": "Q21096079",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q18394708",
+          "target": "Q18157110",
+          "relation": "founded by",
+          "relation_id": "P112"
+        },
+        {
+          "source": "Q18394708",
+          "target": "Q193199",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q18394708",
+          "target": "Q47265",
+          "relation": "location of formation",
+          "relation_id": "P740"
+        },
+        {
+          "source": "Q18394708",
+          "target": "Q837171",
+          "relation": "industry",
+          "relation_id": "P452"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q39",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q751876",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q811979",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q1497375",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q193199",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q65127",
+          "relation": "located in the administrative territorial entity",
+          "relation_id": "P131"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q840829",
+          "relation": "architectural style",
+          "relation_id": "P149"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q14913298",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q12126757",
+          "relation": "heritage designation",
+          "relation_id": "P1435"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q97478016",
+          "relation": "heritage designation",
+          "relation_id": "P1435"
+        }
+      ]
+    },
+    "context_hint": "UBS headquarters location Zurich",
+    "traversal_hints": "Step 1: Look for the relationship 'replaces' between Q193199 and Union Bank of Switzerland.\nStep 2: Look for the relationship 'headquarters location' between Union Bank of Switzerland and Zurich.",
+    "domain": "companies"
+  },
+  {
+    "question": "Who leads UBS as CEO?",
+    "answer": "Sergio Ermotti",
+    "entity": "UBS",
+    "entity_id": "Q193199",
+    "relation": "chief executive officer",
+    "answer_id": "Q117289",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q193199"
+        },
+        {
+          "id": "Q7217980",
+          "label": "Category:UBS"
+        },
+        {
+          "id": "Q115120676",
+          "label": "Colm Kelleher"
+        },
+        {
+          "id": "Q568041",
+          "label": "universal bank"
+        },
+        {
+          "id": "Q3487910",
+          "label": "Swiss Bank Corporation"
+        },
+        {
+          "id": "Q6881495",
+          "label": "Union Bank of Switzerland"
+        },
+        {
+          "id": "Q693737",
+          "label": "Aktiengesellschaft"
+        },
+        {
+          "id": "Q2311",
+          "label": "Airbus SE"
+        },
+        {
+          "id": "Q100012",
+          "label": "Polybahn"
+        },
+        {
+          "id": "Q278810",
+          "label": "Pennon Group"
+        },
+        {
+          "id": "Q7072432",
+          "label": "ODS Tower"
+        },
+        {
+          "id": "Q18394708",
+          "label": "Wealthfront"
+        },
+        {
+          "id": "Q29882781",
+          "label": "Ch\u00e2teau Wolfsberg with Parquin House and chapel"
+        },
+        {
+          "id": "Q42378",
+          "label": "Universal Serial Bus"
+        },
+        {
+          "id": "Q819089",
+          "label": "Berezin UB"
+        },
+        {
+          "id": "Q30",
+          "label": "United States"
+        },
+        {
+          "id": "Q18142",
+          "label": "tower block"
+        },
+        {
+          "id": "Q8063092",
+          "label": "ZGF Architects LLP"
+        },
+        {
+          "id": "Q824",
+          "label": "Oregon"
+        },
+        {
+          "id": "Q39",
+          "label": "Switzerland"
+        },
+        {
+          "id": "Q751876",
+          "label": "ch\u00e2teau"
+        },
+        {
+          "id": "Q811979",
+          "label": "architectural structure"
+        },
+        {
+          "id": "Q1497375",
+          "label": "architectural ensemble"
+        },
+        {
+          "id": "Q65127",
+          "label": "Ermatingen"
+        },
+        {
+          "id": "Q840829",
+          "label": "baroque architecture"
+        },
+        {
+          "id": "Q14913298",
+          "label": "list of cultural properties in Ermatingen"
+        },
+        {
+          "id": "Q12126757",
+          "label": "class B Swiss cultural property of regional significance"
+        },
+        {
+          "id": "Q97478016",
+          "label": "besonders wertvoll (Thurgau)"
+        },
+        {
+          "id": "Q142031",
+          "label": "funicular"
+        },
+        {
+          "id": "Q131873273",
+          "label": "UBS-Polybahn AG"
+        },
+        {
+          "id": "Q72",
+          "label": "Zurich"
+        },
+        {
+          "id": "Q11943",
+          "label": "Canton of Z\u00fcrich"
+        },
+        {
+          "id": "Q682070",
+          "label": "Verkehrsbetriebe Z\u00fcrich"
+        },
+        {
+          "id": "Q11942",
+          "label": "ETH Zurich"
+        },
+        {
+          "id": "Q201977",
+          "label": "Zurich Transport Network"
+        },
+        {
+          "id": "Q1053678",
+          "label": "Central"
+        },
+        {
+          "id": "Q22687",
+          "label": "bank"
+        },
+        {
+          "id": "Q1553482",
+          "label": "specialized bank"
+        },
+        {
+          "id": "Q55",
+          "label": "Netherlands"
+        },
+        {
+          "id": "Q142",
+          "label": "France"
+        },
+        {
+          "id": "Q206361",
+          "label": "concern"
+        },
+        {
+          "id": "Q891723",
+          "label": "public company"
+        },
+        {
+          "id": "Q4830453",
+          "label": "business"
+        },
+        {
+          "id": "Q6881511",
+          "label": "enterprise"
+        },
+        {
+          "id": "Q1436777",
+          "label": "Sociedad Estatal de Participaciones Industriales"
+        },
+        {
+          "id": "Q7392048",
+          "label": "SOGEPA"
+        },
+        {
+          "id": "Q18287094",
+          "label": "Gesellschaft zur Beteiligungsverwaltung mbH & Co. KG"
+        },
+        {
+          "id": "Q165765",
+          "label": "Dornier"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q193199",
+          "target": "Q7217980",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q115120676",
+          "relation": "director / manager",
+          "relation_id": "P1037"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q568041",
+          "relation": "product or material produced",
+          "relation_id": "P1056"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q3487910",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q6881495",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q693737",
+          "relation": "legal form",
+          "relation_id": "P1454"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q2311",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q100012",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q278810",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q7072432",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q18394708",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q29882781",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q42378",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q819089",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q568041",
+          "target": "Q22687",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q568041",
+          "target": "Q1553482",
+          "relation": "opposite of",
+          "relation_id": "P461"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q55",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q142",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q206361",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q891723",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q4830453",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q6881511",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q1436777",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q7392048",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q18287094",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q165765",
+          "relation": "follows",
+          "relation_id": "P155"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q39",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q142031",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q131873273",
+          "relation": "operator",
+          "relation_id": "P137"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q72",
+          "relation": "located in the administrative territorial entity",
+          "relation_id": "P131"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q11943",
+          "relation": "located in the administrative territorial entity",
+          "relation_id": "P131"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q682070",
+          "relation": "operator",
+          "relation_id": "P137"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q11942",
+          "relation": "named after",
+          "relation_id": "P138"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q201977",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q1053678",
+          "relation": "terminus",
+          "relation_id": "P559"
+        },
+        {
+          "source": "Q7072432",
+          "target": "Q30",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q7072432",
+          "target": "Q18142",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q7072432",
+          "target": "Q8063092",
+          "relation": "architect",
+          "relation_id": "P84"
+        },
+        {
+          "source": "Q7072432",
+          "target": "Q193199",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q7072432",
+          "target": "Q824",
+          "relation": "located in the administrative territorial entity",
+          "relation_id": "P131"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q39",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q751876",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q811979",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q1497375",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q193199",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q65127",
+          "relation": "located in the administrative territorial entity",
+          "relation_id": "P131"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q840829",
+          "relation": "architectural style",
+          "relation_id": "P149"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q14913298",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q12126757",
+          "relation": "heritage designation",
+          "relation_id": "P1435"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q97478016",
+          "relation": "heritage designation",
+          "relation_id": "P1435"
+        }
+      ]
+    },
+    "context_hint": "UBS chief executive officer Sergio Ermotti",
+    "traversal_hints": "No clear path found in the knowledge graph.",
+    "domain": "companies"
+  }
+]

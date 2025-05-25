@@ -1,0 +1,3107 @@
+[
+  {
+    "question": "Who or what is Frank-Walter Steinmeier?",
+    "answer": "Frank-Walter Steinmeier is a politician.",
+    "entity_id": "Q76658",
+    "entity": "Frank-Walter Steinmeier",
+    "domain": "world_leaders",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q76658",
+          "properties": {
+            "IdRef ID": "135564670",
+            "IMDb ID": "nm2841272",
+            "Commons category": "Frank-Walter Steinmeier",
+            "pronunciation audio": "http://commons.wikimedia.org/wiki/Special:FilePath/De-Frank-Walter%20Steinmeier.ogg",
+            "catalog code": "11004167",
+            "date of birth": "1956-01-05T00:00:00Z",
+            "Freebase ID": "/m/089zlv",
+            "NL CR AUT ID": "js20051024034",
+            "official website": "http://www.frank-walter-steinmeier.de",
+            "Perlentaucher ID": "frank-walter-steinmeier",
+            "Commons gallery": "Frank-Walter Steinmeier",
+            "Nationale Thesaurus voor Auteursnamen ID": "301039453",
+            "NUKAT ID": "n2015124756",
+            "AlloCin\u00e9 person ID": "426287",
+            "Munzinger person ID": "00000022788",
+            "Gran Enciclop\u00e8dia Catalana ID (former scheme)": "22286927"
+          }
+        },
+        {
+          "id": "Q315863",
+          "label": "First Merkel cabinet"
+        },
+        {
+          "id": "Q422349",
+          "label": "Aktion Deutschland Hilft"
+        },
+        {
+          "id": "Q446354",
+          "label": "German Protestant Church Assembly"
+        },
+        {
+          "id": "Q1205614",
+          "label": "German Protestant Institute"
+        },
+        {
+          "id": "Q15094515",
+          "label": "Third Merkel cabinet"
+        },
+        {
+          "id": "Q959320",
+          "label": "Doctor of Laws"
+        },
+        {
+          "id": "Q64",
+          "label": "Berlin"
+        },
+        {
+          "id": "Q324402",
+          "label": "Zehlendorf"
+        },
+        {
+          "id": "Q2209185",
+          "label": "Saaringen"
+        },
+        {
+          "id": "Q21494270",
+          "label": "Steinmeier"
+        },
+        {
+          "id": "Q19688421",
+          "label": "Frank-Walter"
+        },
+        {
+          "id": "Q31946866",
+          "label": "Category:Frank-Walter Steinmeier"
+        },
+        {
+          "id": "Q17290934",
+          "label": "Lentapedia"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q76658",
+          "target": "Q315863",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q422349",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q446354",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q1205614",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q15094515",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q959320",
+          "relation": "academic degree",
+          "relation_id": "P512"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q64",
+          "relation": "work location",
+          "relation_id": "P937"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q324402",
+          "relation": "residence",
+          "relation_id": "P551"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q2209185",
+          "relation": "residence",
+          "relation_id": "P551"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q21494270",
+          "relation": "family name",
+          "relation_id": "P734"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q19688421",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q31946866",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q17290934",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q76658",
+        "P269",
+        "135564670",
+        "IdRef ID",
+        "135564670"
+      ],
+      [
+        "Q76658",
+        "P345",
+        "nm2841272",
+        "IMDb ID",
+        "nm2841272"
+      ],
+      [
+        "Q76658",
+        "P373",
+        "Frank-Walter Steinmeier",
+        "Commons category",
+        "Frank-Walter Steinmeier"
+      ],
+      [
+        "Q76658",
+        "P443",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/De-Frank-Walter%20Steinmeier.ogg",
+        "pronunciation audio",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/De-Frank-Walter%20Steinmeier.ogg"
+      ],
+      [
+        "Q76658",
+        "P463",
+        "http://www.wikidata.org/entity/Q315863",
+        "member of",
+        "First Merkel cabinet"
+      ],
+      [
+        "Q76658",
+        "P463",
+        "http://www.wikidata.org/entity/Q422349",
+        "member of",
+        "Aktion Deutschland Hilft"
+      ],
+      [
+        "Q76658",
+        "P463",
+        "http://www.wikidata.org/entity/Q446354",
+        "member of",
+        "German Protestant Church Assembly"
+      ],
+      [
+        "Q76658",
+        "P463",
+        "http://www.wikidata.org/entity/Q1205614",
+        "member of",
+        "German Protestant Institute"
+      ],
+      [
+        "Q76658",
+        "P463",
+        "http://www.wikidata.org/entity/Q15094515",
+        "member of",
+        "Third Merkel cabinet"
+      ],
+      [
+        "Q76658",
+        "P512",
+        "http://www.wikidata.org/entity/Q959320",
+        "academic degree",
+        "Doctor of Laws"
+      ],
+      [
+        "Q76658",
+        "P528",
+        "11004167",
+        "catalog code",
+        "11004167"
+      ],
+      [
+        "Q76658",
+        "P551",
+        "http://www.wikidata.org/entity/Q64",
+        "residence",
+        "Berlin"
+      ],
+      [
+        "Q76658",
+        "P551",
+        "http://www.wikidata.org/entity/Q324402",
+        "residence",
+        "Zehlendorf"
+      ],
+      [
+        "Q76658",
+        "P551",
+        "http://www.wikidata.org/entity/Q2209185",
+        "residence",
+        "Saaringen"
+      ],
+      [
+        "Q76658",
+        "P569",
+        "1956-01-05T00:00:00Z",
+        "date of birth",
+        "1956-01-05T00:00:00Z"
+      ],
+      [
+        "Q76658",
+        "P646",
+        "/m/089zlv",
+        "Freebase ID",
+        "/m/089zlv"
+      ],
+      [
+        "Q76658",
+        "P691",
+        "js20051024034",
+        "NL CR AUT ID",
+        "js20051024034"
+      ],
+      [
+        "Q76658",
+        "P734",
+        "http://www.wikidata.org/entity/Q21494270",
+        "family name",
+        "Steinmeier"
+      ],
+      [
+        "Q76658",
+        "P735",
+        "http://www.wikidata.org/entity/Q19688421",
+        "given name",
+        "Frank-Walter"
+      ],
+      [
+        "Q76658",
+        "P856",
+        "http://www.frank-walter-steinmeier.de",
+        "official website",
+        "http://www.frank-walter-steinmeier.de"
+      ],
+      [
+        "Q76658",
+        "P866",
+        "frank-walter-steinmeier",
+        "Perlentaucher ID",
+        "frank-walter-steinmeier"
+      ],
+      [
+        "Q76658",
+        "P910",
+        "http://www.wikidata.org/entity/Q31946866",
+        "topic's main category",
+        "Category:Frank-Walter Steinmeier"
+      ],
+      [
+        "Q76658",
+        "P935",
+        "Frank-Walter Steinmeier",
+        "Commons gallery",
+        "Frank-Walter Steinmeier"
+      ],
+      [
+        "Q76658",
+        "P937",
+        "http://www.wikidata.org/entity/Q64",
+        "work location",
+        "Berlin"
+      ],
+      [
+        "Q76658",
+        "P1006",
+        "301039453",
+        "Nationale Thesaurus voor Auteursnamen ID",
+        "301039453"
+      ],
+      [
+        "Q76658",
+        "P1207",
+        "n2015124756",
+        "NUKAT ID",
+        "n2015124756"
+      ],
+      [
+        "Q76658",
+        "P1266",
+        "426287",
+        "AlloCin\u00e9 person ID",
+        "426287"
+      ],
+      [
+        "Q76658",
+        "P1284",
+        "00000022788",
+        "Munzinger person ID",
+        "00000022788"
+      ],
+      [
+        "Q76658",
+        "P1296",
+        "22286927",
+        "Gran Enciclop\u00e8dia Catalana ID (former scheme)",
+        "22286927"
+      ],
+      [
+        "Q76658",
+        "P1343",
+        "http://www.wikidata.org/entity/Q17290934",
+        "described by source",
+        "Lentapedia"
+      ]
+    ],
+    "question_type": "general",
+    "country": "Germany",
+    "position": "http://www.wikidata.org/prop/direct/P35"
+  },
+  {
+    "question": "Who or what is Mahamat D\u00e9by Itno?",
+    "answer": "Mahamat D\u00e9by Itno is a politician.",
+    "entity_id": "Q16206405",
+    "entity": "Mahamat D\u00e9by Itno",
+    "domain": "world_leaders",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q16206405",
+          "properties": {
+            "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahamat%20D%C3%A9by.jpg",
+            "ISNI": "0000000523951332",
+            "VIAF cluster ID": "5398168172582848620001",
+            "GND ID": "1286278686",
+            "Biblioth\u00e8que nationale de France ID": "181854232",
+            "IMDb ID": "nm12964381",
+            "Commons category": "Mahamat D\u00e9by",
+            "date of birth": "1984-04-04T00:00:00Z",
+            "Freebase ID": "/m/0swnj5t",
+            "Munzinger person ID": "00000033011",
+            "name in native language": "George Simion",
+            "BBC Things ID": "d23d1725-0873-411e-ad62-1b0502f7c0e3",
+            "X (Twitter) username": "GmahamatIdi",
+            "WikiTree person ID": "D\u00e9by-9"
+          }
+        },
+        {
+          "id": "Q2498357",
+          "label": "Massakory"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q57350",
+          "label": "Idriss D\u00e9by"
+        },
+        {
+          "id": "Q115298550",
+          "label": "Aisha Mahamat Idriss Deby Itno"
+        },
+        {
+          "id": "Q657",
+          "label": "Chad"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q28003132",
+          "label": "President of Chad"
+        },
+        {
+          "id": "Q327591",
+          "label": "independent politician"
+        },
+        {
+          "id": "Q47064",
+          "label": "military personnel"
+        },
+        {
+          "id": "Q874971",
+          "label": "military of Chad"
+        },
+        {
+          "id": "Q7821620",
+          "label": "field marshal"
+        },
+        {
+          "id": "Q945700",
+          "label": "Chad\u2013Sudan Conflict"
+        },
+        {
+          "id": "Q106572235",
+          "label": "Northern Chad offensive"
+        },
+        {
+          "id": "Q107332425",
+          "label": "Deby"
+        },
+        {
+          "id": "Q120122686",
+          "label": "Mahamat"
+        },
+        {
+          "id": "Q3659",
+          "label": "N'Djamena"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q16206405",
+          "target": "Q2498357",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q57350",
+          "relation": "father",
+          "relation_id": "P22"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q115298550",
+          "relation": "spouse",
+          "relation_id": "P26"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q657",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q28003132",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q327591",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q47064",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q874971",
+          "relation": "military branch",
+          "relation_id": "P241"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q7821620",
+          "relation": "military or police rank",
+          "relation_id": "P410"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q945700",
+          "relation": "participated in conflict",
+          "relation_id": "P607"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q106572235",
+          "relation": "participated in conflict",
+          "relation_id": "P607"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q107332425",
+          "relation": "family name",
+          "relation_id": "P734"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q120122686",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q3659",
+          "relation": "work location",
+          "relation_id": "P937"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q16206405",
+        "P18",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mahamat%20D%C3%A9by.jpg",
+        "image",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mahamat%20D%C3%A9by.jpg"
+      ],
+      [
+        "Q16206405",
+        "P19",
+        "http://www.wikidata.org/entity/Q2498357",
+        "place of birth",
+        "Massakory"
+      ],
+      [
+        "Q16206405",
+        "P21",
+        "http://www.wikidata.org/entity/Q6581097",
+        "sex or gender",
+        "male"
+      ],
+      [
+        "Q16206405",
+        "P22",
+        "http://www.wikidata.org/entity/Q57350",
+        "father",
+        "Idriss D\u00e9by"
+      ],
+      [
+        "Q16206405",
+        "P26",
+        "http://www.wikidata.org/entity/Q115298550",
+        "spouse",
+        "Aisha Mahamat Idriss Deby Itno"
+      ],
+      [
+        "Q16206405",
+        "P27",
+        "http://www.wikidata.org/entity/Q657",
+        "country of citizenship",
+        "Chad"
+      ],
+      [
+        "Q16206405",
+        "P31",
+        "http://www.wikidata.org/entity/Q5",
+        "instance of",
+        "human"
+      ],
+      [
+        "Q16206405",
+        "P39",
+        "http://www.wikidata.org/entity/Q28003132",
+        "position held",
+        "President of Chad"
+      ],
+      [
+        "Q16206405",
+        "P102",
+        "http://www.wikidata.org/entity/Q327591",
+        "member of political party",
+        "independent politician"
+      ],
+      [
+        "Q16206405",
+        "P106",
+        "http://www.wikidata.org/entity/Q47064",
+        "occupation",
+        "military personnel"
+      ],
+      [
+        "Q16206405",
+        "P213",
+        "0000000523951332",
+        "ISNI",
+        "0000000523951332"
+      ],
+      [
+        "Q16206405",
+        "P214",
+        "5398168172582848620001",
+        "VIAF cluster ID",
+        "5398168172582848620001"
+      ],
+      [
+        "Q16206405",
+        "P227",
+        "1286278686",
+        "GND ID",
+        "1286278686"
+      ],
+      [
+        "Q16206405",
+        "P241",
+        "http://www.wikidata.org/entity/Q874971",
+        "military branch",
+        "military of Chad"
+      ],
+      [
+        "Q16206405",
+        "P268",
+        "181854232",
+        "Biblioth\u00e8que nationale de France ID",
+        "181854232"
+      ],
+      [
+        "Q16206405",
+        "P345",
+        "nm12964381",
+        "IMDb ID",
+        "nm12964381"
+      ],
+      [
+        "Q16206405",
+        "P373",
+        "Mahamat D\u00e9by",
+        "Commons category",
+        "Mahamat D\u00e9by"
+      ],
+      [
+        "Q16206405",
+        "P410",
+        "http://www.wikidata.org/entity/Q7821620",
+        "military or police rank",
+        "field marshal"
+      ],
+      [
+        "Q16206405",
+        "P569",
+        "1984-04-04T00:00:00Z",
+        "date of birth",
+        "1984-04-04T00:00:00Z"
+      ],
+      [
+        "Q16206405",
+        "P607",
+        "http://www.wikidata.org/entity/Q945700",
+        "participated in conflict",
+        "Chad\u2013Sudan Conflict"
+      ],
+      [
+        "Q16206405",
+        "P607",
+        "http://www.wikidata.org/entity/Q106572235",
+        "participated in conflict",
+        "Northern Chad offensive"
+      ],
+      [
+        "Q16206405",
+        "P646",
+        "/m/0swnj5t",
+        "Freebase ID",
+        "/m/0swnj5t"
+      ],
+      [
+        "Q16206405",
+        "P734",
+        "http://www.wikidata.org/entity/Q107332425",
+        "family name",
+        "Deby"
+      ],
+      [
+        "Q16206405",
+        "P735",
+        "http://www.wikidata.org/entity/Q120122686",
+        "given name",
+        "Mahamat"
+      ],
+      [
+        "Q16206405",
+        "P937",
+        "http://www.wikidata.org/entity/Q3659",
+        "work location",
+        "N'Djamena"
+      ],
+      [
+        "Q16206405",
+        "P1284",
+        "00000033011",
+        "Munzinger person ID",
+        "00000033011"
+      ],
+      [
+        "Q16206405",
+        "P1559",
+        "George Simion",
+        "name in native language",
+        "George Simion"
+      ],
+      [
+        "Q16206405",
+        "P1617",
+        "d23d1725-0873-411e-ad62-1b0502f7c0e3",
+        "BBC Things ID",
+        "d23d1725-0873-411e-ad62-1b0502f7c0e3"
+      ],
+      [
+        "Q16206405",
+        "P2002",
+        "GmahamatIdi",
+        "X (Twitter) username",
+        "GmahamatIdi"
+      ],
+      [
+        "Q16206405",
+        "P2949",
+        "D\u00e9by-9",
+        "WikiTree person ID",
+        "D\u00e9by-9"
+      ]
+    ],
+    "question_type": "general",
+    "country": "Chad",
+    "position": "http://www.wikidata.org/prop/direct/P35"
+  },
+  {
+    "question": "Can you tell me about Juan Guaid\u00f3?",
+    "answer": "Juan Guaid\u00f3 is a politician.",
+    "entity_id": "Q58833335",
+    "entity": "Juan Guaid\u00f3",
+    "domain": "world_leaders",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q58833335",
+          "properties": {
+            "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Guaid%C3%B3%202019%20portrait.jpg",
+            "signature": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Guaid%C3%B3%20Marquez%20signature.svg",
+            "ISNI": "0000000500837684",
+            "VIAF cluster ID": "4639154867605660100007",
+            "GND ID": "1176088920",
+            "Library of Congress authority ID": "no2019151776",
+            "IMDb ID": "nm10440200",
+            "Commons category": "Juan Guaid\u00f3",
+            "date of birth": "1983-07-28T00:00:00Z"
+          }
+        },
+        {
+          "id": "Q873405",
+          "label": "La Guaira"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q61665580",
+          "label": "Fabiana Rosales"
+        },
+        {
+          "id": "Q717",
+          "label": "Venezuela"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q6597955",
+          "label": "President of the National Assembly of Venezuela"
+        },
+        {
+          "id": "Q11942698",
+          "label": "President of Venezuela"
+        },
+        {
+          "id": "Q20011182",
+          "label": "member of the National Assembly of Venezuela"
+        },
+        {
+          "id": "Q70876408",
+          "label": "Q70876408"
+        },
+        {
+          "id": "Q61665639",
+          "label": "Miranda Guaid\u00f3 Rosales"
+        },
+        {
+          "id": "Q432637",
+          "label": "George Washington University"
+        },
+        {
+          "id": "Q4760155",
+          "label": "Andr\u00e9s Bello Catholic University"
+        },
+        {
+          "id": "Q327591",
+          "label": "independent politician"
+        },
+        {
+          "id": "Q1629486",
+          "label": "Democratic Unity Roundtable"
+        },
+        {
+          "id": "Q7229748",
+          "label": "Popular Will"
+        },
+        {
+          "id": "Q65036830",
+          "label": "Frente Amplio Venezuela Libre"
+        },
+        {
+          "id": "Q1321",
+          "label": "Spanish"
+        },
+        {
+          "id": "Q82955",
+          "label": "politician"
+        },
+        {
+          "id": "Q2267418",
+          "label": "industrial engineer"
+        },
+        {
+          "id": "Q30",
+          "label": "United States"
+        },
+        {
+          "id": "Q60565258",
+          "label": "Guaid\u00f3"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q58833335",
+          "target": "Q873405",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q61665580",
+          "relation": "spouse",
+          "relation_id": "P26"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q717",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q6597955",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q11942698",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q20011182",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q70876408",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q61665639",
+          "relation": "child",
+          "relation_id": "P40"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q432637",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q4760155",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q327591",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q1629486",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q7229748",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q65036830",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q1321",
+          "relation": "native language",
+          "relation_id": "P103"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q82955",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q2267418",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q30",
+          "relation": "residence",
+          "relation_id": "P551"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q60565258",
+          "relation": "family name",
+          "relation_id": "P734"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q58833335",
+        "P18",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Guaid%C3%B3%202019%20portrait.jpg",
+        "image",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Guaid%C3%B3%202019%20portrait.jpg"
+      ],
+      [
+        "Q58833335",
+        "P19",
+        "http://www.wikidata.org/entity/Q873405",
+        "place of birth",
+        "La Guaira"
+      ],
+      [
+        "Q58833335",
+        "P21",
+        "http://www.wikidata.org/entity/Q6581097",
+        "sex or gender",
+        "male"
+      ],
+      [
+        "Q58833335",
+        "P26",
+        "http://www.wikidata.org/entity/Q61665580",
+        "spouse",
+        "Fabiana Rosales"
+      ],
+      [
+        "Q58833335",
+        "P27",
+        "http://www.wikidata.org/entity/Q717",
+        "country of citizenship",
+        "Venezuela"
+      ],
+      [
+        "Q58833335",
+        "P31",
+        "http://www.wikidata.org/entity/Q5",
+        "instance of",
+        "human"
+      ],
+      [
+        "Q58833335",
+        "P39",
+        "http://www.wikidata.org/entity/Q6597955",
+        "position held",
+        "President of the National Assembly of Venezuela"
+      ],
+      [
+        "Q58833335",
+        "P39",
+        "http://www.wikidata.org/entity/Q11942698",
+        "position held",
+        "President of Venezuela"
+      ],
+      [
+        "Q58833335",
+        "P39",
+        "http://www.wikidata.org/entity/Q20011182",
+        "position held",
+        "member of the National Assembly of Venezuela"
+      ],
+      [
+        "Q58833335",
+        "P39",
+        "http://www.wikidata.org/entity/Q70876408",
+        "position held",
+        "Q70876408"
+      ],
+      [
+        "Q58833335",
+        "P40",
+        "http://www.wikidata.org/entity/Q61665639",
+        "child",
+        "Miranda Guaid\u00f3 Rosales"
+      ],
+      [
+        "Q58833335",
+        "P69",
+        "http://www.wikidata.org/entity/Q432637",
+        "educated at",
+        "George Washington University"
+      ],
+      [
+        "Q58833335",
+        "P69",
+        "http://www.wikidata.org/entity/Q4760155",
+        "educated at",
+        "Andr\u00e9s Bello Catholic University"
+      ],
+      [
+        "Q58833335",
+        "P102",
+        "http://www.wikidata.org/entity/Q327591",
+        "member of political party",
+        "independent politician"
+      ],
+      [
+        "Q58833335",
+        "P102",
+        "http://www.wikidata.org/entity/Q1629486",
+        "member of political party",
+        "Democratic Unity Roundtable"
+      ],
+      [
+        "Q58833335",
+        "P102",
+        "http://www.wikidata.org/entity/Q7229748",
+        "member of political party",
+        "Popular Will"
+      ],
+      [
+        "Q58833335",
+        "P102",
+        "http://www.wikidata.org/entity/Q65036830",
+        "member of political party",
+        "Frente Amplio Venezuela Libre"
+      ],
+      [
+        "Q58833335",
+        "P103",
+        "http://www.wikidata.org/entity/Q1321",
+        "native language",
+        "Spanish"
+      ],
+      [
+        "Q58833335",
+        "P106",
+        "http://www.wikidata.org/entity/Q82955",
+        "occupation",
+        "politician"
+      ],
+      [
+        "Q58833335",
+        "P106",
+        "http://www.wikidata.org/entity/Q2267418",
+        "occupation",
+        "industrial engineer"
+      ],
+      [
+        "Q58833335",
+        "P109",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Guaid%C3%B3%20Marquez%20signature.svg",
+        "signature",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Guaid%C3%B3%20Marquez%20signature.svg"
+      ],
+      [
+        "Q58833335",
+        "P213",
+        "0000000500837684",
+        "ISNI",
+        "0000000500837684"
+      ],
+      [
+        "Q58833335",
+        "P214",
+        "4639154867605660100007",
+        "VIAF cluster ID",
+        "4639154867605660100007"
+      ],
+      [
+        "Q58833335",
+        "P227",
+        "1176088920",
+        "GND ID",
+        "1176088920"
+      ],
+      [
+        "Q58833335",
+        "P244",
+        "no2019151776",
+        "Library of Congress authority ID",
+        "no2019151776"
+      ],
+      [
+        "Q58833335",
+        "P345",
+        "nm10440200",
+        "IMDb ID",
+        "nm10440200"
+      ],
+      [
+        "Q58833335",
+        "P373",
+        "Juan Guaid\u00f3",
+        "Commons category",
+        "Juan Guaid\u00f3"
+      ],
+      [
+        "Q58833335",
+        "P551",
+        "http://www.wikidata.org/entity/Q30",
+        "residence",
+        "United States"
+      ],
+      [
+        "Q58833335",
+        "P569",
+        "1983-07-28T00:00:00Z",
+        "date of birth",
+        "1983-07-28T00:00:00Z"
+      ],
+      [
+        "Q58833335",
+        "P734",
+        "http://www.wikidata.org/entity/Q60565258",
+        "family name",
+        "Guaid\u00f3"
+      ]
+    ],
+    "question_type": "general",
+    "country": "Venezuela",
+    "position": "http://www.wikidata.org/prop/direct/P35"
+  },
+  {
+    "question": "What was Ahmad ibn Hanbal's most significant discovery?",
+    "answer": "Musnad Ahmad ibn Hanbal",
+    "entity_id": "Q194442",
+    "entity": "Ahmad ibn Hanbal",
+    "domain": "scientists",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q194442",
+          "properties": {
+            "ISNI": "0000000083994717",
+            "VIAF cluster ID": "90072121",
+            "GND ID": "118885855"
+          }
+        },
+        {
+          "id": "Q1530",
+          "label": "Baghdad"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q108368703",
+          "label": "Safiya bint Maymuna"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q12223448",
+          "label": "Abdullah ibn Ahmad ibn Hanbal"
+        },
+        {
+          "id": "Q18325461",
+          "label": "Salih ibn Ahmad ibn Hanbal"
+        },
+        {
+          "id": "Q432",
+          "label": "Islam"
+        },
+        {
+          "id": "Q7748",
+          "label": "law"
+        },
+        {
+          "id": "Q235258",
+          "label": "aqidah"
+        },
+        {
+          "id": "Q335414",
+          "label": "tafsir"
+        },
+        {
+          "id": "Q482752",
+          "label": "sharia"
+        },
+        {
+          "id": "Q484181",
+          "label": "fiqh"
+        },
+        {
+          "id": "Q2737409",
+          "label": "science of hadith"
+        },
+        {
+          "id": "Q4119903",
+          "label": "History of hadith"
+        },
+        {
+          "id": "Q85873793",
+          "label": "Arabic Language Studies"
+        },
+        {
+          "id": "Q13955",
+          "label": "Arabic"
+        },
+        {
+          "id": "Q58968",
+          "label": "intellectual"
+        },
+        {
+          "id": "Q185351",
+          "label": "jurist"
+        },
+        {
+          "id": "Q189459",
+          "label": "\u02bf\u0101lim"
+        },
+        {
+          "id": "Q270141",
+          "label": "polymath"
+        },
+        {
+          "id": "Q1172458",
+          "label": "muhaddith"
+        },
+        {
+          "id": "Q1999841",
+          "label": "Islamic jurist"
+        },
+        {
+          "id": "Q12912932",
+          "label": "mufassir"
+        },
+        {
+          "id": "Q2271341",
+          "label": "Al-Rusafa"
+        },
+        {
+          "id": "Q22689898",
+          "label": "Ahmad ibn Hanbal Mosque"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q194442",
+          "target": "Q1530",
+          "relation": "place of death",
+          "relation_id": "P20"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q108368703",
+          "relation": "mother",
+          "relation_id": "P25"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q12223448",
+          "relation": "child",
+          "relation_id": "P40"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q18325461",
+          "relation": "child",
+          "relation_id": "P40"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q432",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q7748",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q235258",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q335414",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q482752",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q484181",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q2737409",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q4119903",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q85873793",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q13955",
+          "relation": "native language",
+          "relation_id": "P103"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q58968",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q185351",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q189459",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q270141",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q1172458",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q1999841",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q12912932",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q2271341",
+          "relation": "place of burial",
+          "relation_id": "P119"
+        },
+        {
+          "source": "Q194442",
+          "target": "Q22689898",
+          "relation": "place of burial",
+          "relation_id": "P119"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q194442",
+        "P19",
+        "http://www.wikidata.org/entity/Q1530",
+        "place of birth",
+        "Baghdad"
+      ],
+      [
+        "Q194442",
+        "P20",
+        "http://www.wikidata.org/entity/Q1530",
+        "place of death",
+        "Baghdad"
+      ],
+      [
+        "Q194442",
+        "P21",
+        "http://www.wikidata.org/entity/Q6581097",
+        "sex or gender",
+        "male"
+      ],
+      [
+        "Q194442",
+        "P25",
+        "http://www.wikidata.org/entity/Q108368703",
+        "mother",
+        "Safiya bint Maymuna"
+      ],
+      [
+        "Q194442",
+        "P31",
+        "http://www.wikidata.org/entity/Q5",
+        "instance of",
+        "human"
+      ],
+      [
+        "Q194442",
+        "P40",
+        "http://www.wikidata.org/entity/Q12223448",
+        "child",
+        "Abdullah ibn Ahmad ibn Hanbal"
+      ],
+      [
+        "Q194442",
+        "P40",
+        "http://www.wikidata.org/entity/Q18325461",
+        "child",
+        "Salih ibn Ahmad ibn Hanbal"
+      ],
+      [
+        "Q194442",
+        "P101",
+        "http://www.wikidata.org/entity/Q432",
+        "field of work",
+        "Islam"
+      ],
+      [
+        "Q194442",
+        "P101",
+        "http://www.wikidata.org/entity/Q7748",
+        "field of work",
+        "law"
+      ],
+      [
+        "Q194442",
+        "P101",
+        "http://www.wikidata.org/entity/Q235258",
+        "field of work",
+        "aqidah"
+      ],
+      [
+        "Q194442",
+        "P101",
+        "http://www.wikidata.org/entity/Q335414",
+        "field of work",
+        "tafsir"
+      ],
+      [
+        "Q194442",
+        "P101",
+        "http://www.wikidata.org/entity/Q482752",
+        "field of work",
+        "sharia"
+      ],
+      [
+        "Q194442",
+        "P101",
+        "http://www.wikidata.org/entity/Q484181",
+        "field of work",
+        "fiqh"
+      ],
+      [
+        "Q194442",
+        "P101",
+        "http://www.wikidata.org/entity/Q2737409",
+        "field of work",
+        "science of hadith"
+      ],
+      [
+        "Q194442",
+        "P101",
+        "http://www.wikidata.org/entity/Q4119903",
+        "field of work",
+        "History of hadith"
+      ],
+      [
+        "Q194442",
+        "P101",
+        "http://www.wikidata.org/entity/Q85873793",
+        "field of work",
+        "Arabic Language Studies"
+      ],
+      [
+        "Q194442",
+        "P103",
+        "http://www.wikidata.org/entity/Q13955",
+        "native language",
+        "Arabic"
+      ],
+      [
+        "Q194442",
+        "P106",
+        "http://www.wikidata.org/entity/Q58968",
+        "occupation",
+        "intellectual"
+      ],
+      [
+        "Q194442",
+        "P106",
+        "http://www.wikidata.org/entity/Q185351",
+        "occupation",
+        "jurist"
+      ],
+      [
+        "Q194442",
+        "P106",
+        "http://www.wikidata.org/entity/Q189459",
+        "occupation",
+        "\u02bf\u0101lim"
+      ],
+      [
+        "Q194442",
+        "P106",
+        "http://www.wikidata.org/entity/Q270141",
+        "occupation",
+        "polymath"
+      ],
+      [
+        "Q194442",
+        "P106",
+        "http://www.wikidata.org/entity/Q1172458",
+        "occupation",
+        "muhaddith"
+      ],
+      [
+        "Q194442",
+        "P106",
+        "http://www.wikidata.org/entity/Q1999841",
+        "occupation",
+        "Islamic jurist"
+      ],
+      [
+        "Q194442",
+        "P106",
+        "http://www.wikidata.org/entity/Q12912932",
+        "occupation",
+        "mufassir"
+      ],
+      [
+        "Q194442",
+        "P119",
+        "http://www.wikidata.org/entity/Q2271341",
+        "place of burial",
+        "Al-Rusafa"
+      ],
+      [
+        "Q194442",
+        "P119",
+        "http://www.wikidata.org/entity/Q22689898",
+        "place of burial",
+        "Ahmad ibn Hanbal Mosque"
+      ],
+      [
+        "Q194442",
+        "P140",
+        "http://www.wikidata.org/entity/Q432",
+        "religion or worldview",
+        "Islam"
+      ],
+      [
+        "Q194442",
+        "P213",
+        "0000000083994717",
+        "ISNI",
+        "0000000083994717"
+      ],
+      [
+        "Q194442",
+        "P214",
+        "90072121",
+        "VIAF cluster ID",
+        "90072121"
+      ],
+      [
+        "Q194442",
+        "P227",
+        "118885855",
+        "GND ID",
+        "118885855"
+      ]
+    ],
+    "question_type": "discovery",
+    "field": "fiqh",
+    "discovery": "Musnad Ahmad ibn Hanbal"
+  },
+  {
+    "question": "In which field did Al-Nawawi work?",
+    "answer": "fiqh",
+    "entity_id": "Q293571",
+    "entity": "Al-Nawawi",
+    "domain": "scientists",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q293571",
+          "properties": {
+            "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%8A%D8%AD%D9%8A%D9%89%20%D8%A8%D9%86%20%D8%B4%D8%B1%D9%81%20%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A.svg",
+            "ISNI": "0000000116838690",
+            "VIAF cluster ID": "90059668",
+            "GND ID": "119158523",
+            "Library of Congress authority ID": "n82009538",
+            "Biblioth\u00e8que nationale de France ID": "11917471c",
+            "IdRef ID": "027045439",
+            "NACSIS-CAT author ID": "DA05084165",
+            "NDL Authority ID": "01005129",
+            "Commons category": "Al-Nawawi",
+            "SBN author ID": "CFIV026923",
+            "Libraries Australia ID": "35528680",
+            "date of birth": "1233-10-01T00:00:00Z",
+            "date of death": "1278-12-22T00:00:00Z",
+            "Freebase ID": "/m/01mxh4",
+            "Open Library ID": "OL176338A",
+            "NL CR AUT ID": "jx20080527020"
+          }
+        },
+        {
+          "id": "Q1758024",
+          "label": "Nawa"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q234343",
+          "label": "hadith"
+        },
+        {
+          "id": "Q484181",
+          "label": "fiqh"
+        },
+        {
+          "id": "Q189459",
+          "label": "\u02bf\u0101lim"
+        },
+        {
+          "id": "Q1172458",
+          "label": "muhaddith"
+        },
+        {
+          "id": "Q1999841",
+          "label": "Islamic jurist"
+        },
+        {
+          "id": "Q12211226",
+          "label": "Dar al-Hadith al-Ashrafiyya"
+        },
+        {
+          "id": "Q432",
+          "label": "Islam"
+        },
+        {
+          "id": "Q1410729",
+          "label": "Sheikh-ul-Islam"
+        },
+        {
+          "id": "Q98123376",
+          "label": "Al-Imam"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q293571",
+          "target": "Q1758024",
+          "relation": "place of death",
+          "relation_id": "P20"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q234343",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q484181",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q189459",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1172458",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1999841",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q12211226",
+          "relation": "employer",
+          "relation_id": "P108"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q432",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q1410729",
+          "relation": "honorific prefix",
+          "relation_id": "P511"
+        },
+        {
+          "source": "Q293571",
+          "target": "Q98123376",
+          "relation": "honorific prefix",
+          "relation_id": "P511"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q293571",
+        "P18",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%8A%D8%AD%D9%8A%D9%89%20%D8%A8%D9%86%20%D8%B4%D8%B1%D9%81%20%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A.svg",
+        "image",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%8A%D8%AD%D9%8A%D9%89%20%D8%A8%D9%86%20%D8%B4%D8%B1%D9%81%20%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A.svg"
+      ],
+      [
+        "Q293571",
+        "P19",
+        "http://www.wikidata.org/entity/Q1758024",
+        "place of birth",
+        "Nawa"
+      ],
+      [
+        "Q293571",
+        "P20",
+        "http://www.wikidata.org/entity/Q1758024",
+        "place of death",
+        "Nawa"
+      ],
+      [
+        "Q293571",
+        "P21",
+        "http://www.wikidata.org/entity/Q6581097",
+        "sex or gender",
+        "male"
+      ],
+      [
+        "Q293571",
+        "P31",
+        "http://www.wikidata.org/entity/Q5",
+        "instance of",
+        "human"
+      ],
+      [
+        "Q293571",
+        "P101",
+        "http://www.wikidata.org/entity/Q234343",
+        "field of work",
+        "hadith"
+      ],
+      [
+        "Q293571",
+        "P101",
+        "http://www.wikidata.org/entity/Q484181",
+        "field of work",
+        "fiqh"
+      ],
+      [
+        "Q293571",
+        "P106",
+        "http://www.wikidata.org/entity/Q189459",
+        "occupation",
+        "\u02bf\u0101lim"
+      ],
+      [
+        "Q293571",
+        "P106",
+        "http://www.wikidata.org/entity/Q1172458",
+        "occupation",
+        "muhaddith"
+      ],
+      [
+        "Q293571",
+        "P106",
+        "http://www.wikidata.org/entity/Q1999841",
+        "occupation",
+        "Islamic jurist"
+      ],
+      [
+        "Q293571",
+        "P108",
+        "http://www.wikidata.org/entity/Q12211226",
+        "employer",
+        "Dar al-Hadith al-Ashrafiyya"
+      ],
+      [
+        "Q293571",
+        "P140",
+        "http://www.wikidata.org/entity/Q432",
+        "religion or worldview",
+        "Islam"
+      ],
+      [
+        "Q293571",
+        "P213",
+        "0000000116838690",
+        "ISNI",
+        "0000000116838690"
+      ],
+      [
+        "Q293571",
+        "P214",
+        "90059668",
+        "VIAF cluster ID",
+        "90059668"
+      ],
+      [
+        "Q293571",
+        "P227",
+        "119158523",
+        "GND ID",
+        "119158523"
+      ],
+      [
+        "Q293571",
+        "P244",
+        "n82009538",
+        "Library of Congress authority ID",
+        "n82009538"
+      ],
+      [
+        "Q293571",
+        "P268",
+        "11917471c",
+        "Biblioth\u00e8que nationale de France ID",
+        "11917471c"
+      ],
+      [
+        "Q293571",
+        "P269",
+        "027045439",
+        "IdRef ID",
+        "027045439"
+      ],
+      [
+        "Q293571",
+        "P271",
+        "DA05084165",
+        "NACSIS-CAT author ID",
+        "DA05084165"
+      ],
+      [
+        "Q293571",
+        "P349",
+        "01005129",
+        "NDL Authority ID",
+        "01005129"
+      ],
+      [
+        "Q293571",
+        "P373",
+        "Al-Nawawi",
+        "Commons category",
+        "Al-Nawawi"
+      ],
+      [
+        "Q293571",
+        "P396",
+        "CFIV026923",
+        "SBN author ID",
+        "CFIV026923"
+      ],
+      [
+        "Q293571",
+        "P409",
+        "35528680",
+        "Libraries Australia ID",
+        "35528680"
+      ],
+      [
+        "Q293571",
+        "P511",
+        "http://www.wikidata.org/entity/Q1410729",
+        "honorific prefix",
+        "Sheikh-ul-Islam"
+      ],
+      [
+        "Q293571",
+        "P511",
+        "http://www.wikidata.org/entity/Q98123376",
+        "honorific prefix",
+        "Al-Imam"
+      ],
+      [
+        "Q293571",
+        "P569",
+        "1233-10-01T00:00:00Z",
+        "date of birth",
+        "1233-10-01T00:00:00Z"
+      ],
+      [
+        "Q293571",
+        "P570",
+        "1278-12-22T00:00:00Z",
+        "date of death",
+        "1278-12-22T00:00:00Z"
+      ],
+      [
+        "Q293571",
+        "P646",
+        "/m/01mxh4",
+        "Freebase ID",
+        "/m/01mxh4"
+      ],
+      [
+        "Q293571",
+        "P648",
+        "OL176338A",
+        "Open Library ID",
+        "OL176338A"
+      ],
+      [
+        "Q293571",
+        "P691",
+        "jx20080527020",
+        "NL CR AUT ID",
+        "jx20080527020"
+      ]
+    ],
+    "question_type": "field",
+    "field": "fiqh",
+    "discovery": "Al Athkar Al Navavi"
+  },
+  {
+    "question": "What is Zufar ibn al-Hudhail known for?",
+    "answer": "Zufar ibn al-Hudhail is a scientist.",
+    "entity_id": "Q228203",
+    "entity": "Zufar ibn al-Hudhail",
+    "domain": "scientists",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q228203",
+          "properties": {
+            "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B2%D9%81%D8%B1%20%D8%A8%D9%86%20%D8%A7%D9%84%D9%87%D8%B0%D9%8A%D9%84.png",
+            "ISNI": "0000000026828675",
+            "VIAF cluster ID": "40732531",
+            "GND ID": "1235231623",
+            "Library of Congress authority ID": "n82165106",
+            "date of birth": "0728-01-01T00:00:00Z",
+            "date of death": "0775-01-01T00:00:00Z"
+          }
+        },
+        {
+          "id": "Q42053",
+          "label": "Isfahan"
+        },
+        {
+          "id": "Q186234",
+          "label": "Kufa"
+        },
+        {
+          "id": "Q48195",
+          "label": "Basra"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q12536",
+          "label": "Abbasid Caliphate"
+        },
+        {
+          "id": "Q8575586",
+          "label": "Umayyad Caliphate"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q217029",
+          "label": "qadi"
+        },
+        {
+          "id": "Q484181",
+          "label": "fiqh"
+        },
+        {
+          "id": "Q2737409",
+          "label": "science of hadith"
+        },
+        {
+          "id": "Q189459",
+          "label": "\u02bf\u0101lim"
+        },
+        {
+          "id": "Q1172458",
+          "label": "muhaddith"
+        },
+        {
+          "id": "Q1999841",
+          "label": "Islamic jurist"
+        },
+        {
+          "id": "Q432",
+          "label": "Islam"
+        },
+        {
+          "id": "Q483654",
+          "label": "Sunni Islam"
+        },
+        {
+          "id": "Q12222052",
+          "label": "Zufar"
+        },
+        {
+          "id": "Q4666111",
+          "label": "Abdullah ibn Mubarak"
+        },
+        {
+          "id": "Q7634669",
+          "label": "Sufyan ibn `Uyaynah"
+        },
+        {
+          "id": "Q12201426",
+          "label": "Hasan bin Ziyad"
+        },
+        {
+          "id": "Q12240187",
+          "label": "Q12240187"
+        },
+        {
+          "id": "Q12251200",
+          "label": "Wakee ibn al-Jarrah"
+        },
+        {
+          "id": "Q190896",
+          "label": "Ab\u016b \u1e24an\u012bfa"
+        },
+        {
+          "id": "Q334847",
+          "label": "Ibn Ishaq"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q228203",
+          "target": "Q42053",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q186234",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q48195",
+          "relation": "place of death",
+          "relation_id": "P20"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q12536",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q8575586",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q217029",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q484181",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q2737409",
+          "relation": "field of work",
+          "relation_id": "P101"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q189459",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q1172458",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q1999841",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q432",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q483654",
+          "relation": "religion or worldview",
+          "relation_id": "P140"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q12222052",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q4666111",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q7634669",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q12201426",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q12240187",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q12251200",
+          "relation": "student",
+          "relation_id": "P802"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q190896",
+          "relation": "student of",
+          "relation_id": "P1066"
+        },
+        {
+          "source": "Q228203",
+          "target": "Q334847",
+          "relation": "student of",
+          "relation_id": "P1066"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q228203",
+        "P18",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B2%D9%81%D8%B1%20%D8%A8%D9%86%20%D8%A7%D9%84%D9%87%D8%B0%D9%8A%D9%84.png",
+        "image",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B2%D9%81%D8%B1%20%D8%A8%D9%86%20%D8%A7%D9%84%D9%87%D8%B0%D9%8A%D9%84.png"
+      ],
+      [
+        "Q228203",
+        "P19",
+        "http://www.wikidata.org/entity/Q42053",
+        "place of birth",
+        "Isfahan"
+      ],
+      [
+        "Q228203",
+        "P19",
+        "http://www.wikidata.org/entity/Q186234",
+        "place of birth",
+        "Kufa"
+      ],
+      [
+        "Q228203",
+        "P20",
+        "http://www.wikidata.org/entity/Q48195",
+        "place of death",
+        "Basra"
+      ],
+      [
+        "Q228203",
+        "P21",
+        "http://www.wikidata.org/entity/Q6581097",
+        "sex or gender",
+        "male"
+      ],
+      [
+        "Q228203",
+        "P27",
+        "http://www.wikidata.org/entity/Q12536",
+        "country of citizenship",
+        "Abbasid Caliphate"
+      ],
+      [
+        "Q228203",
+        "P27",
+        "http://www.wikidata.org/entity/Q8575586",
+        "country of citizenship",
+        "Umayyad Caliphate"
+      ],
+      [
+        "Q228203",
+        "P31",
+        "http://www.wikidata.org/entity/Q5",
+        "instance of",
+        "human"
+      ],
+      [
+        "Q228203",
+        "P39",
+        "http://www.wikidata.org/entity/Q217029",
+        "position held",
+        "qadi"
+      ],
+      [
+        "Q228203",
+        "P101",
+        "http://www.wikidata.org/entity/Q484181",
+        "field of work",
+        "fiqh"
+      ],
+      [
+        "Q228203",
+        "P101",
+        "http://www.wikidata.org/entity/Q2737409",
+        "field of work",
+        "science of hadith"
+      ],
+      [
+        "Q228203",
+        "P106",
+        "http://www.wikidata.org/entity/Q189459",
+        "occupation",
+        "\u02bf\u0101lim"
+      ],
+      [
+        "Q228203",
+        "P106",
+        "http://www.wikidata.org/entity/Q1172458",
+        "occupation",
+        "muhaddith"
+      ],
+      [
+        "Q228203",
+        "P106",
+        "http://www.wikidata.org/entity/Q1999841",
+        "occupation",
+        "Islamic jurist"
+      ],
+      [
+        "Q228203",
+        "P140",
+        "http://www.wikidata.org/entity/Q432",
+        "religion or worldview",
+        "Islam"
+      ],
+      [
+        "Q228203",
+        "P140",
+        "http://www.wikidata.org/entity/Q483654",
+        "religion or worldview",
+        "Sunni Islam"
+      ],
+      [
+        "Q228203",
+        "P213",
+        "0000000026828675",
+        "ISNI",
+        "0000000026828675"
+      ],
+      [
+        "Q228203",
+        "P214",
+        "40732531",
+        "VIAF cluster ID",
+        "40732531"
+      ],
+      [
+        "Q228203",
+        "P227",
+        "1235231623",
+        "GND ID",
+        "1235231623"
+      ],
+      [
+        "Q228203",
+        "P244",
+        "n82165106",
+        "Library of Congress authority ID",
+        "n82165106"
+      ],
+      [
+        "Q228203",
+        "P569",
+        "0728-01-01T00:00:00Z",
+        "date of birth",
+        "0728-01-01T00:00:00Z"
+      ],
+      [
+        "Q228203",
+        "P570",
+        "0775-01-01T00:00:00Z",
+        "date of death",
+        "0775-01-01T00:00:00Z"
+      ],
+      [
+        "Q228203",
+        "P735",
+        "http://www.wikidata.org/entity/Q12222052",
+        "given name",
+        "Zufar"
+      ],
+      [
+        "Q228203",
+        "P802",
+        "http://www.wikidata.org/entity/Q4666111",
+        "student",
+        "Abdullah ibn Mubarak"
+      ],
+      [
+        "Q228203",
+        "P802",
+        "http://www.wikidata.org/entity/Q7634669",
+        "student",
+        "Sufyan ibn `Uyaynah"
+      ],
+      [
+        "Q228203",
+        "P802",
+        "http://www.wikidata.org/entity/Q12201426",
+        "student",
+        "Hasan bin Ziyad"
+      ],
+      [
+        "Q228203",
+        "P802",
+        "http://www.wikidata.org/entity/Q12240187",
+        "student",
+        "Q12240187"
+      ],
+      [
+        "Q228203",
+        "P802",
+        "http://www.wikidata.org/entity/Q12251200",
+        "student",
+        "Wakee ibn al-Jarrah"
+      ],
+      [
+        "Q228203",
+        "P1066",
+        "http://www.wikidata.org/entity/Q190896",
+        "student of",
+        "Ab\u016b \u1e24an\u012bfa"
+      ],
+      [
+        "Q228203",
+        "P1066",
+        "http://www.wikidata.org/entity/Q334847",
+        "student of",
+        "Ibn Ishaq"
+      ]
+    ],
+    "question_type": "general",
+    "field": "fiqh",
+    "discovery": ""
+  },
+  {
+    "question": "In what year did ATFBank begin operations?",
+    "answer": "1995-06-01T00:00:00Z",
+    "entity_id": "Q80438",
+    "entity": "ATFBank",
+    "domain": "companies",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q80438",
+          "properties": {
+            "logo image": "http://commons.wikimedia.org/wiki/Special:FilePath/ATFBank%20Logo.svg",
+            "inception": "1995-06-01T00:00:00Z",
+            "official website": "http://www.atfbank.kz/",
+            "Google Knowledge Graph ID": "/g/121hf79f"
+          }
+        },
+        {
+          "id": "Q232",
+          "label": "Kazakhstan"
+        },
+        {
+          "id": "Q22687",
+          "label": "bank"
+        },
+        {
+          "id": "Q4830453",
+          "label": "business"
+        },
+        {
+          "id": "Q6881511",
+          "label": "enterprise"
+        },
+        {
+          "id": "Q35493",
+          "label": "Almaty"
+        },
+        {
+          "id": "Q134161",
+          "label": "joint-stock company"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q80438",
+          "target": "Q232",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q80438",
+          "target": "Q22687",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q80438",
+          "target": "Q4830453",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q80438",
+          "target": "Q6881511",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q80438",
+          "target": "Q35493",
+          "relation": "headquarters location",
+          "relation_id": "P159"
+        },
+        {
+          "source": "Q80438",
+          "target": "Q134161",
+          "relation": "legal form",
+          "relation_id": "P1454"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q80438",
+        "P17",
+        "http://www.wikidata.org/entity/Q232",
+        "country",
+        "Kazakhstan"
+      ],
+      [
+        "Q80438",
+        "P31",
+        "http://www.wikidata.org/entity/Q22687",
+        "instance of",
+        "bank"
+      ],
+      [
+        "Q80438",
+        "P31",
+        "http://www.wikidata.org/entity/Q4830453",
+        "instance of",
+        "business"
+      ],
+      [
+        "Q80438",
+        "P31",
+        "http://www.wikidata.org/entity/Q6881511",
+        "instance of",
+        "enterprise"
+      ],
+      [
+        "Q80438",
+        "P154",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/ATFBank%20Logo.svg",
+        "logo image",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/ATFBank%20Logo.svg"
+      ],
+      [
+        "Q80438",
+        "P159",
+        "http://www.wikidata.org/entity/Q35493",
+        "headquarters location",
+        "Almaty"
+      ],
+      [
+        "Q80438",
+        "P571",
+        "1995-06-01T00:00:00Z",
+        "inception",
+        "1995-06-01T00:00:00Z"
+      ],
+      [
+        "Q80438",
+        "P856",
+        "http://www.atfbank.kz/",
+        "official website",
+        "http://www.atfbank.kz/"
+      ],
+      [
+        "Q80438",
+        "P1454",
+        "http://www.wikidata.org/entity/Q134161",
+        "legal form",
+        "joint-stock company"
+      ],
+      [
+        "Q80438",
+        "P2671",
+        "/g/121hf79f",
+        "Google Knowledge Graph ID",
+        "/g/121hf79f"
+      ]
+    ],
+    "question_type": "founded"
+  },
+  {
+    "question": "When did Piraeus Bank start as a business?",
+    "answer": "1916-01-01T00:00:00Z",
+    "entity_id": "Q3312",
+    "entity": "Piraeus Bank",
+    "domain": "companies",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q3312",
+          "properties": {
+            "OSM Name Suggestion Index ID": "piraeusbank-f14c4e",
+            "social media followers": "17500",
+            "KISTI institute ID": "K000230211",
+            "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Piraeus%20Bank%20HQ.jpg",
+            "logo image": "http://commons.wikimedia.org/wiki/Special:FilePath/Piraeus%20Bank%202024%20logo.svg",
+            "ISNI": "0000000085853512",
+            "VIAF cluster ID": "124182012",
+            "GND ID": "10170158-5",
+            "Commons category": "Piraeus Bank",
+            "inception": "1916-01-01T00:00:00Z",
+            "Freebase ID": "/m/035906",
+            "official website": "http://www.piraeusbank.gr/",
+            "ISIN": "GRS014003008",
+            "Legal Entity Identifier": "M6AD1Y1KW32H8THQ6F76",
+            "official name": "PIRAEUS BANK SA"
+          }
+        },
+        {
+          "id": "Q41",
+          "label": "Greece"
+        },
+        {
+          "id": "Q22687",
+          "label": "bank"
+        },
+        {
+          "id": "Q650241",
+          "label": "financial institution"
+        },
+        {
+          "id": "Q891723",
+          "label": "public company"
+        },
+        {
+          "id": "Q4830453",
+          "label": "business"
+        },
+        {
+          "id": "Q1524",
+          "label": "Athens"
+        },
+        {
+          "id": "Q3100734",
+          "label": "Geniki Bank"
+        },
+        {
+          "id": "Q755341",
+          "label": "Athens Stock Exchange"
+        },
+        {
+          "id": "Q806718",
+          "label": "economics of banking"
+        },
+        {
+          "id": "Q837171",
+          "label": "financial services"
+        },
+        {
+          "id": "Q57774188",
+          "label": "financial sector"
+        },
+        {
+          "id": "Q26839244",
+          "label": "Anonymi Etaireia"
+        },
+        {
+          "id": "Q7197670",
+          "label": "Piraeus Bank Tower Bucharest"
+        },
+        {
+          "id": "Q17098445",
+          "label": "Piraeus Bank Beograd"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q3312",
+          "target": "Q41",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q22687",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q650241",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q891723",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q4830453",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q1524",
+          "relation": "headquarters location",
+          "relation_id": "P159"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q3100734",
+          "relation": "child organization/unit",
+          "relation_id": "P355"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q755341",
+          "relation": "stock exchange",
+          "relation_id": "P414"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q806718",
+          "relation": "industry",
+          "relation_id": "P452"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q837171",
+          "relation": "industry",
+          "relation_id": "P452"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q57774188",
+          "relation": "industry",
+          "relation_id": "P452"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q26839244",
+          "relation": "legal form",
+          "relation_id": "P1454"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q7197670",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q3312",
+          "target": "Q17098445",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q3312",
+        "P8253",
+        "piraeusbank-f14c4e",
+        "OSM Name Suggestion Index ID",
+        "piraeusbank-f14c4e"
+      ],
+      [
+        "Q3312",
+        "P8687",
+        "17500",
+        "social media followers",
+        "17500"
+      ],
+      [
+        "Q3312",
+        "P13092",
+        "K000230211",
+        "KISTI institute ID",
+        "K000230211"
+      ],
+      [
+        "Q3312",
+        "P17",
+        "http://www.wikidata.org/entity/Q41",
+        "country",
+        "Greece"
+      ],
+      [
+        "Q3312",
+        "P18",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Piraeus%20Bank%20HQ.jpg",
+        "image",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Piraeus%20Bank%20HQ.jpg"
+      ],
+      [
+        "Q3312",
+        "P31",
+        "http://www.wikidata.org/entity/Q22687",
+        "instance of",
+        "bank"
+      ],
+      [
+        "Q3312",
+        "P31",
+        "http://www.wikidata.org/entity/Q650241",
+        "instance of",
+        "financial institution"
+      ],
+      [
+        "Q3312",
+        "P31",
+        "http://www.wikidata.org/entity/Q891723",
+        "instance of",
+        "public company"
+      ],
+      [
+        "Q3312",
+        "P31",
+        "http://www.wikidata.org/entity/Q4830453",
+        "instance of",
+        "business"
+      ],
+      [
+        "Q3312",
+        "P154",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Piraeus%20Bank%202024%20logo.svg",
+        "logo image",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Piraeus%20Bank%202024%20logo.svg"
+      ],
+      [
+        "Q3312",
+        "P159",
+        "http://www.wikidata.org/entity/Q1524",
+        "headquarters location",
+        "Athens"
+      ],
+      [
+        "Q3312",
+        "P213",
+        "0000000085853512",
+        "ISNI",
+        "0000000085853512"
+      ],
+      [
+        "Q3312",
+        "P214",
+        "124182012",
+        "VIAF cluster ID",
+        "124182012"
+      ],
+      [
+        "Q3312",
+        "P227",
+        "10170158-5",
+        "GND ID",
+        "10170158-5"
+      ],
+      [
+        "Q3312",
+        "P355",
+        "http://www.wikidata.org/entity/Q3100734",
+        "child organization/unit",
+        "Geniki Bank"
+      ],
+      [
+        "Q3312",
+        "P373",
+        "Piraeus Bank",
+        "Commons category",
+        "Piraeus Bank"
+      ],
+      [
+        "Q3312",
+        "P414",
+        "http://www.wikidata.org/entity/Q755341",
+        "stock exchange",
+        "Athens Stock Exchange"
+      ],
+      [
+        "Q3312",
+        "P452",
+        "http://www.wikidata.org/entity/Q806718",
+        "industry",
+        "economics of banking"
+      ],
+      [
+        "Q3312",
+        "P452",
+        "http://www.wikidata.org/entity/Q837171",
+        "industry",
+        "financial services"
+      ],
+      [
+        "Q3312",
+        "P452",
+        "http://www.wikidata.org/entity/Q57774188",
+        "industry",
+        "financial sector"
+      ],
+      [
+        "Q3312",
+        "P571",
+        "1916-01-01T00:00:00Z",
+        "inception",
+        "1916-01-01T00:00:00Z"
+      ],
+      [
+        "Q3312",
+        "P646",
+        "/m/035906",
+        "Freebase ID",
+        "/m/035906"
+      ],
+      [
+        "Q3312",
+        "P856",
+        "http://www.piraeusbank.gr/",
+        "official website",
+        "http://www.piraeusbank.gr/"
+      ],
+      [
+        "Q3312",
+        "P946",
+        "GRS014003008",
+        "ISIN",
+        "GRS014003008"
+      ],
+      [
+        "Q3312",
+        "P1278",
+        "M6AD1Y1KW32H8THQ6F76",
+        "Legal Entity Identifier",
+        "M6AD1Y1KW32H8THQ6F76"
+      ],
+      [
+        "Q3312",
+        "P1448",
+        "\u03a4\u03a1\u0391\u03a0\u0395\u0396\u0391 \u03a0\u0395\u0399\u03a1\u0391\u0399\u03a9\u03a3 \u0391\u039d\u03a9\u039d\u03a5\u039c\u039f\u03a3 \u0395\u03a4\u0391\u0399\u03a1\u0395\u0399\u0391",
+        "official name",
+        "\u03a4\u03a1\u0391\u03a0\u0395\u0396\u0391 \u03a0\u0395\u0399\u03a1\u0391\u0399\u03a9\u03a3 \u0391\u039d\u03a9\u039d\u03a5\u039c\u039f\u03a3 \u0395\u03a4\u0391\u0399\u03a1\u0395\u0399\u0391"
+      ],
+      [
+        "Q3312",
+        "P1448",
+        "PIRAEUS BANK SA",
+        "official name",
+        "PIRAEUS BANK SA"
+      ],
+      [
+        "Q3312",
+        "P1454",
+        "http://www.wikidata.org/entity/Q26839244",
+        "legal form",
+        "Anonymi Etaireia"
+      ],
+      [
+        "Q3312",
+        "P1830",
+        "http://www.wikidata.org/entity/Q7197670",
+        "owner of",
+        "Piraeus Bank Tower Bucharest"
+      ],
+      [
+        "Q3312",
+        "P1830",
+        "http://www.wikidata.org/entity/Q17098445",
+        "owner of",
+        "Piraeus Bank Beograd"
+      ]
+    ],
+    "question_type": "founded"
+  }
+]

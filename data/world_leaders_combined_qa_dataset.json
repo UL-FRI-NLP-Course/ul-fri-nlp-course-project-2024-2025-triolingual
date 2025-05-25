@@ -1,0 +1,2832 @@
+[
+  {
+    "question": "Who or what is Frank-Walter Steinmeier?",
+    "answer": "Frank-Walter Steinmeier is a politician.",
+    "entity_id": "Q76658",
+    "entity": "Frank-Walter Steinmeier",
+    "domain": "world_leaders",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q76658",
+          "properties": {
+            "IdRef ID": "135564670",
+            "IMDb ID": "nm2841272",
+            "Commons category": "Frank-Walter Steinmeier",
+            "pronunciation audio": "http://commons.wikimedia.org/wiki/Special:FilePath/De-Frank-Walter%20Steinmeier.ogg",
+            "catalog code": "11004167",
+            "date of birth": "1956-01-05T00:00:00Z",
+            "Freebase ID": "/m/089zlv",
+            "NL CR AUT ID": "js20051024034",
+            "official website": "http://www.frank-walter-steinmeier.de",
+            "Perlentaucher ID": "frank-walter-steinmeier",
+            "Commons gallery": "Frank-Walter Steinmeier",
+            "Nationale Thesaurus voor Auteursnamen ID": "301039453",
+            "NUKAT ID": "n2015124756",
+            "AlloCin\u00e9 person ID": "426287",
+            "Munzinger person ID": "00000022788",
+            "Gran Enciclop\u00e8dia Catalana ID (former scheme)": "22286927"
+          }
+        },
+        {
+          "id": "Q315863",
+          "label": "First Merkel cabinet"
+        },
+        {
+          "id": "Q422349",
+          "label": "Aktion Deutschland Hilft"
+        },
+        {
+          "id": "Q446354",
+          "label": "German Protestant Church Assembly"
+        },
+        {
+          "id": "Q1205614",
+          "label": "German Protestant Institute"
+        },
+        {
+          "id": "Q15094515",
+          "label": "Third Merkel cabinet"
+        },
+        {
+          "id": "Q959320",
+          "label": "Doctor of Laws"
+        },
+        {
+          "id": "Q64",
+          "label": "Berlin"
+        },
+        {
+          "id": "Q324402",
+          "label": "Zehlendorf"
+        },
+        {
+          "id": "Q2209185",
+          "label": "Saaringen"
+        },
+        {
+          "id": "Q21494270",
+          "label": "Steinmeier"
+        },
+        {
+          "id": "Q19688421",
+          "label": "Frank-Walter"
+        },
+        {
+          "id": "Q31946866",
+          "label": "Category:Frank-Walter Steinmeier"
+        },
+        {
+          "id": "Q17290934",
+          "label": "Lentapedia"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q76658",
+          "target": "Q315863",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q422349",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q446354",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q1205614",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q15094515",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q959320",
+          "relation": "academic degree",
+          "relation_id": "P512"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q64",
+          "relation": "work location",
+          "relation_id": "P937"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q324402",
+          "relation": "residence",
+          "relation_id": "P551"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q2209185",
+          "relation": "residence",
+          "relation_id": "P551"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q21494270",
+          "relation": "family name",
+          "relation_id": "P734"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q19688421",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q31946866",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q76658",
+          "target": "Q17290934",
+          "relation": "described by source",
+          "relation_id": "P1343"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q76658",
+        "P269",
+        "135564670",
+        "IdRef ID",
+        "135564670"
+      ],
+      [
+        "Q76658",
+        "P345",
+        "nm2841272",
+        "IMDb ID",
+        "nm2841272"
+      ],
+      [
+        "Q76658",
+        "P373",
+        "Frank-Walter Steinmeier",
+        "Commons category",
+        "Frank-Walter Steinmeier"
+      ],
+      [
+        "Q76658",
+        "P443",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/De-Frank-Walter%20Steinmeier.ogg",
+        "pronunciation audio",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/De-Frank-Walter%20Steinmeier.ogg"
+      ],
+      [
+        "Q76658",
+        "P463",
+        "http://www.wikidata.org/entity/Q315863",
+        "member of",
+        "First Merkel cabinet"
+      ],
+      [
+        "Q76658",
+        "P463",
+        "http://www.wikidata.org/entity/Q422349",
+        "member of",
+        "Aktion Deutschland Hilft"
+      ],
+      [
+        "Q76658",
+        "P463",
+        "http://www.wikidata.org/entity/Q446354",
+        "member of",
+        "German Protestant Church Assembly"
+      ],
+      [
+        "Q76658",
+        "P463",
+        "http://www.wikidata.org/entity/Q1205614",
+        "member of",
+        "German Protestant Institute"
+      ],
+      [
+        "Q76658",
+        "P463",
+        "http://www.wikidata.org/entity/Q15094515",
+        "member of",
+        "Third Merkel cabinet"
+      ],
+      [
+        "Q76658",
+        "P512",
+        "http://www.wikidata.org/entity/Q959320",
+        "academic degree",
+        "Doctor of Laws"
+      ],
+      [
+        "Q76658",
+        "P528",
+        "11004167",
+        "catalog code",
+        "11004167"
+      ],
+      [
+        "Q76658",
+        "P551",
+        "http://www.wikidata.org/entity/Q64",
+        "residence",
+        "Berlin"
+      ],
+      [
+        "Q76658",
+        "P551",
+        "http://www.wikidata.org/entity/Q324402",
+        "residence",
+        "Zehlendorf"
+      ],
+      [
+        "Q76658",
+        "P551",
+        "http://www.wikidata.org/entity/Q2209185",
+        "residence",
+        "Saaringen"
+      ],
+      [
+        "Q76658",
+        "P569",
+        "1956-01-05T00:00:00Z",
+        "date of birth",
+        "1956-01-05T00:00:00Z"
+      ],
+      [
+        "Q76658",
+        "P646",
+        "/m/089zlv",
+        "Freebase ID",
+        "/m/089zlv"
+      ],
+      [
+        "Q76658",
+        "P691",
+        "js20051024034",
+        "NL CR AUT ID",
+        "js20051024034"
+      ],
+      [
+        "Q76658",
+        "P734",
+        "http://www.wikidata.org/entity/Q21494270",
+        "family name",
+        "Steinmeier"
+      ],
+      [
+        "Q76658",
+        "P735",
+        "http://www.wikidata.org/entity/Q19688421",
+        "given name",
+        "Frank-Walter"
+      ],
+      [
+        "Q76658",
+        "P856",
+        "http://www.frank-walter-steinmeier.de",
+        "official website",
+        "http://www.frank-walter-steinmeier.de"
+      ],
+      [
+        "Q76658",
+        "P866",
+        "frank-walter-steinmeier",
+        "Perlentaucher ID",
+        "frank-walter-steinmeier"
+      ],
+      [
+        "Q76658",
+        "P910",
+        "http://www.wikidata.org/entity/Q31946866",
+        "topic's main category",
+        "Category:Frank-Walter Steinmeier"
+      ],
+      [
+        "Q76658",
+        "P935",
+        "Frank-Walter Steinmeier",
+        "Commons gallery",
+        "Frank-Walter Steinmeier"
+      ],
+      [
+        "Q76658",
+        "P937",
+        "http://www.wikidata.org/entity/Q64",
+        "work location",
+        "Berlin"
+      ],
+      [
+        "Q76658",
+        "P1006",
+        "301039453",
+        "Nationale Thesaurus voor Auteursnamen ID",
+        "301039453"
+      ],
+      [
+        "Q76658",
+        "P1207",
+        "n2015124756",
+        "NUKAT ID",
+        "n2015124756"
+      ],
+      [
+        "Q76658",
+        "P1266",
+        "426287",
+        "AlloCin\u00e9 person ID",
+        "426287"
+      ],
+      [
+        "Q76658",
+        "P1284",
+        "00000022788",
+        "Munzinger person ID",
+        "00000022788"
+      ],
+      [
+        "Q76658",
+        "P1296",
+        "22286927",
+        "Gran Enciclop\u00e8dia Catalana ID (former scheme)",
+        "22286927"
+      ],
+      [
+        "Q76658",
+        "P1343",
+        "http://www.wikidata.org/entity/Q17290934",
+        "described by source",
+        "Lentapedia"
+      ]
+    ],
+    "question_type": "general",
+    "country": "Germany",
+    "position": "http://www.wikidata.org/prop/direct/P35",
+    "complexity": "simple",
+    "requires_traversal": false
+  },
+  {
+    "question": "Who or what is Mahamat D\u00e9by Itno?",
+    "answer": "Mahamat D\u00e9by Itno is a politician.",
+    "entity_id": "Q16206405",
+    "entity": "Mahamat D\u00e9by Itno",
+    "domain": "world_leaders",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q16206405",
+          "properties": {
+            "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahamat%20D%C3%A9by.jpg",
+            "ISNI": "0000000523951332",
+            "VIAF cluster ID": "5398168172582848620001",
+            "GND ID": "1286278686",
+            "Biblioth\u00e8que nationale de France ID": "181854232",
+            "IMDb ID": "nm12964381",
+            "Commons category": "Mahamat D\u00e9by",
+            "date of birth": "1984-04-04T00:00:00Z",
+            "Freebase ID": "/m/0swnj5t",
+            "Munzinger person ID": "00000033011",
+            "name in native language": "George Simion",
+            "BBC Things ID": "d23d1725-0873-411e-ad62-1b0502f7c0e3",
+            "X (Twitter) username": "GmahamatIdi",
+            "WikiTree person ID": "D\u00e9by-9"
+          }
+        },
+        {
+          "id": "Q2498357",
+          "label": "Massakory"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q57350",
+          "label": "Idriss D\u00e9by"
+        },
+        {
+          "id": "Q115298550",
+          "label": "Aisha Mahamat Idriss Deby Itno"
+        },
+        {
+          "id": "Q657",
+          "label": "Chad"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q28003132",
+          "label": "President of Chad"
+        },
+        {
+          "id": "Q327591",
+          "label": "independent politician"
+        },
+        {
+          "id": "Q47064",
+          "label": "military personnel"
+        },
+        {
+          "id": "Q874971",
+          "label": "military of Chad"
+        },
+        {
+          "id": "Q7821620",
+          "label": "field marshal"
+        },
+        {
+          "id": "Q945700",
+          "label": "Chad\u2013Sudan Conflict"
+        },
+        {
+          "id": "Q106572235",
+          "label": "Northern Chad offensive"
+        },
+        {
+          "id": "Q107332425",
+          "label": "Deby"
+        },
+        {
+          "id": "Q120122686",
+          "label": "Mahamat"
+        },
+        {
+          "id": "Q3659",
+          "label": "N'Djamena"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q16206405",
+          "target": "Q2498357",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q57350",
+          "relation": "father",
+          "relation_id": "P22"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q115298550",
+          "relation": "spouse",
+          "relation_id": "P26"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q657",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q28003132",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q327591",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q47064",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q874971",
+          "relation": "military branch",
+          "relation_id": "P241"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q7821620",
+          "relation": "military or police rank",
+          "relation_id": "P410"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q945700",
+          "relation": "participated in conflict",
+          "relation_id": "P607"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q106572235",
+          "relation": "participated in conflict",
+          "relation_id": "P607"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q107332425",
+          "relation": "family name",
+          "relation_id": "P734"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q120122686",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q16206405",
+          "target": "Q3659",
+          "relation": "work location",
+          "relation_id": "P937"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q16206405",
+        "P18",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mahamat%20D%C3%A9by.jpg",
+        "image",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mahamat%20D%C3%A9by.jpg"
+      ],
+      [
+        "Q16206405",
+        "P19",
+        "http://www.wikidata.org/entity/Q2498357",
+        "place of birth",
+        "Massakory"
+      ],
+      [
+        "Q16206405",
+        "P21",
+        "http://www.wikidata.org/entity/Q6581097",
+        "sex or gender",
+        "male"
+      ],
+      [
+        "Q16206405",
+        "P22",
+        "http://www.wikidata.org/entity/Q57350",
+        "father",
+        "Idriss D\u00e9by"
+      ],
+      [
+        "Q16206405",
+        "P26",
+        "http://www.wikidata.org/entity/Q115298550",
+        "spouse",
+        "Aisha Mahamat Idriss Deby Itno"
+      ],
+      [
+        "Q16206405",
+        "P27",
+        "http://www.wikidata.org/entity/Q657",
+        "country of citizenship",
+        "Chad"
+      ],
+      [
+        "Q16206405",
+        "P31",
+        "http://www.wikidata.org/entity/Q5",
+        "instance of",
+        "human"
+      ],
+      [
+        "Q16206405",
+        "P39",
+        "http://www.wikidata.org/entity/Q28003132",
+        "position held",
+        "President of Chad"
+      ],
+      [
+        "Q16206405",
+        "P102",
+        "http://www.wikidata.org/entity/Q327591",
+        "member of political party",
+        "independent politician"
+      ],
+      [
+        "Q16206405",
+        "P106",
+        "http://www.wikidata.org/entity/Q47064",
+        "occupation",
+        "military personnel"
+      ],
+      [
+        "Q16206405",
+        "P213",
+        "0000000523951332",
+        "ISNI",
+        "0000000523951332"
+      ],
+      [
+        "Q16206405",
+        "P214",
+        "5398168172582848620001",
+        "VIAF cluster ID",
+        "5398168172582848620001"
+      ],
+      [
+        "Q16206405",
+        "P227",
+        "1286278686",
+        "GND ID",
+        "1286278686"
+      ],
+      [
+        "Q16206405",
+        "P241",
+        "http://www.wikidata.org/entity/Q874971",
+        "military branch",
+        "military of Chad"
+      ],
+      [
+        "Q16206405",
+        "P268",
+        "181854232",
+        "Biblioth\u00e8que nationale de France ID",
+        "181854232"
+      ],
+      [
+        "Q16206405",
+        "P345",
+        "nm12964381",
+        "IMDb ID",
+        "nm12964381"
+      ],
+      [
+        "Q16206405",
+        "P373",
+        "Mahamat D\u00e9by",
+        "Commons category",
+        "Mahamat D\u00e9by"
+      ],
+      [
+        "Q16206405",
+        "P410",
+        "http://www.wikidata.org/entity/Q7821620",
+        "military or police rank",
+        "field marshal"
+      ],
+      [
+        "Q16206405",
+        "P569",
+        "1984-04-04T00:00:00Z",
+        "date of birth",
+        "1984-04-04T00:00:00Z"
+      ],
+      [
+        "Q16206405",
+        "P607",
+        "http://www.wikidata.org/entity/Q945700",
+        "participated in conflict",
+        "Chad\u2013Sudan Conflict"
+      ],
+      [
+        "Q16206405",
+        "P607",
+        "http://www.wikidata.org/entity/Q106572235",
+        "participated in conflict",
+        "Northern Chad offensive"
+      ],
+      [
+        "Q16206405",
+        "P646",
+        "/m/0swnj5t",
+        "Freebase ID",
+        "/m/0swnj5t"
+      ],
+      [
+        "Q16206405",
+        "P734",
+        "http://www.wikidata.org/entity/Q107332425",
+        "family name",
+        "Deby"
+      ],
+      [
+        "Q16206405",
+        "P735",
+        "http://www.wikidata.org/entity/Q120122686",
+        "given name",
+        "Mahamat"
+      ],
+      [
+        "Q16206405",
+        "P937",
+        "http://www.wikidata.org/entity/Q3659",
+        "work location",
+        "N'Djamena"
+      ],
+      [
+        "Q16206405",
+        "P1284",
+        "00000033011",
+        "Munzinger person ID",
+        "00000033011"
+      ],
+      [
+        "Q16206405",
+        "P1559",
+        "George Simion",
+        "name in native language",
+        "George Simion"
+      ],
+      [
+        "Q16206405",
+        "P1617",
+        "d23d1725-0873-411e-ad62-1b0502f7c0e3",
+        "BBC Things ID",
+        "d23d1725-0873-411e-ad62-1b0502f7c0e3"
+      ],
+      [
+        "Q16206405",
+        "P2002",
+        "GmahamatIdi",
+        "X (Twitter) username",
+        "GmahamatIdi"
+      ],
+      [
+        "Q16206405",
+        "P2949",
+        "D\u00e9by-9",
+        "WikiTree person ID",
+        "D\u00e9by-9"
+      ]
+    ],
+    "question_type": "general",
+    "country": "Chad",
+    "position": "http://www.wikidata.org/prop/direct/P35",
+    "complexity": "simple",
+    "requires_traversal": false
+  },
+  {
+    "question": "Can you tell me about Juan Guaid\u00f3?",
+    "answer": "Juan Guaid\u00f3 is a politician.",
+    "entity_id": "Q58833335",
+    "entity": "Juan Guaid\u00f3",
+    "domain": "world_leaders",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q58833335",
+          "properties": {
+            "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Guaid%C3%B3%202019%20portrait.jpg",
+            "signature": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Guaid%C3%B3%20Marquez%20signature.svg",
+            "ISNI": "0000000500837684",
+            "VIAF cluster ID": "4639154867605660100007",
+            "GND ID": "1176088920",
+            "Library of Congress authority ID": "no2019151776",
+            "IMDb ID": "nm10440200",
+            "Commons category": "Juan Guaid\u00f3",
+            "date of birth": "1983-07-28T00:00:00Z"
+          }
+        },
+        {
+          "id": "Q873405",
+          "label": "La Guaira"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q61665580",
+          "label": "Fabiana Rosales"
+        },
+        {
+          "id": "Q717",
+          "label": "Venezuela"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q6597955",
+          "label": "President of the National Assembly of Venezuela"
+        },
+        {
+          "id": "Q11942698",
+          "label": "President of Venezuela"
+        },
+        {
+          "id": "Q20011182",
+          "label": "member of the National Assembly of Venezuela"
+        },
+        {
+          "id": "Q70876408",
+          "label": "Q70876408"
+        },
+        {
+          "id": "Q61665639",
+          "label": "Miranda Guaid\u00f3 Rosales"
+        },
+        {
+          "id": "Q432637",
+          "label": "George Washington University"
+        },
+        {
+          "id": "Q4760155",
+          "label": "Andr\u00e9s Bello Catholic University"
+        },
+        {
+          "id": "Q327591",
+          "label": "independent politician"
+        },
+        {
+          "id": "Q1629486",
+          "label": "Democratic Unity Roundtable"
+        },
+        {
+          "id": "Q7229748",
+          "label": "Popular Will"
+        },
+        {
+          "id": "Q65036830",
+          "label": "Frente Amplio Venezuela Libre"
+        },
+        {
+          "id": "Q1321",
+          "label": "Spanish"
+        },
+        {
+          "id": "Q82955",
+          "label": "politician"
+        },
+        {
+          "id": "Q2267418",
+          "label": "industrial engineer"
+        },
+        {
+          "id": "Q30",
+          "label": "United States"
+        },
+        {
+          "id": "Q60565258",
+          "label": "Guaid\u00f3"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q58833335",
+          "target": "Q873405",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q61665580",
+          "relation": "spouse",
+          "relation_id": "P26"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q717",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q6597955",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q11942698",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q20011182",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q70876408",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q61665639",
+          "relation": "child",
+          "relation_id": "P40"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q432637",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q4760155",
+          "relation": "educated at",
+          "relation_id": "P69"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q327591",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q1629486",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q7229748",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q65036830",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q1321",
+          "relation": "native language",
+          "relation_id": "P103"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q82955",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q2267418",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q30",
+          "relation": "residence",
+          "relation_id": "P551"
+        },
+        {
+          "source": "Q58833335",
+          "target": "Q60565258",
+          "relation": "family name",
+          "relation_id": "P734"
+        }
+      ]
+    },
+    "triples": [
+      [
+        "Q58833335",
+        "P18",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Guaid%C3%B3%202019%20portrait.jpg",
+        "image",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Guaid%C3%B3%202019%20portrait.jpg"
+      ],
+      [
+        "Q58833335",
+        "P19",
+        "http://www.wikidata.org/entity/Q873405",
+        "place of birth",
+        "La Guaira"
+      ],
+      [
+        "Q58833335",
+        "P21",
+        "http://www.wikidata.org/entity/Q6581097",
+        "sex or gender",
+        "male"
+      ],
+      [
+        "Q58833335",
+        "P26",
+        "http://www.wikidata.org/entity/Q61665580",
+        "spouse",
+        "Fabiana Rosales"
+      ],
+      [
+        "Q58833335",
+        "P27",
+        "http://www.wikidata.org/entity/Q717",
+        "country of citizenship",
+        "Venezuela"
+      ],
+      [
+        "Q58833335",
+        "P31",
+        "http://www.wikidata.org/entity/Q5",
+        "instance of",
+        "human"
+      ],
+      [
+        "Q58833335",
+        "P39",
+        "http://www.wikidata.org/entity/Q6597955",
+        "position held",
+        "President of the National Assembly of Venezuela"
+      ],
+      [
+        "Q58833335",
+        "P39",
+        "http://www.wikidata.org/entity/Q11942698",
+        "position held",
+        "President of Venezuela"
+      ],
+      [
+        "Q58833335",
+        "P39",
+        "http://www.wikidata.org/entity/Q20011182",
+        "position held",
+        "member of the National Assembly of Venezuela"
+      ],
+      [
+        "Q58833335",
+        "P39",
+        "http://www.wikidata.org/entity/Q70876408",
+        "position held",
+        "Q70876408"
+      ],
+      [
+        "Q58833335",
+        "P40",
+        "http://www.wikidata.org/entity/Q61665639",
+        "child",
+        "Miranda Guaid\u00f3 Rosales"
+      ],
+      [
+        "Q58833335",
+        "P69",
+        "http://www.wikidata.org/entity/Q432637",
+        "educated at",
+        "George Washington University"
+      ],
+      [
+        "Q58833335",
+        "P69",
+        "http://www.wikidata.org/entity/Q4760155",
+        "educated at",
+        "Andr\u00e9s Bello Catholic University"
+      ],
+      [
+        "Q58833335",
+        "P102",
+        "http://www.wikidata.org/entity/Q327591",
+        "member of political party",
+        "independent politician"
+      ],
+      [
+        "Q58833335",
+        "P102",
+        "http://www.wikidata.org/entity/Q1629486",
+        "member of political party",
+        "Democratic Unity Roundtable"
+      ],
+      [
+        "Q58833335",
+        "P102",
+        "http://www.wikidata.org/entity/Q7229748",
+        "member of political party",
+        "Popular Will"
+      ],
+      [
+        "Q58833335",
+        "P102",
+        "http://www.wikidata.org/entity/Q65036830",
+        "member of political party",
+        "Frente Amplio Venezuela Libre"
+      ],
+      [
+        "Q58833335",
+        "P103",
+        "http://www.wikidata.org/entity/Q1321",
+        "native language",
+        "Spanish"
+      ],
+      [
+        "Q58833335",
+        "P106",
+        "http://www.wikidata.org/entity/Q82955",
+        "occupation",
+        "politician"
+      ],
+      [
+        "Q58833335",
+        "P106",
+        "http://www.wikidata.org/entity/Q2267418",
+        "occupation",
+        "industrial engineer"
+      ],
+      [
+        "Q58833335",
+        "P109",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Guaid%C3%B3%20Marquez%20signature.svg",
+        "signature",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Guaid%C3%B3%20Marquez%20signature.svg"
+      ],
+      [
+        "Q58833335",
+        "P213",
+        "0000000500837684",
+        "ISNI",
+        "0000000500837684"
+      ],
+      [
+        "Q58833335",
+        "P214",
+        "4639154867605660100007",
+        "VIAF cluster ID",
+        "4639154867605660100007"
+      ],
+      [
+        "Q58833335",
+        "P227",
+        "1176088920",
+        "GND ID",
+        "1176088920"
+      ],
+      [
+        "Q58833335",
+        "P244",
+        "no2019151776",
+        "Library of Congress authority ID",
+        "no2019151776"
+      ],
+      [
+        "Q58833335",
+        "P345",
+        "nm10440200",
+        "IMDb ID",
+        "nm10440200"
+      ],
+      [
+        "Q58833335",
+        "P373",
+        "Juan Guaid\u00f3",
+        "Commons category",
+        "Juan Guaid\u00f3"
+      ],
+      [
+        "Q58833335",
+        "P551",
+        "http://www.wikidata.org/entity/Q30",
+        "residence",
+        "United States"
+      ],
+      [
+        "Q58833335",
+        "P569",
+        "1983-07-28T00:00:00Z",
+        "date of birth",
+        "1983-07-28T00:00:00Z"
+      ],
+      [
+        "Q58833335",
+        "P734",
+        "http://www.wikidata.org/entity/Q60565258",
+        "family name",
+        "Guaid\u00f3"
+      ]
+    ],
+    "question_type": "general",
+    "country": "Venezuela",
+    "position": "http://www.wikidata.org/prop/direct/P35",
+    "complexity": "simple",
+    "requires_traversal": false
+  },
+  {
+    "question": "What is the citizenship of Salvador S\u00e1nchez Cer\u00e9n?",
+    "answer": "El Salvador",
+    "entity": "Salvador S\u00e1nchez Cer\u00e9n",
+    "entity_id": "Q936831",
+    "relation": "citizenship",
+    "answer_id": "Q792",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q936831"
+        },
+        {
+          "id": "Q1154058",
+          "label": "Quezaltepeque"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q792",
+          "label": "El Salvador"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q878151",
+          "label": "President of El Salvador"
+        },
+        {
+          "id": "Q7925044",
+          "label": "Vice President of El Salvador"
+        },
+        {
+          "id": "Q648924",
+          "label": "Farabundo Mart\u00ed National Liberation Front"
+        },
+        {
+          "id": "Q1321",
+          "label": "Spanish"
+        },
+        {
+          "id": "Q82955",
+          "label": "politician"
+        },
+        {
+          "id": "Q762844",
+          "label": "Order pro Merito Melitensi"
+        },
+        {
+          "id": "Q117384949",
+          "label": "Order of the Five Volcanoes"
+        },
+        {
+          "id": "Q18220463",
+          "label": "Salvador"
+        },
+        {
+          "id": "Q5828987",
+          "label": "2014 Salvadoran presidential election"
+        },
+        {
+          "id": "Q774",
+          "label": "Guatemala"
+        },
+        {
+          "id": "Q193622",
+          "label": "order"
+        },
+        {
+          "id": "Q190025",
+          "label": "Federal Republic of Central America"
+        },
+        {
+          "id": "Q118524496",
+          "label": "Category:Orden de los Cinco Volcanes"
+        },
+        {
+          "id": "Q48264",
+          "label": "gender identity"
+        },
+        {
+          "id": "Q4369513",
+          "label": "sex of humans"
+        },
+        {
+          "id": "Q99485732",
+          "label": "gendered"
+        },
+        {
+          "id": "Q5530970",
+          "label": "gender binary"
+        },
+        {
+          "id": "Q20686840",
+          "label": "male and female"
+        },
+        {
+          "id": "Q6581072",
+          "label": "female"
+        },
+        {
+          "id": "Q7905582",
+          "label": "Category:Male"
+        },
+        {
+          "id": "Q48388241",
+          "label": "Portrait of a man"
+        },
+        {
+          "id": "Q131587983",
+          "label": "Funerary relief of a Palmyrene man"
+        },
+        {
+          "id": "Q131613891",
+          "label": "Portrait of a man"
+        },
+        {
+          "id": "Q294414",
+          "label": "public office"
+        },
+        {
+          "id": "Q42178",
+          "label": "vice president"
+        },
+        {
+          "id": "Q5784028",
+          "label": "Council of Ministers of El Salvador"
+        },
+        {
+          "id": "Q13301588",
+          "label": "Category:Vice presidents of El Salvador"
+        },
+        {
+          "id": "Q61022687",
+          "label": "F\u00e9lix Ulloa, Jr."
+        },
+        {
+          "id": "Q190353",
+          "label": "Sovereign Military Order of Malta"
+        },
+        {
+          "id": "Q20680119",
+          "label": "Cross pro Merito Melitensi"
+        },
+        {
+          "id": "Q20680128",
+          "label": "Knight Grand Cross of the Order of Merit"
+        },
+        {
+          "id": "Q22010840",
+          "label": "Officer of the Order pro Merito Melitensi"
+        },
+        {
+          "id": "Q22135199",
+          "label": "Knight Grand Cross with Collar of the Order of Merit"
+        },
+        {
+          "id": "Q111365118",
+          "label": "Commander of the Order pro Merito Melitensi"
+        },
+        {
+          "id": "Q111365226",
+          "label": "Knight Grand Officer of the Order of Merit"
+        },
+        {
+          "id": "Q17477558",
+          "label": "Category:Order of Merit pro Merito Melitensi"
+        },
+        {
+          "id": "Q294462",
+          "label": "Order of Merit"
+        },
+        {
+          "id": "Q8790981",
+          "label": "Category:Presidents of El Salvador"
+        },
+        {
+          "id": "Q17712353",
+          "label": "Nayib Bukele"
+        },
+        {
+          "id": "Q10353659",
+          "label": "list of presidents of El Salvador"
+        },
+        {
+          "id": "Q5589203",
+          "label": "Government of El Salvador"
+        },
+        {
+          "id": "Q17279032",
+          "label": "elective office"
+        },
+        {
+          "id": "Q5047867",
+          "label": "Casa Presidencial"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q936831",
+          "target": "Q1154058",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q792",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q878151",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q7925044",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q648924",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q1321",
+          "relation": "languages spoken, written or signed",
+          "relation_id": "P1412"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q82955",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q762844",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q117384949",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q18220463",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5828987",
+          "relation": "candidacy in election",
+          "relation_id": "P3602"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q48264",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q4369513",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q99485732",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q5530970",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q20686840",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q6581072",
+          "relation": "opposite of",
+          "relation_id": "P461"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q7905582",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q48388241",
+          "relation": "depicted by",
+          "relation_id": "P1299"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q131587983",
+          "relation": "depicted by",
+          "relation_id": "P1299"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q131613891",
+          "relation": "depicted by",
+          "relation_id": "P1299"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q8790981",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q17712353",
+          "relation": "position holder",
+          "relation_id": "P1308"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q7925044",
+          "relation": "substitute/deputy/replacement of office/officeholder",
+          "relation_id": "P2098"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q10353659",
+          "relation": "has list",
+          "relation_id": "P2354"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q5589203",
+          "relation": "organization directed by the office or position",
+          "relation_id": "P2389"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q294414",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q17279032",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q5047867",
+          "relation": "official residence",
+          "relation_id": "P263"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q294414",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q42178",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q5784028",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q13301588",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q61022687",
+          "relation": "position holder",
+          "relation_id": "P1308"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q190353",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q193622",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q20680119",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q20680128",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q22010840",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q22135199",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q111365118",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q111365226",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q17477558",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q294462",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q774",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q193622",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q190025",
+          "relation": "named after",
+          "relation_id": "P138"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q118524496",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        }
+      ]
+    },
+    "context_hint": "Salvador S\u00e1nchez Cer\u00e9n citizenship El Salvador",
+    "traversal_hints": "Step 1: Look for the relationship 'country of citizenship' between Q936831 and El Salvador.",
+    "domain": "world_leaders",
+    "complexity": "complex",
+    "requires_traversal": true
+  },
+  {
+    "question": "What is Salvador S\u00e1nchez Cer\u00e9n classified as?",
+    "answer": "human",
+    "entity": "Salvador S\u00e1nchez Cer\u00e9n",
+    "entity_id": "Q936831",
+    "relation": "instance of",
+    "answer_id": "Q5",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q936831"
+        },
+        {
+          "id": "Q1154058",
+          "label": "Quezaltepeque"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q792",
+          "label": "El Salvador"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q878151",
+          "label": "President of El Salvador"
+        },
+        {
+          "id": "Q7925044",
+          "label": "Vice President of El Salvador"
+        },
+        {
+          "id": "Q648924",
+          "label": "Farabundo Mart\u00ed National Liberation Front"
+        },
+        {
+          "id": "Q1321",
+          "label": "Spanish"
+        },
+        {
+          "id": "Q82955",
+          "label": "politician"
+        },
+        {
+          "id": "Q762844",
+          "label": "Order pro Merito Melitensi"
+        },
+        {
+          "id": "Q117384949",
+          "label": "Order of the Five Volcanoes"
+        },
+        {
+          "id": "Q18220463",
+          "label": "Salvador"
+        },
+        {
+          "id": "Q5828987",
+          "label": "2014 Salvadoran presidential election"
+        },
+        {
+          "id": "Q3769299",
+          "label": "human behavior"
+        },
+        {
+          "id": "Q18387795",
+          "label": "perspective-taking"
+        },
+        {
+          "id": "Q95074",
+          "label": "character"
+        },
+        {
+          "id": "Q215627",
+          "label": "person"
+        },
+        {
+          "id": "Q2472587",
+          "label": "people"
+        },
+        {
+          "id": "Q114353657",
+          "label": "Human"
+        },
+        {
+          "id": "Q124542004",
+          "label": "human in the center of cosmos"
+        },
+        {
+          "id": "P18",
+          "label": "image"
+        },
+        {
+          "id": "P19",
+          "label": "place of birth"
+        },
+        {
+          "id": "P20",
+          "label": "place of death"
+        },
+        {
+          "id": "Q294414",
+          "label": "public office"
+        },
+        {
+          "id": "Q42178",
+          "label": "vice president"
+        },
+        {
+          "id": "Q5784028",
+          "label": "Council of Ministers of El Salvador"
+        },
+        {
+          "id": "Q13301588",
+          "label": "Category:Vice presidents of El Salvador"
+        },
+        {
+          "id": "Q61022687",
+          "label": "F\u00e9lix Ulloa, Jr."
+        },
+        {
+          "id": "Q8790981",
+          "label": "Category:Presidents of El Salvador"
+        },
+        {
+          "id": "Q17712353",
+          "label": "Nayib Bukele"
+        },
+        {
+          "id": "Q10353659",
+          "label": "list of presidents of El Salvador"
+        },
+        {
+          "id": "Q5589203",
+          "label": "Government of El Salvador"
+        },
+        {
+          "id": "Q17279032",
+          "label": "elective office"
+        },
+        {
+          "id": "Q5047867",
+          "label": "Casa Presidencial"
+        },
+        {
+          "id": "Q12585",
+          "label": "Latin America"
+        },
+        {
+          "id": "Q27611",
+          "label": "Central America"
+        },
+        {
+          "id": "Q5385",
+          "label": "UTC\u221206:00"
+        },
+        {
+          "id": "Q63286062",
+          "label": "America/El_Salvador"
+        },
+        {
+          "id": "Q1065",
+          "label": "United Nations"
+        },
+        {
+          "id": "Q7809",
+          "label": "UNESCO"
+        },
+        {
+          "id": "Q7817",
+          "label": "World Health Organization"
+        },
+        {
+          "id": "Q7825",
+          "label": "World Trade Organization"
+        },
+        {
+          "id": "Q8475",
+          "label": "Interpol"
+        },
+        {
+          "id": "Q17495",
+          "label": "Universal Postal Union UPU"
+        },
+        {
+          "id": "Q5968650",
+          "label": "labourism"
+        },
+        {
+          "id": "Q11900614",
+          "label": "left-wing populism"
+        },
+        {
+          "id": "Q6008488",
+          "label": "Medardo Gonz\u00e1lez"
+        },
+        {
+          "id": "Q8443414",
+          "label": "Category:Farabundo Mart\u00ed National Liberation Front politicians"
+        },
+        {
+          "id": "Q7278",
+          "label": "political party"
+        },
+        {
+          "id": "Q3110",
+          "label": "San Salvador"
+        },
+        {
+          "id": "Q1024114",
+          "label": "Permanent Conference of Political Parties of Latin America and the Caribbean"
+        },
+        {
+          "id": "Q2915940",
+          "label": "S\u00e3o Paulo Forum"
+        },
+        {
+          "id": "Q7248622",
+          "label": "Progressive Alliance"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q936831",
+          "target": "Q1154058",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q792",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q878151",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q7925044",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q648924",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q1321",
+          "relation": "languages spoken, written or signed",
+          "relation_id": "P1412"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q82955",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q762844",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q117384949",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q18220463",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5828987",
+          "relation": "candidacy in election",
+          "relation_id": "P3602"
+        },
+        {
+          "source": "Q792",
+          "target": "Q12585",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q792",
+          "target": "Q27611",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q792",
+          "target": "Q5385",
+          "relation": "located in time zone",
+          "relation_id": "P421"
+        },
+        {
+          "source": "Q792",
+          "target": "Q63286062",
+          "relation": "located in time zone",
+          "relation_id": "P421"
+        },
+        {
+          "source": "Q792",
+          "target": "Q1065",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q792",
+          "target": "Q7809",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q792",
+          "target": "Q7817",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q792",
+          "target": "Q7825",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q792",
+          "target": "Q8475",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q792",
+          "target": "Q17495",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q5",
+          "target": "Q3769299",
+          "relation": "has characteristic",
+          "relation_id": "P1552"
+        },
+        {
+          "source": "Q5",
+          "target": "Q18387795",
+          "relation": "has characteristic",
+          "relation_id": "P1552"
+        },
+        {
+          "source": "Q5",
+          "target": "Q95074",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q215627",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q2472587",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q114353657",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q124542004",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "P18",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q5",
+          "target": "P19",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q5",
+          "target": "P20",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q8790981",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q17712353",
+          "relation": "position holder",
+          "relation_id": "P1308"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q7925044",
+          "relation": "substitute/deputy/replacement of office/officeholder",
+          "relation_id": "P2098"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q10353659",
+          "relation": "has list",
+          "relation_id": "P2354"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q5589203",
+          "relation": "organization directed by the office or position",
+          "relation_id": "P2389"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q294414",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q17279032",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q5047867",
+          "relation": "official residence",
+          "relation_id": "P263"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q294414",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q42178",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q5784028",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q13301588",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q61022687",
+          "relation": "position holder",
+          "relation_id": "P1308"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q5968650",
+          "relation": "political ideology",
+          "relation_id": "P1142"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q11900614",
+          "relation": "political ideology",
+          "relation_id": "P1142"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q6008488",
+          "relation": "general secretary",
+          "relation_id": "P3975"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q8443414",
+          "relation": "member category",
+          "relation_id": "P6365"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q7278",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q3110",
+          "relation": "headquarters location",
+          "relation_id": "P159"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q1024114",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q2915940",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q7248622",
+          "relation": "member of",
+          "relation_id": "P463"
+        }
+      ]
+    },
+    "context_hint": "Salvador S\u00e1nchez Cer\u00e9n instance of human",
+    "traversal_hints": "Step 1: Look for the relationship 'instance of' between Q936831 and human.",
+    "domain": "world_leaders",
+    "complexity": "complex",
+    "requires_traversal": true
+  },
+  {
+    "question": "What official role has Salvador S\u00e1nchez Cer\u00e9n occupied?",
+    "answer": "Vice President of El Salvador",
+    "entity": "Salvador S\u00e1nchez Cer\u00e9n",
+    "entity_id": "Q936831",
+    "relation": "position held",
+    "answer_id": "Q7925044",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q936831"
+        },
+        {
+          "id": "Q1154058",
+          "label": "Quezaltepeque"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q792",
+          "label": "El Salvador"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q878151",
+          "label": "President of El Salvador"
+        },
+        {
+          "id": "Q7925044",
+          "label": "Vice President of El Salvador"
+        },
+        {
+          "id": "Q648924",
+          "label": "Farabundo Mart\u00ed National Liberation Front"
+        },
+        {
+          "id": "Q1321",
+          "label": "Spanish"
+        },
+        {
+          "id": "Q82955",
+          "label": "politician"
+        },
+        {
+          "id": "Q762844",
+          "label": "Order pro Merito Melitensi"
+        },
+        {
+          "id": "Q117384949",
+          "label": "Order of the Five Volcanoes"
+        },
+        {
+          "id": "Q18220463",
+          "label": "Salvador"
+        },
+        {
+          "id": "Q5828987",
+          "label": "2014 Salvadoran presidential election"
+        },
+        {
+          "id": "Q56061",
+          "label": "administrative territorial entity"
+        },
+        {
+          "id": "Q486972",
+          "label": "human settlement"
+        },
+        {
+          "id": "Q127499753",
+          "label": "district of El Salvador"
+        },
+        {
+          "id": "Q127639689",
+          "label": "Northern La Libertad"
+        },
+        {
+          "id": "Q5385",
+          "label": "UTC\u221206:00"
+        },
+        {
+          "id": "Q104518900",
+          "label": "Category:Quezaltepeque, El Salvador"
+        },
+        {
+          "id": "Q32410325",
+          "label": "Q32410325"
+        },
+        {
+          "id": "Q116050899",
+          "label": "Q116050899"
+        },
+        {
+          "id": "Q774",
+          "label": "Guatemala"
+        },
+        {
+          "id": "Q193622",
+          "label": "order"
+        },
+        {
+          "id": "Q190025",
+          "label": "Federal Republic of Central America"
+        },
+        {
+          "id": "Q118524496",
+          "label": "Category:Orden de los Cinco Volcanes"
+        },
+        {
+          "id": "Q3769299",
+          "label": "human behavior"
+        },
+        {
+          "id": "Q18387795",
+          "label": "perspective-taking"
+        },
+        {
+          "id": "Q95074",
+          "label": "character"
+        },
+        {
+          "id": "Q215627",
+          "label": "person"
+        },
+        {
+          "id": "Q2472587",
+          "label": "people"
+        },
+        {
+          "id": "Q114353657",
+          "label": "Human"
+        },
+        {
+          "id": "Q124542004",
+          "label": "human in the center of cosmos"
+        },
+        {
+          "id": "P18",
+          "label": "image"
+        },
+        {
+          "id": "P19",
+          "label": "place of birth"
+        },
+        {
+          "id": "P20",
+          "label": "place of death"
+        },
+        {
+          "id": "Q294414",
+          "label": "public office"
+        },
+        {
+          "id": "Q42178",
+          "label": "vice president"
+        },
+        {
+          "id": "Q5784028",
+          "label": "Council of Ministers of El Salvador"
+        },
+        {
+          "id": "Q13301588",
+          "label": "Category:Vice presidents of El Salvador"
+        },
+        {
+          "id": "Q61022687",
+          "label": "F\u00e9lix Ulloa, Jr."
+        },
+        {
+          "id": "Q112679286",
+          "label": "presidential election in El Salvador"
+        },
+        {
+          "id": "Q2985472",
+          "label": "2009 Salvadoran presidential election"
+        },
+        {
+          "id": "Q54849954",
+          "label": "2019 Salvadoran presidential election"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q936831",
+          "target": "Q1154058",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q792",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q878151",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q7925044",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q648924",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q1321",
+          "relation": "languages spoken, written or signed",
+          "relation_id": "P1412"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q82955",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q762844",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q117384949",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q18220463",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5828987",
+          "relation": "candidacy in election",
+          "relation_id": "P3602"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q56061",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q486972",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q127499753",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q127639689",
+          "relation": "capital of",
+          "relation_id": "P1376"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q5385",
+          "relation": "located in time zone",
+          "relation_id": "P421"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q104518900",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q32410325",
+          "relation": "category for people born here",
+          "relation_id": "P1464"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q116050899",
+          "relation": "category for people who died here",
+          "relation_id": "P1465"
+        },
+        {
+          "source": "Q5",
+          "target": "Q3769299",
+          "relation": "has characteristic",
+          "relation_id": "P1552"
+        },
+        {
+          "source": "Q5",
+          "target": "Q18387795",
+          "relation": "has characteristic",
+          "relation_id": "P1552"
+        },
+        {
+          "source": "Q5",
+          "target": "Q95074",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q215627",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q2472587",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q114353657",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q124542004",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "P18",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q5",
+          "target": "P19",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q5",
+          "target": "P20",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q294414",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q42178",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q5784028",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q13301588",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q61022687",
+          "relation": "position holder",
+          "relation_id": "P1308"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q774",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q193622",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q190025",
+          "relation": "named after",
+          "relation_id": "P138"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q118524496",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q792",
+          "relation": "applies to jurisdiction",
+          "relation_id": "P1001"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q112679286",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q2985472",
+          "relation": "follows",
+          "relation_id": "P155"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q54849954",
+          "relation": "followed by",
+          "relation_id": "P156"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q878151",
+          "relation": "office contested",
+          "relation_id": "P541"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q936831",
+          "relation": "successful candidate",
+          "relation_id": "P991"
+        }
+      ]
+    },
+    "context_hint": "Salvador S\u00e1nchez Cer\u00e9n position held Vice President of El Salvador",
+    "traversal_hints": "Step 1: Look for the relationship 'position held' between Q936831 and Vice President of El Salvador.",
+    "domain": "world_leaders",
+    "complexity": "complex",
+    "requires_traversal": true
+  }
+]

@@ -1,0 +1,1582 @@
+[
+  {
+    "question": "What is the citizenship of Salvador S\u00e1nchez Cer\u00e9n?",
+    "answer": "El Salvador",
+    "entity": "Salvador S\u00e1nchez Cer\u00e9n",
+    "entity_id": "Q936831",
+    "relation": "citizenship",
+    "answer_id": "Q792",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q936831"
+        },
+        {
+          "id": "Q1154058",
+          "label": "Quezaltepeque"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q792",
+          "label": "El Salvador"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q878151",
+          "label": "President of El Salvador"
+        },
+        {
+          "id": "Q7925044",
+          "label": "Vice President of El Salvador"
+        },
+        {
+          "id": "Q648924",
+          "label": "Farabundo Mart\u00ed National Liberation Front"
+        },
+        {
+          "id": "Q1321",
+          "label": "Spanish"
+        },
+        {
+          "id": "Q82955",
+          "label": "politician"
+        },
+        {
+          "id": "Q762844",
+          "label": "Order pro Merito Melitensi"
+        },
+        {
+          "id": "Q117384949",
+          "label": "Order of the Five Volcanoes"
+        },
+        {
+          "id": "Q18220463",
+          "label": "Salvador"
+        },
+        {
+          "id": "Q5828987",
+          "label": "2014 Salvadoran presidential election"
+        },
+        {
+          "id": "Q774",
+          "label": "Guatemala"
+        },
+        {
+          "id": "Q193622",
+          "label": "order"
+        },
+        {
+          "id": "Q190025",
+          "label": "Federal Republic of Central America"
+        },
+        {
+          "id": "Q118524496",
+          "label": "Category:Orden de los Cinco Volcanes"
+        },
+        {
+          "id": "Q48264",
+          "label": "gender identity"
+        },
+        {
+          "id": "Q4369513",
+          "label": "sex of humans"
+        },
+        {
+          "id": "Q99485732",
+          "label": "gendered"
+        },
+        {
+          "id": "Q5530970",
+          "label": "gender binary"
+        },
+        {
+          "id": "Q20686840",
+          "label": "male and female"
+        },
+        {
+          "id": "Q6581072",
+          "label": "female"
+        },
+        {
+          "id": "Q7905582",
+          "label": "Category:Male"
+        },
+        {
+          "id": "Q48388241",
+          "label": "Portrait of a man"
+        },
+        {
+          "id": "Q131587983",
+          "label": "Funerary relief of a Palmyrene man"
+        },
+        {
+          "id": "Q131613891",
+          "label": "Portrait of a man"
+        },
+        {
+          "id": "Q294414",
+          "label": "public office"
+        },
+        {
+          "id": "Q42178",
+          "label": "vice president"
+        },
+        {
+          "id": "Q5784028",
+          "label": "Council of Ministers of El Salvador"
+        },
+        {
+          "id": "Q13301588",
+          "label": "Category:Vice presidents of El Salvador"
+        },
+        {
+          "id": "Q61022687",
+          "label": "F\u00e9lix Ulloa, Jr."
+        },
+        {
+          "id": "Q190353",
+          "label": "Sovereign Military Order of Malta"
+        },
+        {
+          "id": "Q20680119",
+          "label": "Cross pro Merito Melitensi"
+        },
+        {
+          "id": "Q20680128",
+          "label": "Knight Grand Cross of the Order of Merit"
+        },
+        {
+          "id": "Q22010840",
+          "label": "Officer of the Order pro Merito Melitensi"
+        },
+        {
+          "id": "Q22135199",
+          "label": "Knight Grand Cross with Collar of the Order of Merit"
+        },
+        {
+          "id": "Q111365118",
+          "label": "Commander of the Order pro Merito Melitensi"
+        },
+        {
+          "id": "Q111365226",
+          "label": "Knight Grand Officer of the Order of Merit"
+        },
+        {
+          "id": "Q17477558",
+          "label": "Category:Order of Merit pro Merito Melitensi"
+        },
+        {
+          "id": "Q294462",
+          "label": "Order of Merit"
+        },
+        {
+          "id": "Q8790981",
+          "label": "Category:Presidents of El Salvador"
+        },
+        {
+          "id": "Q17712353",
+          "label": "Nayib Bukele"
+        },
+        {
+          "id": "Q10353659",
+          "label": "list of presidents of El Salvador"
+        },
+        {
+          "id": "Q5589203",
+          "label": "Government of El Salvador"
+        },
+        {
+          "id": "Q17279032",
+          "label": "elective office"
+        },
+        {
+          "id": "Q5047867",
+          "label": "Casa Presidencial"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q936831",
+          "target": "Q1154058",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q792",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q878151",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q7925044",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q648924",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q1321",
+          "relation": "languages spoken, written or signed",
+          "relation_id": "P1412"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q82955",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q762844",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q117384949",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q18220463",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5828987",
+          "relation": "candidacy in election",
+          "relation_id": "P3602"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q48264",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q4369513",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q99485732",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q5530970",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q20686840",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q6581072",
+          "relation": "opposite of",
+          "relation_id": "P461"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q7905582",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q48388241",
+          "relation": "depicted by",
+          "relation_id": "P1299"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q131587983",
+          "relation": "depicted by",
+          "relation_id": "P1299"
+        },
+        {
+          "source": "Q6581097",
+          "target": "Q131613891",
+          "relation": "depicted by",
+          "relation_id": "P1299"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q8790981",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q17712353",
+          "relation": "position holder",
+          "relation_id": "P1308"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q7925044",
+          "relation": "substitute/deputy/replacement of office/officeholder",
+          "relation_id": "P2098"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q10353659",
+          "relation": "has list",
+          "relation_id": "P2354"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q5589203",
+          "relation": "organization directed by the office or position",
+          "relation_id": "P2389"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q294414",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q17279032",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q5047867",
+          "relation": "official residence",
+          "relation_id": "P263"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q294414",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q42178",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q5784028",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q13301588",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q61022687",
+          "relation": "position holder",
+          "relation_id": "P1308"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q190353",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q193622",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q20680119",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q20680128",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q22010840",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q22135199",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q111365118",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q111365226",
+          "relation": "has part(s)",
+          "relation_id": "P527"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q17477558",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q762844",
+          "target": "Q294462",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q774",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q193622",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q190025",
+          "relation": "named after",
+          "relation_id": "P138"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q118524496",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        }
+      ]
+    },
+    "context_hint": "Salvador S\u00e1nchez Cer\u00e9n citizenship El Salvador",
+    "traversal_hints": "Step 1: Look for the relationship 'country of citizenship' between Q936831 and El Salvador.",
+    "domain": "world_leaders"
+  },
+  {
+    "question": "What is Salvador S\u00e1nchez Cer\u00e9n classified as?",
+    "answer": "human",
+    "entity": "Salvador S\u00e1nchez Cer\u00e9n",
+    "entity_id": "Q936831",
+    "relation": "instance of",
+    "answer_id": "Q5",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q936831"
+        },
+        {
+          "id": "Q1154058",
+          "label": "Quezaltepeque"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q792",
+          "label": "El Salvador"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q878151",
+          "label": "President of El Salvador"
+        },
+        {
+          "id": "Q7925044",
+          "label": "Vice President of El Salvador"
+        },
+        {
+          "id": "Q648924",
+          "label": "Farabundo Mart\u00ed National Liberation Front"
+        },
+        {
+          "id": "Q1321",
+          "label": "Spanish"
+        },
+        {
+          "id": "Q82955",
+          "label": "politician"
+        },
+        {
+          "id": "Q762844",
+          "label": "Order pro Merito Melitensi"
+        },
+        {
+          "id": "Q117384949",
+          "label": "Order of the Five Volcanoes"
+        },
+        {
+          "id": "Q18220463",
+          "label": "Salvador"
+        },
+        {
+          "id": "Q5828987",
+          "label": "2014 Salvadoran presidential election"
+        },
+        {
+          "id": "Q3769299",
+          "label": "human behavior"
+        },
+        {
+          "id": "Q18387795",
+          "label": "perspective-taking"
+        },
+        {
+          "id": "Q95074",
+          "label": "character"
+        },
+        {
+          "id": "Q215627",
+          "label": "person"
+        },
+        {
+          "id": "Q2472587",
+          "label": "people"
+        },
+        {
+          "id": "Q114353657",
+          "label": "Human"
+        },
+        {
+          "id": "Q124542004",
+          "label": "human in the center of cosmos"
+        },
+        {
+          "id": "P18",
+          "label": "image"
+        },
+        {
+          "id": "P19",
+          "label": "place of birth"
+        },
+        {
+          "id": "P20",
+          "label": "place of death"
+        },
+        {
+          "id": "Q294414",
+          "label": "public office"
+        },
+        {
+          "id": "Q42178",
+          "label": "vice president"
+        },
+        {
+          "id": "Q5784028",
+          "label": "Council of Ministers of El Salvador"
+        },
+        {
+          "id": "Q13301588",
+          "label": "Category:Vice presidents of El Salvador"
+        },
+        {
+          "id": "Q61022687",
+          "label": "F\u00e9lix Ulloa, Jr."
+        },
+        {
+          "id": "Q8790981",
+          "label": "Category:Presidents of El Salvador"
+        },
+        {
+          "id": "Q17712353",
+          "label": "Nayib Bukele"
+        },
+        {
+          "id": "Q10353659",
+          "label": "list of presidents of El Salvador"
+        },
+        {
+          "id": "Q5589203",
+          "label": "Government of El Salvador"
+        },
+        {
+          "id": "Q17279032",
+          "label": "elective office"
+        },
+        {
+          "id": "Q5047867",
+          "label": "Casa Presidencial"
+        },
+        {
+          "id": "Q12585",
+          "label": "Latin America"
+        },
+        {
+          "id": "Q27611",
+          "label": "Central America"
+        },
+        {
+          "id": "Q5385",
+          "label": "UTC\u221206:00"
+        },
+        {
+          "id": "Q63286062",
+          "label": "America/El_Salvador"
+        },
+        {
+          "id": "Q1065",
+          "label": "United Nations"
+        },
+        {
+          "id": "Q7809",
+          "label": "UNESCO"
+        },
+        {
+          "id": "Q7817",
+          "label": "World Health Organization"
+        },
+        {
+          "id": "Q7825",
+          "label": "World Trade Organization"
+        },
+        {
+          "id": "Q8475",
+          "label": "Interpol"
+        },
+        {
+          "id": "Q17495",
+          "label": "Universal Postal Union UPU"
+        },
+        {
+          "id": "Q5968650",
+          "label": "labourism"
+        },
+        {
+          "id": "Q11900614",
+          "label": "left-wing populism"
+        },
+        {
+          "id": "Q6008488",
+          "label": "Medardo Gonz\u00e1lez"
+        },
+        {
+          "id": "Q8443414",
+          "label": "Category:Farabundo Mart\u00ed National Liberation Front politicians"
+        },
+        {
+          "id": "Q7278",
+          "label": "political party"
+        },
+        {
+          "id": "Q3110",
+          "label": "San Salvador"
+        },
+        {
+          "id": "Q1024114",
+          "label": "Permanent Conference of Political Parties of Latin America and the Caribbean"
+        },
+        {
+          "id": "Q2915940",
+          "label": "S\u00e3o Paulo Forum"
+        },
+        {
+          "id": "Q7248622",
+          "label": "Progressive Alliance"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q936831",
+          "target": "Q1154058",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q792",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q878151",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q7925044",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q648924",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q1321",
+          "relation": "languages spoken, written or signed",
+          "relation_id": "P1412"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q82955",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q762844",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q117384949",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q18220463",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5828987",
+          "relation": "candidacy in election",
+          "relation_id": "P3602"
+        },
+        {
+          "source": "Q792",
+          "target": "Q12585",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q792",
+          "target": "Q27611",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q792",
+          "target": "Q5385",
+          "relation": "located in time zone",
+          "relation_id": "P421"
+        },
+        {
+          "source": "Q792",
+          "target": "Q63286062",
+          "relation": "located in time zone",
+          "relation_id": "P421"
+        },
+        {
+          "source": "Q792",
+          "target": "Q1065",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q792",
+          "target": "Q7809",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q792",
+          "target": "Q7817",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q792",
+          "target": "Q7825",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q792",
+          "target": "Q8475",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q792",
+          "target": "Q17495",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q5",
+          "target": "Q3769299",
+          "relation": "has characteristic",
+          "relation_id": "P1552"
+        },
+        {
+          "source": "Q5",
+          "target": "Q18387795",
+          "relation": "has characteristic",
+          "relation_id": "P1552"
+        },
+        {
+          "source": "Q5",
+          "target": "Q95074",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q215627",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q2472587",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q114353657",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q124542004",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "P18",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q5",
+          "target": "P19",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q5",
+          "target": "P20",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q8790981",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q17712353",
+          "relation": "position holder",
+          "relation_id": "P1308"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q7925044",
+          "relation": "substitute/deputy/replacement of office/officeholder",
+          "relation_id": "P2098"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q10353659",
+          "relation": "has list",
+          "relation_id": "P2354"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q5589203",
+          "relation": "organization directed by the office or position",
+          "relation_id": "P2389"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q294414",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q17279032",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q878151",
+          "target": "Q5047867",
+          "relation": "official residence",
+          "relation_id": "P263"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q294414",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q42178",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q5784028",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q13301588",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q61022687",
+          "relation": "position holder",
+          "relation_id": "P1308"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q5968650",
+          "relation": "political ideology",
+          "relation_id": "P1142"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q11900614",
+          "relation": "political ideology",
+          "relation_id": "P1142"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q6008488",
+          "relation": "general secretary",
+          "relation_id": "P3975"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q8443414",
+          "relation": "member category",
+          "relation_id": "P6365"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q7278",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q3110",
+          "relation": "headquarters location",
+          "relation_id": "P159"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q1024114",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q2915940",
+          "relation": "member of",
+          "relation_id": "P463"
+        },
+        {
+          "source": "Q648924",
+          "target": "Q7248622",
+          "relation": "member of",
+          "relation_id": "P463"
+        }
+      ]
+    },
+    "context_hint": "Salvador S\u00e1nchez Cer\u00e9n instance of human",
+    "traversal_hints": "Step 1: Look for the relationship 'instance of' between Q936831 and human.",
+    "domain": "world_leaders"
+  },
+  {
+    "question": "What official role has Salvador S\u00e1nchez Cer\u00e9n occupied?",
+    "answer": "Vice President of El Salvador",
+    "entity": "Salvador S\u00e1nchez Cer\u00e9n",
+    "entity_id": "Q936831",
+    "relation": "position held",
+    "answer_id": "Q7925044",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q936831"
+        },
+        {
+          "id": "Q1154058",
+          "label": "Quezaltepeque"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q792",
+          "label": "El Salvador"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q878151",
+          "label": "President of El Salvador"
+        },
+        {
+          "id": "Q7925044",
+          "label": "Vice President of El Salvador"
+        },
+        {
+          "id": "Q648924",
+          "label": "Farabundo Mart\u00ed National Liberation Front"
+        },
+        {
+          "id": "Q1321",
+          "label": "Spanish"
+        },
+        {
+          "id": "Q82955",
+          "label": "politician"
+        },
+        {
+          "id": "Q762844",
+          "label": "Order pro Merito Melitensi"
+        },
+        {
+          "id": "Q117384949",
+          "label": "Order of the Five Volcanoes"
+        },
+        {
+          "id": "Q18220463",
+          "label": "Salvador"
+        },
+        {
+          "id": "Q5828987",
+          "label": "2014 Salvadoran presidential election"
+        },
+        {
+          "id": "Q56061",
+          "label": "administrative territorial entity"
+        },
+        {
+          "id": "Q486972",
+          "label": "human settlement"
+        },
+        {
+          "id": "Q127499753",
+          "label": "district of El Salvador"
+        },
+        {
+          "id": "Q127639689",
+          "label": "Northern La Libertad"
+        },
+        {
+          "id": "Q5385",
+          "label": "UTC\u221206:00"
+        },
+        {
+          "id": "Q104518900",
+          "label": "Category:Quezaltepeque, El Salvador"
+        },
+        {
+          "id": "Q32410325",
+          "label": "Q32410325"
+        },
+        {
+          "id": "Q116050899",
+          "label": "Q116050899"
+        },
+        {
+          "id": "Q774",
+          "label": "Guatemala"
+        },
+        {
+          "id": "Q193622",
+          "label": "order"
+        },
+        {
+          "id": "Q190025",
+          "label": "Federal Republic of Central America"
+        },
+        {
+          "id": "Q118524496",
+          "label": "Category:Orden de los Cinco Volcanes"
+        },
+        {
+          "id": "Q3769299",
+          "label": "human behavior"
+        },
+        {
+          "id": "Q18387795",
+          "label": "perspective-taking"
+        },
+        {
+          "id": "Q95074",
+          "label": "character"
+        },
+        {
+          "id": "Q215627",
+          "label": "person"
+        },
+        {
+          "id": "Q2472587",
+          "label": "people"
+        },
+        {
+          "id": "Q114353657",
+          "label": "Human"
+        },
+        {
+          "id": "Q124542004",
+          "label": "human in the center of cosmos"
+        },
+        {
+          "id": "P18",
+          "label": "image"
+        },
+        {
+          "id": "P19",
+          "label": "place of birth"
+        },
+        {
+          "id": "P20",
+          "label": "place of death"
+        },
+        {
+          "id": "Q294414",
+          "label": "public office"
+        },
+        {
+          "id": "Q42178",
+          "label": "vice president"
+        },
+        {
+          "id": "Q5784028",
+          "label": "Council of Ministers of El Salvador"
+        },
+        {
+          "id": "Q13301588",
+          "label": "Category:Vice presidents of El Salvador"
+        },
+        {
+          "id": "Q61022687",
+          "label": "F\u00e9lix Ulloa, Jr."
+        },
+        {
+          "id": "Q112679286",
+          "label": "presidential election in El Salvador"
+        },
+        {
+          "id": "Q2985472",
+          "label": "2009 Salvadoran presidential election"
+        },
+        {
+          "id": "Q54849954",
+          "label": "2019 Salvadoran presidential election"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q936831",
+          "target": "Q1154058",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q792",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q878151",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q7925044",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q648924",
+          "relation": "member of political party",
+          "relation_id": "P102"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q1321",
+          "relation": "languages spoken, written or signed",
+          "relation_id": "P1412"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q82955",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q762844",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q117384949",
+          "relation": "award received",
+          "relation_id": "P166"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q18220463",
+          "relation": "given name",
+          "relation_id": "P735"
+        },
+        {
+          "source": "Q936831",
+          "target": "Q5828987",
+          "relation": "candidacy in election",
+          "relation_id": "P3602"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q56061",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q486972",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q127499753",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q127639689",
+          "relation": "capital of",
+          "relation_id": "P1376"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q5385",
+          "relation": "located in time zone",
+          "relation_id": "P421"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q104518900",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q32410325",
+          "relation": "category for people born here",
+          "relation_id": "P1464"
+        },
+        {
+          "source": "Q1154058",
+          "target": "Q116050899",
+          "relation": "category for people who died here",
+          "relation_id": "P1465"
+        },
+        {
+          "source": "Q5",
+          "target": "Q3769299",
+          "relation": "has characteristic",
+          "relation_id": "P1552"
+        },
+        {
+          "source": "Q5",
+          "target": "Q18387795",
+          "relation": "has characteristic",
+          "relation_id": "P1552"
+        },
+        {
+          "source": "Q5",
+          "target": "Q95074",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q215627",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q2472587",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q114353657",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "Q124542004",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q5",
+          "target": "P18",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q5",
+          "target": "P19",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q5",
+          "target": "P20",
+          "relation": "properties for this type",
+          "relation_id": "P1963"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q792",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q294414",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q42178",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q5784028",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q13301588",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q7925044",
+          "target": "Q61022687",
+          "relation": "position holder",
+          "relation_id": "P1308"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q774",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q193622",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q190025",
+          "relation": "named after",
+          "relation_id": "P138"
+        },
+        {
+          "source": "Q117384949",
+          "target": "Q118524496",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q792",
+          "relation": "applies to jurisdiction",
+          "relation_id": "P1001"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q112679286",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q2985472",
+          "relation": "follows",
+          "relation_id": "P155"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q54849954",
+          "relation": "followed by",
+          "relation_id": "P156"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q878151",
+          "relation": "office contested",
+          "relation_id": "P541"
+        },
+        {
+          "source": "Q5828987",
+          "target": "Q936831",
+          "relation": "successful candidate",
+          "relation_id": "P991"
+        }
+      ]
+    },
+    "context_hint": "Salvador S\u00e1nchez Cer\u00e9n position held Vice President of El Salvador",
+    "traversal_hints": "Step 1: Look for the relationship 'position held' between Q936831 and Vice President of El Salvador.",
+    "domain": "world_leaders"
+  }
+]

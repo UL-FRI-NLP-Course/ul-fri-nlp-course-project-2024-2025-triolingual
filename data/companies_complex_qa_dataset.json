@@ -1,0 +1,1546 @@
+[
+  {
+    "question": "What category does UBS belong to?",
+    "answer": "public company",
+    "entity": "UBS",
+    "entity_id": "Q193199",
+    "relation": "instance of",
+    "answer_id": "Q891723",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q193199"
+        },
+        {
+          "id": "Q7217980",
+          "label": "Category:UBS"
+        },
+        {
+          "id": "Q115120676",
+          "label": "Colm Kelleher"
+        },
+        {
+          "id": "Q568041",
+          "label": "universal bank"
+        },
+        {
+          "id": "Q3487910",
+          "label": "Swiss Bank Corporation"
+        },
+        {
+          "id": "Q6881495",
+          "label": "Union Bank of Switzerland"
+        },
+        {
+          "id": "Q693737",
+          "label": "Aktiengesellschaft"
+        },
+        {
+          "id": "Q2311",
+          "label": "Airbus SE"
+        },
+        {
+          "id": "Q100012",
+          "label": "Polybahn"
+        },
+        {
+          "id": "Q278810",
+          "label": "Pennon Group"
+        },
+        {
+          "id": "Q7072432",
+          "label": "ODS Tower"
+        },
+        {
+          "id": "Q18394708",
+          "label": "Wealthfront"
+        },
+        {
+          "id": "Q29882781",
+          "label": "Ch\u00e2teau Wolfsberg with Parquin House and chapel"
+        },
+        {
+          "id": "Q42378",
+          "label": "Universal Serial Bus"
+        },
+        {
+          "id": "Q819089",
+          "label": "Berezin UB"
+        },
+        {
+          "id": "Q55",
+          "label": "Netherlands"
+        },
+        {
+          "id": "Q142",
+          "label": "France"
+        },
+        {
+          "id": "Q206361",
+          "label": "concern"
+        },
+        {
+          "id": "Q891723",
+          "label": "public company"
+        },
+        {
+          "id": "Q4830453",
+          "label": "business"
+        },
+        {
+          "id": "Q6881511",
+          "label": "enterprise"
+        },
+        {
+          "id": "Q1436777",
+          "label": "Sociedad Estatal de Participaciones Industriales"
+        },
+        {
+          "id": "Q7392048",
+          "label": "SOGEPA"
+        },
+        {
+          "id": "Q18287094",
+          "label": "Gesellschaft zur Beteiligungsverwaltung mbH & Co. KG"
+        },
+        {
+          "id": "Q165765",
+          "label": "Dornier"
+        },
+        {
+          "id": "Q145",
+          "label": "United Kingdom"
+        },
+        {
+          "id": "Q522617",
+          "label": "Invesco"
+        },
+        {
+          "id": "Q637440",
+          "label": "Lazard"
+        },
+        {
+          "id": "Q691481",
+          "label": "The Pictet Group"
+        },
+        {
+          "id": "Q1470848",
+          "label": "Legal & General"
+        },
+        {
+          "id": "Q2843129",
+          "label": "Ameriprise Financial"
+        },
+        {
+          "id": "Q10541491",
+          "label": "legal form"
+        },
+        {
+          "id": "Q19588327",
+          "label": "type of legal entity in Switzerland"
+        },
+        {
+          "id": "Q2012796",
+          "label": "Swiss Code of Obligations"
+        },
+        {
+          "id": "Q155076",
+          "label": "juridical person"
+        },
+        {
+          "id": "Q22084735",
+          "label": "Aktiengesellschaft"
+        },
+        {
+          "id": "Q39",
+          "label": "Switzerland"
+        },
+        {
+          "id": "Q72",
+          "label": "Zurich"
+        },
+        {
+          "id": "Q43015",
+          "label": "finance"
+        },
+        {
+          "id": "Q806664",
+          "label": "Bank in Winterthur"
+        },
+        {
+          "id": "Q1557704",
+          "label": "Toggenburger Bank"
+        },
+        {
+          "id": "Q142031",
+          "label": "funicular"
+        },
+        {
+          "id": "Q131873273",
+          "label": "UBS-Polybahn AG"
+        },
+        {
+          "id": "Q11943",
+          "label": "Canton of Z\u00fcrich"
+        },
+        {
+          "id": "Q682070",
+          "label": "Verkehrsbetriebe Z\u00fcrich"
+        },
+        {
+          "id": "Q11942",
+          "label": "ETH Zurich"
+        },
+        {
+          "id": "Q201977",
+          "label": "Zurich Transport Network"
+        },
+        {
+          "id": "Q1053678",
+          "label": "Central"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q193199",
+          "target": "Q7217980",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q115120676",
+          "relation": "director / manager",
+          "relation_id": "P1037"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q568041",
+          "relation": "product or material produced",
+          "relation_id": "P1056"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q3487910",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q6881495",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q693737",
+          "relation": "legal form",
+          "relation_id": "P1454"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q2311",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q100012",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q278810",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q7072432",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q18394708",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q29882781",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q42378",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q819089",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q39",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q4830453",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q72",
+          "relation": "headquarters location",
+          "relation_id": "P159"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q43015",
+          "relation": "industry",
+          "relation_id": "P452"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q806664",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q1557704",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q193199",
+          "relation": "replaced by",
+          "relation_id": "P1366"
+        },
+        {
+          "source": "Q693737",
+          "target": "Q10541491",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q693737",
+          "target": "Q19588327",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q693737",
+          "target": "Q2012796",
+          "relation": "main regulatory text",
+          "relation_id": "P92"
+        },
+        {
+          "source": "Q693737",
+          "target": "Q155076",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q693737",
+          "target": "Q22084735",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q693737",
+          "target": "Q39",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q55",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q142",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q206361",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q891723",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q4830453",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q6881511",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q1436777",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q7392048",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q18287094",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q165765",
+          "relation": "follows",
+          "relation_id": "P155"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q39",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q142031",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q131873273",
+          "relation": "operator",
+          "relation_id": "P137"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q72",
+          "relation": "located in the administrative territorial entity",
+          "relation_id": "P131"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q11943",
+          "relation": "located in the administrative territorial entity",
+          "relation_id": "P131"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q682070",
+          "relation": "operator",
+          "relation_id": "P137"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q11942",
+          "relation": "named after",
+          "relation_id": "P138"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q201977",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q1053678",
+          "relation": "terminus",
+          "relation_id": "P559"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q145",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q891723",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q4830453",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q6881511",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q193199",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q522617",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q637440",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q691481",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q1470848",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q278810",
+          "target": "Q2843129",
+          "relation": "owned by",
+          "relation_id": "P127"
+        }
+      ]
+    },
+    "context_hint": "UBS instance of public company",
+    "traversal_hints": "Step 1: Look for the relationship 'owner of' between Q193199 and Airbus SE.\nStep 2: Look for the relationship 'instance of' between Airbus SE and public company.",
+    "domain": "companies"
+  },
+  {
+    "question": "Where is the main office of UBS?",
+    "answer": "Zurich",
+    "entity": "UBS",
+    "entity_id": "Q193199",
+    "relation": "headquarters location",
+    "answer_id": "Q72",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q193199"
+        },
+        {
+          "id": "Q7217980",
+          "label": "Category:UBS"
+        },
+        {
+          "id": "Q115120676",
+          "label": "Colm Kelleher"
+        },
+        {
+          "id": "Q568041",
+          "label": "universal bank"
+        },
+        {
+          "id": "Q3487910",
+          "label": "Swiss Bank Corporation"
+        },
+        {
+          "id": "Q6881495",
+          "label": "Union Bank of Switzerland"
+        },
+        {
+          "id": "Q693737",
+          "label": "Aktiengesellschaft"
+        },
+        {
+          "id": "Q2311",
+          "label": "Airbus SE"
+        },
+        {
+          "id": "Q100012",
+          "label": "Polybahn"
+        },
+        {
+          "id": "Q278810",
+          "label": "Pennon Group"
+        },
+        {
+          "id": "Q7072432",
+          "label": "ODS Tower"
+        },
+        {
+          "id": "Q18394708",
+          "label": "Wealthfront"
+        },
+        {
+          "id": "Q29882781",
+          "label": "Ch\u00e2teau Wolfsberg with Parquin House and chapel"
+        },
+        {
+          "id": "Q42378",
+          "label": "Universal Serial Bus"
+        },
+        {
+          "id": "Q819089",
+          "label": "Berezin UB"
+        },
+        {
+          "id": "Q39",
+          "label": "Switzerland"
+        },
+        {
+          "id": "Q751876",
+          "label": "ch\u00e2teau"
+        },
+        {
+          "id": "Q811979",
+          "label": "architectural structure"
+        },
+        {
+          "id": "Q1497375",
+          "label": "architectural ensemble"
+        },
+        {
+          "id": "Q65127",
+          "label": "Ermatingen"
+        },
+        {
+          "id": "Q840829",
+          "label": "baroque architecture"
+        },
+        {
+          "id": "Q14913298",
+          "label": "list of cultural properties in Ermatingen"
+        },
+        {
+          "id": "Q12126757",
+          "label": "class B Swiss cultural property of regional significance"
+        },
+        {
+          "id": "Q97478016",
+          "label": "besonders wertvoll (Thurgau)"
+        },
+        {
+          "id": "Q4167836",
+          "label": "Wikimedia category"
+        },
+        {
+          "id": "Q30",
+          "label": "United States"
+        },
+        {
+          "id": "Q4830453",
+          "label": "business"
+        },
+        {
+          "id": "Q21096079",
+          "label": "Robo-advisor"
+        },
+        {
+          "id": "Q18157110",
+          "label": "Andy Rachleff"
+        },
+        {
+          "id": "Q47265",
+          "label": "Palo Alto"
+        },
+        {
+          "id": "Q837171",
+          "label": "financial services"
+        },
+        {
+          "id": "Q72",
+          "label": "Zurich"
+        },
+        {
+          "id": "Q43015",
+          "label": "finance"
+        },
+        {
+          "id": "Q806664",
+          "label": "Bank in Winterthur"
+        },
+        {
+          "id": "Q1557704",
+          "label": "Toggenburger Bank"
+        },
+        {
+          "id": "Q678018",
+          "label": "Bandon"
+        },
+        {
+          "id": "Q6581097",
+          "label": "male"
+        },
+        {
+          "id": "Q27",
+          "label": "Ireland"
+        },
+        {
+          "id": "Q145",
+          "label": "United Kingdom"
+        },
+        {
+          "id": "Q5",
+          "label": "human"
+        },
+        {
+          "id": "Q623268",
+          "label": "chief financial officer"
+        },
+        {
+          "id": "Q2534525",
+          "label": "chairman of the executive board"
+        },
+        {
+          "id": "Q806798",
+          "label": "banker"
+        },
+        {
+          "id": "Q2961975",
+          "label": "business executive"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q193199",
+          "target": "Q7217980",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q115120676",
+          "relation": "director / manager",
+          "relation_id": "P1037"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q568041",
+          "relation": "product or material produced",
+          "relation_id": "P1056"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q3487910",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q6881495",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q693737",
+          "relation": "legal form",
+          "relation_id": "P1454"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q2311",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q100012",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q278810",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q7072432",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q18394708",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q29882781",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q42378",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q819089",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q7217980",
+          "target": "Q4167836",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q7217980",
+          "target": "Q193199",
+          "relation": "category's main topic",
+          "relation_id": "P301"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q678018",
+          "relation": "place of birth",
+          "relation_id": "P19"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q6581097",
+          "relation": "sex or gender",
+          "relation_id": "P21"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q27",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q145",
+          "relation": "country of citizenship",
+          "relation_id": "P27"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q5",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q623268",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q2534525",
+          "relation": "position held",
+          "relation_id": "P39"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q806798",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q2961975",
+          "relation": "occupation",
+          "relation_id": "P106"
+        },
+        {
+          "source": "Q115120676",
+          "target": "Q193199",
+          "relation": "employer",
+          "relation_id": "P108"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q39",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q4830453",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q72",
+          "relation": "headquarters location",
+          "relation_id": "P159"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q43015",
+          "relation": "industry",
+          "relation_id": "P452"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q806664",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q1557704",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q6881495",
+          "target": "Q193199",
+          "relation": "replaced by",
+          "relation_id": "P1366"
+        },
+        {
+          "source": "Q18394708",
+          "target": "Q30",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q18394708",
+          "target": "Q4830453",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q18394708",
+          "target": "Q21096079",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q18394708",
+          "target": "Q18157110",
+          "relation": "founded by",
+          "relation_id": "P112"
+        },
+        {
+          "source": "Q18394708",
+          "target": "Q193199",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q18394708",
+          "target": "Q47265",
+          "relation": "location of formation",
+          "relation_id": "P740"
+        },
+        {
+          "source": "Q18394708",
+          "target": "Q837171",
+          "relation": "industry",
+          "relation_id": "P452"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q39",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q751876",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q811979",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q1497375",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q193199",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q65127",
+          "relation": "located in the administrative territorial entity",
+          "relation_id": "P131"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q840829",
+          "relation": "architectural style",
+          "relation_id": "P149"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q14913298",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q12126757",
+          "relation": "heritage designation",
+          "relation_id": "P1435"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q97478016",
+          "relation": "heritage designation",
+          "relation_id": "P1435"
+        }
+      ]
+    },
+    "context_hint": "UBS headquarters location Zurich",
+    "traversal_hints": "Step 1: Look for the relationship 'replaces' between Q193199 and Union Bank of Switzerland.\nStep 2: Look for the relationship 'headquarters location' between Union Bank of Switzerland and Zurich.",
+    "domain": "companies"
+  },
+  {
+    "question": "Who leads UBS as CEO?",
+    "answer": "Sergio Ermotti",
+    "entity": "UBS",
+    "entity_id": "Q193199",
+    "relation": "chief executive officer",
+    "answer_id": "Q117289",
+    "graph": {
+      "nodes": [
+        {
+          "id": "Q193199"
+        },
+        {
+          "id": "Q7217980",
+          "label": "Category:UBS"
+        },
+        {
+          "id": "Q115120676",
+          "label": "Colm Kelleher"
+        },
+        {
+          "id": "Q568041",
+          "label": "universal bank"
+        },
+        {
+          "id": "Q3487910",
+          "label": "Swiss Bank Corporation"
+        },
+        {
+          "id": "Q6881495",
+          "label": "Union Bank of Switzerland"
+        },
+        {
+          "id": "Q693737",
+          "label": "Aktiengesellschaft"
+        },
+        {
+          "id": "Q2311",
+          "label": "Airbus SE"
+        },
+        {
+          "id": "Q100012",
+          "label": "Polybahn"
+        },
+        {
+          "id": "Q278810",
+          "label": "Pennon Group"
+        },
+        {
+          "id": "Q7072432",
+          "label": "ODS Tower"
+        },
+        {
+          "id": "Q18394708",
+          "label": "Wealthfront"
+        },
+        {
+          "id": "Q29882781",
+          "label": "Ch\u00e2teau Wolfsberg with Parquin House and chapel"
+        },
+        {
+          "id": "Q42378",
+          "label": "Universal Serial Bus"
+        },
+        {
+          "id": "Q819089",
+          "label": "Berezin UB"
+        },
+        {
+          "id": "Q30",
+          "label": "United States"
+        },
+        {
+          "id": "Q18142",
+          "label": "tower block"
+        },
+        {
+          "id": "Q8063092",
+          "label": "ZGF Architects LLP"
+        },
+        {
+          "id": "Q824",
+          "label": "Oregon"
+        },
+        {
+          "id": "Q39",
+          "label": "Switzerland"
+        },
+        {
+          "id": "Q751876",
+          "label": "ch\u00e2teau"
+        },
+        {
+          "id": "Q811979",
+          "label": "architectural structure"
+        },
+        {
+          "id": "Q1497375",
+          "label": "architectural ensemble"
+        },
+        {
+          "id": "Q65127",
+          "label": "Ermatingen"
+        },
+        {
+          "id": "Q840829",
+          "label": "baroque architecture"
+        },
+        {
+          "id": "Q14913298",
+          "label": "list of cultural properties in Ermatingen"
+        },
+        {
+          "id": "Q12126757",
+          "label": "class B Swiss cultural property of regional significance"
+        },
+        {
+          "id": "Q97478016",
+          "label": "besonders wertvoll (Thurgau)"
+        },
+        {
+          "id": "Q142031",
+          "label": "funicular"
+        },
+        {
+          "id": "Q131873273",
+          "label": "UBS-Polybahn AG"
+        },
+        {
+          "id": "Q72",
+          "label": "Zurich"
+        },
+        {
+          "id": "Q11943",
+          "label": "Canton of Z\u00fcrich"
+        },
+        {
+          "id": "Q682070",
+          "label": "Verkehrsbetriebe Z\u00fcrich"
+        },
+        {
+          "id": "Q11942",
+          "label": "ETH Zurich"
+        },
+        {
+          "id": "Q201977",
+          "label": "Zurich Transport Network"
+        },
+        {
+          "id": "Q1053678",
+          "label": "Central"
+        },
+        {
+          "id": "Q22687",
+          "label": "bank"
+        },
+        {
+          "id": "Q1553482",
+          "label": "specialized bank"
+        },
+        {
+          "id": "Q55",
+          "label": "Netherlands"
+        },
+        {
+          "id": "Q142",
+          "label": "France"
+        },
+        {
+          "id": "Q206361",
+          "label": "concern"
+        },
+        {
+          "id": "Q891723",
+          "label": "public company"
+        },
+        {
+          "id": "Q4830453",
+          "label": "business"
+        },
+        {
+          "id": "Q6881511",
+          "label": "enterprise"
+        },
+        {
+          "id": "Q1436777",
+          "label": "Sociedad Estatal de Participaciones Industriales"
+        },
+        {
+          "id": "Q7392048",
+          "label": "SOGEPA"
+        },
+        {
+          "id": "Q18287094",
+          "label": "Gesellschaft zur Beteiligungsverwaltung mbH & Co. KG"
+        },
+        {
+          "id": "Q165765",
+          "label": "Dornier"
+        }
+      ],
+      "edges": [
+        {
+          "source": "Q193199",
+          "target": "Q7217980",
+          "relation": "topic's main category",
+          "relation_id": "P910"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q115120676",
+          "relation": "director / manager",
+          "relation_id": "P1037"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q568041",
+          "relation": "product or material produced",
+          "relation_id": "P1056"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q3487910",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q6881495",
+          "relation": "replaces",
+          "relation_id": "P1365"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q693737",
+          "relation": "legal form",
+          "relation_id": "P1454"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q2311",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q100012",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q278810",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q7072432",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q18394708",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q29882781",
+          "relation": "owner of",
+          "relation_id": "P1830"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q42378",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q193199",
+          "target": "Q819089",
+          "relation": "different from",
+          "relation_id": "P1889"
+        },
+        {
+          "source": "Q568041",
+          "target": "Q22687",
+          "relation": "subclass of",
+          "relation_id": "P279"
+        },
+        {
+          "source": "Q568041",
+          "target": "Q1553482",
+          "relation": "opposite of",
+          "relation_id": "P461"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q55",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q142",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q206361",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q891723",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q4830453",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q6881511",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q1436777",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q7392048",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q18287094",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q2311",
+          "target": "Q165765",
+          "relation": "follows",
+          "relation_id": "P155"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q39",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q142031",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q131873273",
+          "relation": "operator",
+          "relation_id": "P137"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q72",
+          "relation": "located in the administrative territorial entity",
+          "relation_id": "P131"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q11943",
+          "relation": "located in the administrative territorial entity",
+          "relation_id": "P131"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q682070",
+          "relation": "operator",
+          "relation_id": "P137"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q11942",
+          "relation": "named after",
+          "relation_id": "P138"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q201977",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q100012",
+          "target": "Q1053678",
+          "relation": "terminus",
+          "relation_id": "P559"
+        },
+        {
+          "source": "Q7072432",
+          "target": "Q30",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q7072432",
+          "target": "Q18142",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q7072432",
+          "target": "Q8063092",
+          "relation": "architect",
+          "relation_id": "P84"
+        },
+        {
+          "source": "Q7072432",
+          "target": "Q193199",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q7072432",
+          "target": "Q824",
+          "relation": "located in the administrative territorial entity",
+          "relation_id": "P131"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q39",
+          "relation": "country",
+          "relation_id": "P17"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q751876",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q811979",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q1497375",
+          "relation": "instance of",
+          "relation_id": "P31"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q193199",
+          "relation": "owned by",
+          "relation_id": "P127"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q65127",
+          "relation": "located in the administrative territorial entity",
+          "relation_id": "P131"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q840829",
+          "relation": "architectural style",
+          "relation_id": "P149"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q14913298",
+          "relation": "part of",
+          "relation_id": "P361"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q12126757",
+          "relation": "heritage designation",
+          "relation_id": "P1435"
+        },
+        {
+          "source": "Q29882781",
+          "target": "Q97478016",
+          "relation": "heritage designation",
+          "relation_id": "P1435"
+        }
+      ]
+    },
+    "context_hint": "UBS chief executive officer Sergio Ermotti",
+    "traversal_hints": "No clear path found in the knowledge graph.",
+    "domain": "companies"
+  }
+]
