@@ -20,7 +20,7 @@ def embed_query(query, model_name="all-MiniLM-L6-v2"):
     faiss.normalize_L2(emb)
     return emb
 
-def retrieve_facts(query, index, metadata, top_k=3):
+def retrieve_facts(query, index, metadata, top_k=10):
     query_emb = embed_query(query)
     distances, indices = index.search(query_emb, top_k)  # get closest facts
     results = [metadata[i] for i in indices[0]]
@@ -80,6 +80,38 @@ def rag_generate(handler, query, index, metadata, use_rag=False):
     return handler.generate(prompt)
 
 
+def evaluate_rag(handler, index, metadata, qa_path, use_rag=True):
+    with open(qa_path, "r", encoding="utf-8") as f:
+        qa_pairs = json.load(f)
+
+    print(qa_pairs)
+    print(qa_pairs[0])
+    #qa_pairs = qa_pairs[0]
+    qa_pairs = qa_pairs[:30]
+
+
+    results = []
+
+    for entry in qa_pairs:
+        question = entry["question"]
+        ground_truth = entry["answer"]
+
+        print(f"\n---\nQuestion: {question}")
+        response = rag_generate(handler, question, index, metadata, use_rag=use_rag)
+        print(f"Ground Truth: {ground_truth}")
+        print(f"Model Answer: {response}")
+
+        results.append({
+            "question": question,
+            "ground_truth": ground_truth,
+            "predicted": response
+        })
+
+        
+    with open("rag_eval_results.json", "w", encoding="utf-8") as f:
+        json.dump(results, f, indent=2, ensure_ascii=False)
+
+
 if __name__ == "__main__":
 
     handler = Mistral7BHandler()
@@ -87,13 +119,17 @@ if __name__ == "__main__":
     index = load_index("../data/leaders_index.faiss")
     metadata = load_metadata("../data/leaders_metadata.json")
 
-    prompt = "Who is the Leader of Slovenia?"
-    print("Prompt: \n", prompt)
-    output = handler.generate(prompt)
-    print("Model Output:\n", output)
+    qa_path = r"../data/qa_eval_data.json"
 
-    output = rag_generate(handler, prompt, index, metadata, use_rag=True)
-    print("Model Output RAG:\n", output)
+    evaluate_rag(handler, index, metadata, qa_path)
+
+    #prompt = "Who is the Leader of Slovenia?"
+    #print("Prompt: \n", prompt)
+    #output = handler.generate(prompt)
+    #print("Model Output:\n", output)
+
+    #output = rag_generate(handler, prompt, index, metadata, use_rag=True)
+    #print("Model Output RAG:\n", output)
 
 
 
