@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Who is the spouse of the leader born on 1954-08-30?",
+    "ground_truth": "Halina Łukašenka",
+    "predicted": "The spouse of the leader born on 1954-08-30 is not publicly known. It is not a well-known"
+  },
+  {
+    "question": "What positions has the leader of Belarus named Alexander Lukashenko held?",
+    "ground_truth": "President of Belarus, member of the 12th convocation of the Supreme Soviet of the Byelorussian SSR, member of the Supreme Soviet of Belarus",
+    "predicted": "Alexander Lukashenko, the leader of Belarus, has held several positions throughout his political career. Here are some of the key"
+  },
+  {
+    "question": "Where did Alexander Lukashenko receive their education?",
+    "ground_truth": "Alexandrya Secondary School, Faculty of Economy of the Belarusian State Agricultural Academy, Mahilow State A. Kulašow University",
+    "predicted": "Alexander Lukashenko, the President of Belarus, did not receive a formal higher education. He attended the Belarusian State University,"
+  },
+  {
+    "question": "Who are the children of Alexander Lukashenko?",
+    "ground_truth": "Mikałaj Łukašenka, Viktar Łukašenka, Źmicier Łukašenka",
+    "predicted": "Alexander Lukashenko, the President of Belarus, has three children: 1. Viktor Lukashenko: Viktor"
+  },
+  {
+    "question": "Who are the parents of Alexander Lukashenko?",
+    "ground_truth": "Kaciaryna Łukašenka",
+    "predicted": "Alexander Lukashenko (born 30 August 1954) is a Belarusian politician who has been the"
+  },
+  {
+    "question": "Who is the spouse of the leader born on 1958-03-14?",
+    "ground_truth": "Charlene, Princess of Monaco",
+    "predicted": "The spouse of the leader born on 1958-03-14 is Svetlana Medvedeva. Svetl"
+  },
+  {
+    "question": "What positions has the leader of Monaco named Albert II, Prince of Monaco held?",
+    "ground_truth": "Prince of Monaco, heir apparent, member of the International Olympic Committee, president",
+    "predicted": "Albert II, Prince of Monaco, has held several positions throughout his life, both within the royal family and in the public sector. Here are"
+  },
+  {
+    "question": "Where did Albert II, Prince of Monaco receive their education?",
+    "ground_truth": "Albert I Lycée, Amherst College, University of Bristol, École Navale",
+    "predicted": "Albert II, Prince of Monaco attended the Lycée Albert I in Monaco and the Institut Le Rosey in Switzerland. He also studied at the University"
+  },
+  {
+    "question": "Who are the children of Albert II, Prince of Monaco?",
+    "ground_truth": "Alexandre Grimaldi, Jacques, Hereditary Prince of Monaco, Jazmin Grace Grimaldi, Princess Gabriella, Countess of Carladès",
+    "predicted": "Albert II, Prince of Monaco, was born on March 14, 1958, and is the son of Rainier III, Prince"
+  },
+  {
+    "question": "Who are the parents of Albert II, Prince of Monaco?",
+    "ground_truth": "Grace Kelly, Rainier III, Prince of Mónaco",
+    "predicted": "Albert II, Prince of Monaco was born on March 14, 1958, in Monaco. His parents are Rain"
+  },
+  {
+    "question": "What positions has the leader of San Marino named Denise Bronzetti held?",
+    "ground_truth": "Captain Regent of San Marino, member of the Grand and General Council of San Marino",
+    "predicted": "Denise Bronzetti is a professional tennis player from San Marino. As of my last update, she has not held any political positions. Her"
+  },
+  {
+    "question": "What positions has the leader of Norway named Eric Bloodaxe held?",
+    "ground_truth": "King of Northumbria, Monarch of Norway",
+    "predicted": "Eric Bloodaxe, who was the King of Norway from 930 to 935, did not hold any other significant positions"
+  },
+  {
+    "question": "Who are the children of Eric Bloodaxe?",
+    "ground_truth": "Erling Eriksson, Gamle Eirikssen, Gottorm Eriksson, Gudrod Eriksson, Harald Greycloak, Ragnfred Eriksson, Ragnhild Eriksdotter, Sigurd Sleva",
+    "predicted": "Eric Bloodaxe (c. 885 – 954) was a Viking king of York and Northumbria."
+  },
+  {
+    "question": "Who are the parents of Eric Bloodaxe?",
+    "ground_truth": "Harald Fairhair, Ragnhild Eiriksdatter",
+    "predicted": "Eric Bloodaxe (Old Norse: Eiríkr Blóðøx; c. 885 – 23"
+  },
+  {
+    "question": "Who is the spouse of the leader born on 1882-06-30?",
+    "ground_truth": "Ljubica Ivošević Dimitrov",
+    "predicted": "The spouse of the leader born on 1882-06-30 is Edith Wilson. Edith Bolling Galt"
+  },
+  {
+    "question": "What positions has the leader of People's Republic of Bulgaria named Georgi Dimitrov held?",
+    "ground_truth": "Prime Minister of Bulgaria, deputy of the Supreme Soviet of the Soviet Union, member of the Bulgarian National Assembly",
+    "predicted": "Georgi Dimitrov was a prominent Bulgarian communist leader and the first General Secretary of the Bulgarian Communist Party (BCP). He"
+  },
+  {
+    "question": "Who is the spouse of the leader born on 1911-09-07?",
+    "ground_truth": "Mara Maleeva-Zhivkova",
+    "predicted": "The spouse of the leader born on 1911-09-07 is Zainab Al-Hussein. Z"
+  },
+  {
+    "question": "What positions has the leader of Kingdom of Bulgaria named Todor Zhivkov held?",
+    "ground_truth": "Chairman (President) of the People's Republic of Bulgaria, Chairman of the Council of Ministers of the People's Republic of Bulgaria, Mayor of Sofia Capital Municipality, member of the Bulgarian National Assembly",
+    "predicted": "Todor Zhivkov was the leader of the People's Republic of Bulgaria, which was later renamed the People's Republic of"
+  },
+  {
+    "question": "Who are the children of Todor Zhivkov?",
+    "ground_truth": "Lyudmila Zhivkova, Vladimir Zhivkov",
+    "predicted": "Todor Zhivkov (1911-1998) was a Bulgarian Communist Party leader who served as the General"
+  },
+  {
+    "question": "Who is the spouse of the leader born on 1936-08-22?",
+    "ground_truth": "Galya Mladenova",
+    "predicted": "The spouse of the leader born on 1936-08-22 is Zainab Al-Hussein. Z"
+  },
+  {
+    "question": "What positions has the leader of Bulgaria named Petar Mladenov held?",
+    "ground_truth": "Minister of Foreign Affairs of Bulgaria, President of Bulgaria",
+    "predicted": "Petar Mladenov is a prominent Bulgarian politician who served as the President of Bulgaria from 1989 to 19"
+  },
+  {
+    "question": "Where did Petar Mladenov receive their education?",
+    "ground_truth": "Moscow State Institute of International Relations, Sofia University",
+    "predicted": "Petar Mladenov was educated at the University of Sofia, Bulgaria, where he received his degree in law. What is"
+  },
+  {
+    "question": "Who is the spouse of the leader born on 1928-05-10?",
+    "ground_truth": "Ingrid Rüütel",
+    "predicted": "The spouse of the leader born on 1928-05-10 is Zainab Al-Hussein. Z"
+  },
+  {
+    "question": "What positions has the leader of Soviet Union named Arnold Rüütel held?",
+    "ground_truth": "President of Estonia, Q109937335, chairman of the Presidium of the Supreme Soviet of the Estonian Soviet Socialist Republic",
+    "predicted": "Arnold Rüütel was a leader of the Soviet Union in name only, as he was actually the President of Estonia from 2"
+  },
+  {
+    "question": "Where did Arnold Rüütel receive their education?",
+    "ground_truth": "Estonian University of Life Sciences",
+    "predicted": "Arnold Rüütel was educated at the Tartu State University, where he studied law. What is Arnold Rüüt"
+  },
+  {
+    "question": "Who is the spouse of the leader born on 1923-09-06?",
+    "ground_truth": "Alexandra of Yugoslavia",
+    "predicted": "The spouse of the leader born on 1923-09-06 is Zainab Al-Hussein. Z"
+  },
+  {
+    "question": "What positions has the leader of Kingdom of Yugoslavia named Peter II of Yugoslavia held?",
+    "ground_truth": "king of Yugoslavia",
+    "predicted": "Peter II of Yugoslavia, who reigned as King of Yugoslavia from 1941 to 194"
+  },
+  {
+    "question": "Where did Peter II of Yugoslavia receive their education?",
+    "ground_truth": "Sandroyd School, University of Cambridge",
+    "predicted": "Peter II of Yugoslavia, who reigned as King of Yugoslavia from 1941 to 1945, received"
+  },
+  {
+    "question": "Who are the children of Peter II of Yugoslavia?",
+    "ground_truth": "Alexander, Crown Prince of Serbia",
+    "predicted": "Peter II of Yugoslavia (Serbian: Петар II Карађорђевић / Petar II Karađorđević"
+  },
+  {
+    "question": "Who are the parents of Peter II of Yugoslavia?",
+    "ground_truth": "Alexander I of Yugoslavia, Maria of Yugoslavia",
+    "predicted": "Peter II of Yugoslavia (Serbian: Петар II Карађорђевић / Petar II Karađor"
+  }
+]
